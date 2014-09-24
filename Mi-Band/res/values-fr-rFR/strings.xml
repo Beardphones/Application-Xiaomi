@@ -1,68 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about">A propos</string>
+    <string name="about">About</string>
     <string name="about_copyright" />
-    <string name="accept">Accepter</string>
-    <string name="action_exit">Quitter</string>
+    <string name="accept">Agree</string>
+    <string name="action_exit">Exit</string>
     <string name="action_local_ota">SD card update</string>
-    <string name="action_pop_about">A propos</string>
-    <string name="action_pop_my_bracelet">Paramètres Mi-Band</string>
-    <string name="action_pop_person_info">Mon Profile</string>
-    <string name="action_pop_smart_alarms">Alarme</string>
-    <string name="action_pop_unlock_screen">"Déverrouillage de l'écran"</string>
-    <string name="action_pop_weixin_enter">Synchro avec WeChat</string>
+    <string name="action_pop_about">About</string>
+    <string name="action_pop_my_bracelet">Mi Band Settings</string>
+    <string name="action_pop_person_info">My Profile</string>
+    <string name="action_pop_smart_alarms">Alarm</string>
+    <string name="action_pop_unlock_screen">Screen Unlock</string>
+    <string name="action_pop_weixin_enter">Sync with Wechat</string>
     <string name="age">Age</string>
-    <string name="ages">Ans</string>
-    <string name="alarm">Alarme</string>
-    <string name="alarm_cycle">Répétez</string>
+    <string name="ages">years</string>
+    <string name="alarm">Alarm</string>
+    <string name="alarm_cycle">Repeat</string>
     <string name="alarm_device_not_connect">Please pair with a Mi Band before set Alarm.</string>
-    <string name="alarm_once">Une fois</string>
-    <string name="alarm_repeat">Répétez</string>
-    <string name="alarm_repeat_title_format">Sélectionné %s</string>
-    <string name="alarm_ring">Alarme</string>
-    <string name="alarm_setting">Paramètres alarme</string>
+    <string name="alarm_once">Once</string>
+    <string name="alarm_repeat">Repeat</string>
+    <string name="alarm_repeat_title_format">Selected %s</string>
+    <string name="alarm_ring">Alarm</string>
+    <string name="alarm_setting">Alarm Setting</string>
     <string name="am">AM</string>
-    <string name="apk_download_ok">Mi-Band app téléchargement complet.</string>
-    <string name="apk_uptodate">Vous utilisez actuellement la dernière version.</string>
-    <string name="app_exit_press_again">Appuyez sur la touche retour pour quitter</string>
+    <string name="apk_download_ok">Mi Band app download complete.</string>
+    <string name="apk_uptodate">You are currently using the latest version.</string>
+    <string name="app_exit_press_again">Tap back key again to exit</string>
     <string name="app_info_version">"Version: %1$s
-Accord: %2$s"</string>
-    <string name="app_name">Mi-Band</string>
-    <string name="awake_format">, éveillé %1$s times.</string>
+Agreement: %2$s"</string>
+    <string name="app_name">Mi Band</string>
+    <string name="awake_format">, awake %1$s times.</string>
     <string name="awake_format_1">, awake once.</string>
-    <string name="back">Retour</string>
-    <string name="battery_charge_full">Batterie chargée</string>
-    <string name="battery_charging">Chargement...</string>
-    <string name="battery_low_info">"Batterie faible, s'il vous plaît recharger".</string>
+    <string name="back">Back</string>
+    <string name="battery_charge_full">Battery charged</string>
+    <string name="battery_charging">Charging...</string>
+    <string name="battery_low_info">Battery low, please charge.</string>
     <string name="before_min">%s min. ago</string>
-    <string name="bin_weixin_device_not_connect">Mi-Band non connecté.</string>
+    <string name="bin_weixin_device_not_connect">Mi Band not connected.</string>
     <string name="bind_bracelet">Found Mi Band</string>
     <string name="bind_bracelet_ok">Paired successfully.</string>
     <string name="bind_new_mili">Pair with new Mi Band</string>
     <string name="bind_weixin_failed">Failed, please retry.</string>
     <string name="bind_weixin_new_disable_tips">"After link with your Wechat account and follow Mi Band's Wechat service account, 
 you can check information like the number of steps taken through Wechat. You can also see your result status among your friends."</string>
-    <string name="bind_weixin_new_now">Synchro avec WeChat, un moment...</string>
-    <string name="bind_weixin_new_tips">"Appuyez lien avec WeChat pour commencer, 
-puis appuyez sur Suivre pour terminer la synchronisation."</string>
-    <string name="bind_weixin_now">Génération du QR code ...</string>
-    <string name="bind_weixin_qrcode_name">Mi-Band QR code</string>
+    <string name="bind_weixin_new_now">Syncing with Wechat, one moment...</string>
+    <string name="bind_weixin_new_tips">"Tap Link with Wechat to start, 
+then tap Follow to complete sync."</string>
+    <string name="bind_weixin_now">Generating QR code ...</string>
+    <string name="bind_weixin_qrcode_name">Mi Band QR code</string>
     <string name="bind_weixin_save">Saved in Gallery,</string>
     <string name="bind_weixin_succ">Successfully linked!</string>
     <string name="bind_weixin_tips_1">Tap Generate QR code, generate and save a QR code in Gallery.</string>
     <string name="bind_weixin_tips_2">Tap Open Wechat, enter Scan QR code and tap Album to select the QR code saved.</string>
     <string name="bind_weixin_title">Sync to share and compete with friends.</string>
-    <string name="blue">Bleu</string>
+    <string name="blue">Blue</string>
     <string name="bluetooth">Bluetooth </string>
-    <string name="bmenu_device">Appareil</string>
-    <string name="bmenu_dynamic">Mise à jour</string>
-    <string name="bmenu_my">Moi</string>
+    <string name="bmenu_device">Devices</string>
+    <string name="bmenu_dynamic">Updates</string>
+    <string name="bmenu_my">Me</string>
     <string name="bracelet_info_battery">%s%%</string>
     <string name="bracelet_info_deviceid">%s</string>
     <string name="bracelet_info_fw_version">"Firmware: %1$s
-Accord: %2$s"</string>
-    <string name="bracelet_info_mac_address">"Nom: %1$s
-Adresse: %2$s"</string>
+Agreement: %2$s"</string>
+    <string name="bracelet_info_mac_address">"Name: %1$s
+Address: %2$s"</string>
     <string name="bracelet_login_info">Mi Cloud will provide professional suggestions based on your activities and sleep performance.</string>
     <string name="bracelet_login_info_2">Login if you agree to </string>
     <string name="bracelet_login_title">Hello, I am Mi Band.</string>
