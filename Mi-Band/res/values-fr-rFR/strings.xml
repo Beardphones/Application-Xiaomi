@@ -15,7 +15,7 @@
     <string name="ages">Ans</string>
     <string name="alarm">Alarme</string>
     <string name="alarm_cycle">Répétez</string>
-    <string name="alarm_device_not_connect">"Veuillez relier un Mi-Band avant de régler l'alarme."</string>
+    <string name="alarm_device_not_connect">"Veuillez appairer un Mi-Band avant de régler l'alarme."</string>
     <string name="alarm_once">Une fois</string>
     <string name="alarm_repeat">Répétez</string>
     <string name="alarm_repeat_title_format">Sélectionné %s</string>
