@@ -215,13 +215,13 @@ Du lundi au dimanche, 8: 00-18: 00"</string>
     <string name="help_title_3">Le Mi-Band a-t-il été appairé avec un notre téléphone ?</string>
     <string name="hot_des">Énergie</string>
     <string name="hour_1" />
-    <string name="">A </string>
+    <string name="in">A </string>
     <string name="incoming_call_notify">Appel entrant</string>
     <string name="incoming_call_notify_tips">Notice me if I miss incoming call in %s sec.</string>
     <string name="input_precise_person_info">Please enter your personal information. More details will help to get precise results.</string>
     <string name="instruction_tip_1">"Take a look 
 find out your work out
-progress"</string>in
+progress"</string>
     <string name="instruction_tip_2_1">"Steps count
  is less than 
 1/3 of your goal"</string>
