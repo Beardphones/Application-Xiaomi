@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about">About</string>
+    <string name="about">A propos</string>
     <string name="about_copyright" />
-    <string name="accept">Agree</string>
-    <string name="action_exit">Exit</string>
-    <string name="action_local_ota">SD card update</string>
-    <string name="action_pop_about">About</string>
-    <string name="action_pop_my_bracelet">Mi Band Settings</string>
-    <string name="action_pop_person_info">My Profile</string>
-    <string name="action_pop_smart_alarms">Alarm</string>
-    <string name="action_pop_unlock_screen">Screen Unlock</string>
-    <string name="action_pop_weixin_enter">Sync with Wechat</string>
+    <string name="accept">Accepter</string>
+    <string name="action_exit">Quitter</string>
+    <string name="action_local_ota">Mise à jour carte SD</string>
+    <string name="action_pop_about">A propos</string>
+    <string name="action_pop_my_bracelet">Paramètres Mi-Band</string>
+    <string name="action_pop_person_info">Mon Profile</string>
+    <string name="action_pop_smart_alarms">Alarme</string>
+    <string name="action_pop_unlock_screen">"Screen Unlock"Déverrouillage de l'écran"</string>
+    <string name="action_pop_weixin_enter">Synchro avec WeChat</string>
     <string name="age">Age</string>
-    <string name="ages">years</string>
-    <string name="alarm">Alarm</string>
+    <string name="ages">Ans</string>
+    <string name="alarm">Alarme</string>
     <string name="alarm_cycle">Repeat</string>
     <string name="alarm_device_not_connect">Please pair with a Mi Band before set Alarm.</string>
     <string name="alarm_once">Once</string>
