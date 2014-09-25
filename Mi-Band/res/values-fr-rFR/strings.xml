@@ -15,7 +15,7 @@
     <string name="ages">Ans</string>
     <string name="alarm">Alarme</string>
     <string name="alarm_cycle">Répétez</string>
-    <string name="alarm_device_not_connect">"Veuillez appairer un Mi-Band avant de configurer l'alarme."</string>
+    <string name="alarm_device_not_connect">"Veuillez relier un Mi-Band avant de régler l'alarme."</string>
     <string name="alarm_once">Une fois</string>
     <string name="alarm_repeat">Répétez</string>
     <string name="alarm_repeat_title_format">Sélectionné %s</string>
@@ -185,7 +185,7 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="fw_upgrade">Mise à jour du Firmware</string>
     <string name="fw_upgrade_failed">La mise à jour du Firmware a échoué.</string>
     <string name="fw_upgrade_failed_tips">Sorry, firmware failed to update. This will disable a part of features.</string>
-    <string name="fw_upgrade_now">Updating firmware ...</string>
+    <string name="fw_upgrade_now">Mise à jour du firmware ...</string>
     <string name="fw_upgrade_progress">Completed %s%%</string>
     <string name="fw_upgrade_succ">Firmware update successfully, waiting to restart...</string>
     <string name="fw_upgrade_tips">Make sure Mi Band stays close to your phone during process.</string>
@@ -217,8 +217,8 @@ Du lundi au dimanche, 8: 00-18: 00"</string>
     <string name="hour_1" />
     <string name="in">A </string>
     <string name="incoming_call_notify">Appel entrant</string>
-    <string name="incoming_call_notify_tips">Notice me if I miss incoming call in %s sec.</string>
-    <string name="input_precise_person_info">Please enter your personal information. More details will help to get precise results.</string>
+    <string name="incoming_call_notify_tips">"M'avertir si je rate un appel après %s sec."</string>
+    <string name="input_precise_person_info">Veuillez indiquer vos informations personnelles. Plus de détails aideront à obtenir des résultats plus précis.</string>
     <string name="instruction_tip_1">"Take a look 
 find out your work out
 progress"</string>
@@ -236,42 +236,42 @@ Goal set"</string>
     <string name="instruction_tip_3">"Power is 
 very low. 
 Please charge Mi Band."</string>
-    <string name="instruction_title">More to do with Mi Band</string>
+    <string name="instruction_title">Mieux utiliser le Mi-Band</string>
     <string name="kg">kg</string>
     <string name="kilogram">kg</string>
     <string name="km">km</string>
     <string name="left_hand">Gauche</string>
-    <string name="light_color">Voyant lumineux de couleur</string>
-    <string name="light_color_title">Indicates light color for the progress of workout</string>
-    <string name="local_app_failed">Failed to obtain current version data.</string>
+    <string name="light_color">Couleur des LEDs</string>
+    <string name="light_color_title">Couleur de la LED de progression</string>
+    <string name="local_app_failed">"Échec dans l'obtention des données de la dernière version."</string>
     <string name="login">Connexion</string>
     <string name="login_failed">Failed to login, please try again.</string>
     <string name="login_failed_check_sys_time">Failed to login, please check your time setting and use the time provided by network.</string>
     <string name="logining">Connexion ...</string>
-    <string name="look_device_list">Search for nearby Mi Band</string>
-    <string name="main_ui_share_tips">"Worked out for %1$s%2$s today.
+    <string name="look_device_list">Rechercher de Mi-Band à proximité</string>
+    <string name="main_ui_share_tips">"Vous avez pratiqué pendant %1$s%2$s aujourd'hui.
 %3$s"</string>
-    <string name="main_ui_sleep_share_tips">"Sommeil léger %1$s%2$s
-Slept in %3$s, woke up at %4$s."</string>
+    <string name="main_ui_sleep_share_tips">"Sommeil léger de %1$s%2$s.
+J'ai dormi à %3$s, et me suis réveillé à %4$s."</string>
     <string name="male">Homme</string>
-    <string name="marathon_format_0">"It's about %1$s marathons."</string>
-    <string name="marathon_format_1">More than %1$s marathons.</string>
-    <string name="mili_exit_login_info">"You are about to log out from current Mi Account.
-Would you like to continue?"</string>
-    <string name="mili_exit_login_info_continue">"Failed to sync, please check network connection. 
-If you choose to exit, you will loss data that hasn't been synced. Are you sure to exit?"</string>
-    <string name="mili_exit_login_info_continue_tip">Are you sure to continue?</string>
-    <string name="mili_exit_login_info_exiting">Logging out ...</string>
-    <string name="mili_exit_login_info_unbind">Exit will disconnect Mi Band with your phone,</string>
-    <string name="mili_exit_login_info_unlock">unlock screen feature will be no longer valid.</string>
+    <string name="marathon_format_0">"Il s'agit de %1$s marathons."</string>
+    <string name="marathon_format_1">Plus de %1$s marathons.</string>
+    <string name="mili_exit_login_info">"Vous êtes sur le point de vous déconnecter de votre compte Mi courant
+Voulez-vous continuer ?"</string>
+    <string name="mili_exit_login_info_continue">"Échec de la synchronisation, veuillez vérifier la connexion réseau.
+Si vous choisissez de quitter maintenant, vous allez perdre les données non synchronisées. Êtes-vous sur de vouloir quitter ?"</string>
+    <string name="mili_exit_login_info_continue_tip">Êtes-vous sûr de continuer ?</string>
+    <string name="mili_exit_login_info_exiting">Déconnexion ...</string>
+    <string name="mili_exit_login_info_unbind">Êtes-vous sur de vouloir quitter ? Le Mi Band sera déconnecté de votre téléphone.</string>
+    <string name="mili_exit_login_info_unlock">"La fonction de déverrouillage de l'écran ne sera plus active."</string>
     <string name="mili_name">Nom Mi-Band</string>
-    <string name="mili_name_too_long">Name is too long, please change.</string>
-    <string name="mili_rename_fail">"Failed to update Mi Band's name."</string>
-    <string name="mili_reset_info">"We are about to clean up data from this Mi Band and reset it to factory settings. 
-Are you sure to continue?"</string>
-    <string name="mili_unbind_question">Your phone will no longer have access to data from Mi Band once they are unpaired.</string>
-    <string name="mili_unbind_question_content">Once you unpair Mi Band with your phone, you may pair another Mi Band with it.</string>
-    <string name="mili_unbind_question_content_1">In addition, you are no longer able to unlock your screen with this Mi Band once you unpair them.</string>
+    <string name="mili_name_too_long">Le nom est trop long, veuillez le changer.</string>
+    <string name="mili_rename_fail">Échec dans la mis à jour du nom du Mi-Band.</string>
+    <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi Band et réinitialiser les paramètres d'usine. 
+Êtes-vous sûr de vouloir continuer ?"</string>
+    <string name="mili_unbind_question">"Votre téléphone n'aura plus accès aux données du Mi-Band une fois qu'ils seront dissocier."</string>
+    <string name="mili_unbind_question_content">"Une fois que vous avez dissocier votre téléphone avec le Mi-Band, vous pouvez l'appairer avec un autre Mi-Band."</string>
+    <string name="mili_unbind_question_content_1">Si vous avez configurer le déverrouillage du téléphone avec le Mi-Band, vous ne serez plus en mesure de déverrouiller votre téléphone avec le Mi-Band une fois que vous les aurez dissocier.</string>
     <string name="minute" />
     <string name="modify_gender">Sexe</string>
     <string name="modify_height">Taille</string>
@@ -282,10 +282,10 @@ Are you sure to continue?"</string>
     <string name="mon_fri">Lun. à Ven.</string>
     <string name="mon_sat">Lun. à Sam.</string>
     <string name="month">Mois</string>
-    <string name="move_and_capture">Move and Capture</string>
-    <string name="multi_devices_info">Sorry, there are multiple Mi Bands nearby. You can try to move your Mi Band and phone at least 10 meters away from other Mi Bands, then search again.</string>
-    <string name="multi_devices_title">Unable to pair.</string>
-    <string name="network_error">We are unable to connect you to the network, please check your network connection.</string>
+    <string name="move_and_capture">Déplacer et Capturer</string>
+    <string name="multi_devices_info">"Si dans votre voisinage il y a plusieurs Mi-Band. Tenez votre poignet près du téléphone et éloigner l'autre Mi-Band de 10 mètres. Après cela, relancer une recherche."</string>
+    <string name="multi_devices_title">Appairage impossible.</string>
+    <string name="network_error">La connexion au réseau a échoué, veuillez vérifier votre connexion.</string>
     <string name="new_friend_accept">Accepter</string>
     <string name="new_friend_cancel">Refuser</string>
     <string name="new_record_born">Bravo ! Vous venez de réaliser un nouveau record.</string>
@@ -349,10 +349,10 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="s_mili">Mi-Band</string>
     <string name="search_bracelet">Recherche</string>
     <string name="search_bracelet_again">Recherche supplémentaire</string>
-    <string name="search_bracelet_ok">Found a Mi Band!</string>
-    <string name="search_devices_info">Please put on Mi Band and stay close to your phone.</string>
-    <string name="search_devices_title">Search Mi Band</string>
-    <string name="second">Second</string>
+    <string name="search_bracelet_ok">Mi-Band trouvé avec succès !</string>
+    <string name="search_devices_info">Veuillez mettre votre Mi-Band et rester à proximité de votre téléphone.</string>
+    <string name="search_devices_title">Rechercher de Mi-Band</string>
+    <string name="second">Seconde</string>
     <string name="select_from_camera">Caméra</string>
     <string name="select_from_local">Choisissez dans la Galerie</string>
     <string name="select_image">Editer avatar</string>
@@ -374,8 +374,8 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="share_blog_pengyouquan">Moment</string>
     <string name="share_blog_qq">QQ</string>
     <string name="share_blog_qq_zone">QQ zone</string>
-    <string name="share_blog_share">Post</string>
-    <string name="share_blog_title">Post updates</string>
+    <string name="share_blog_share">Publier</string>
+    <string name="share_blog_title">Publier des mises à jour</string>
     <string name="share_blog_weibo">Weibo</string>
     <string name="share_blog_weixin">Wechat</string>
     <string name="share_continue_goal_format">"Marche total de %1$s, %2$s pas par jour.
@@ -384,16 +384,16 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="share_continue_goal_format_run">"Marche total de %1$s, couru %2$s.
 %3$s.
 %4$s"</string>
-    <string name="share_goal_tips_fail">Not far from hitting your goal.</string>
-    <string name="share_goal_tips_succ">"Have a great plan?
-Take your first step."</string>
-    <string name="share_miliao_too_old">MiTalk version is too old.</string>
-    <string name="share_play_ground_format">"It's about %1$s laps of track."</string>
+    <string name="share_goal_tips_fail">Pas si loin de votre objectif, il faut juste travailler plus dur.</string>
+    <string name="share_goal_tips_succ">"Vous avez de grands projets ?
+Faites vos premiers pas."</string>
+    <string name="share_miliao_too_old">Votre version de Mi-Talk est trop ancienne.</string>
+    <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste."</string>
     <string name="share_sleep_description">"Dans la phase de sommeil profond pour %1$s hr et %2$s min, 
 En phase de sommeil léger pour %3$s hr et %4$s min.
 Dans le sommeil: %5$s. Eveillé: %6$s"</string>
-    <string name="share_sleep_description_average">"Spent an average of %1$shr %2$smin in deep sleep stage and %3$shr %4$smin in light sleep stage.
-You slept in at around %5$s, the average awake time is %6$s."</string>
+    <string name="share_sleep_description_average">"A passé en moyenne %1$sh %2$smin en phase de sommeil profond et %3$sh %4$smin en phase de sommeil léger
+Vous vous êtes couché aux alentours de %5$s, l'heure de réveil moyenne est %6$s."</string>
     <string name="share_sleep_title">Nuit dernière</string>
     <string name="share_sleep_title_average">Sommeil moy.</string>
     <string name="share_sleep_title_daily">Sommeil</string>
