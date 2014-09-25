@@ -15,7 +15,7 @@
     <string name="ages">Ans</string>
     <string name="alarm">Alarme</string>
     <string name="alarm_cycle">Répétez</string>
-    <string name="alarm_device_not_connect">"Veuillez relier un Mi Band avant de régler l'alarme."</string>
+    <string name="alarm_device_not_connect">"Veuillez relier un Mi-Band avant de régler l'alarme."</string>
     <string name="alarm_once">Une fois</string>
     <string name="alarm_repeat">Répétez</string>
     <string name="alarm_repeat_title_format">Sélectionné %s</string>
@@ -60,7 +60,7 @@ then tap Follow to complete sync."</string>
     <string name="bracelet_info_deviceid">%s</string>
     <string name="bracelet_info_fw_version">"Firmware: %1$s
 Accord: %2$s"</string>
-    <string name="bracelet_info_mac_address">"Name: %1$s
+    <string name="bracelet_info_mac_address">"Nom: %1$s
 Accord: %2$s"</string>
     <string name="bracelet_login_info">Mi-Cloud fournira des suggestions basées sur vos activités et le suivi de votre sommeil.</string>
     <string name="bracelet_login_info_2">"Connectez vous si vous êtes d'accord avec"</string>
@@ -81,26 +81,26 @@ Accord: %2$s"</string>
     <string name="connect_bracelet_now">Connexion ...</string>
     <string name="content_too_short">Le contenu est manquant.</string>
     <string name="continue_reach_goal">Hit Goals</string>
-    <string name="continue_reach_goal_new_record">Created new record</string>
+    <string name="continue_reach_goal_new_record">Nouveau record créé</string>
     <string name="continue_tips_format">Your best record is to hit your goal for %1$s days.</string>
-    <string name="daily_sporty">Steps per day</string>
+    <string name="daily_sporty">Pas par jour</string>
     <string name="date_from_to">%1$s to %2$s</string>
     <string name="date_from_to_short">%1$s-%2$s</string>
-    <string name="date_last_month">Last month</string>
-    <string name="date_last_week">Last week</string>
+    <string name="date_last_month">Le mois dernier</string>
+    <string name="date_last_week">La semaine dernière</string>
     <string name="date_month">MMMM</string>
-    <string name="date_month_day">MMM d</string>
+    <string name="date_month_day">d MMM</string>
     <string name="date_month_day_short">%1$d/%2$d</string>
     <string name="date_month_day_week">%1$s %2$s</string>
     <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
-    <string name="date_this_month">This month</string>
-    <string name="date_this_week">This week</string>
-    <string name="date_today">Today</string>
+    <string name="date_this_month">Ce mois-ci</string>
+    <string name="date_this_week">Cette semaine</string>
+    <string name="date_today">"Aujourd'hui"</string>
     <string name="date_year_month">MMM, yyyy</string>
-    <string name="date_year_month_day">MMM d, yyyy</string>
-    <string name="date_yesterday">Yesterday</string>
-    <string name="day">days</string>
-    <string name="day_active_detail">Daily details</string>
+    <string name="date_year_month_day">d MMM, yyyy</string>
+    <string name="date_yesterday">Hier</string>
+    <string name="day">Jours</string>
+    <string name="day_active_detail">Détails quotidiens</string>
     <string name="description_list_icon">Item Icon</string>
     <string name="device_list">Nearby Mi Bands</string>
     <string name="device_not_found_not_knocked">Please search again after tap Mi Band once it flashes.</string>
