@@ -353,17 +353,17 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="search_devices_info">Please put on Mi Band and stay close to your phone.</string>
     <string name="search_devices_title">Search Mi Band</string>
     <string name="second">Second</string>
-    <string name="select_from_camera">Camera</string>
-    <string name="select_from_local">Choose from Gallery</string>
-    <string name="select_image">Edit profile picture</string>
-    <string name="set_goal_step">8000 steps/day</string>
-    <string name="set_mili_name">Name Mi Band</string>
-    <string name="set_mili_name_fail">Failed to name your Mi Band.</string>
-    <string name="set_mili_name_ok">Name Mi Band OK.</string>
-    <string name="set_person_goal">Set Goal</string>
-    <string name="set_sport_goal">Set Goal</string>
-    <string name="setting_about_app">Version app:</string>
-    <string name="setting_about_fw">Version firmware:</string>
+    <string name="select_from_camera">Caméra</string>
+    <string name="select_from_local">Choisissez dans la Galerie</string>
+    <string name="select_image">Editer avatar</string>
+    <string name="set_goal_step">8000 pas/jour</string>
+    <string name="set_mili_name">Nom Mi-Band</string>
+    <string name="set_mili_name_fail">Impossible de renommer votre Mi-Band.</string>
+    <string name="set_mili_name_ok">Nom Mi-Band OK.</string>
+    <string name="set_person_goal">"Définir l'objectif"</string>
+    <string name="set_sport_goal">"Définir l'objectif"</string>
+    <string name="setting_about_app">Version app: </string>
+    <string name="setting_about_fw">Version firmware: </string>
     <string name="setting_feedback_address">How can we rach you?</string>
     <string name="setting_feedback_hint">Thanks for your time. Your feedback is important to us.</string>
     <string name="setting_feedback_send">Send</string>
@@ -378,10 +378,10 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="share_blog_title">Post updates</string>
     <string name="share_blog_weibo">Weibo</string>
     <string name="share_blog_weixin">Wechat</string>
-    <string name="share_continue_goal_format">"Walked total of %1$s, %2$s steps per day.
+    <string name="share_continue_goal_format">"Marche total de %1$s, %2$s pas par jour.
 %3$s
 %4$s"</string>
-    <string name="share_continue_goal_format_run">"Walked total of %1$s, ran %2$s.
+    <string name="share_continue_goal_format_run">"Marche total de %1$s, couru %2$s.
 %3$s.
 %4$s"</string>
     <string name="share_goal_tips_fail">Not far from hitting your goal.</string>
@@ -430,9 +430,9 @@ Plus haut record quotidien arrivé sur %4$s, marché %5$s pas."</string>
     <string name="share_to_miliao_target_union">Entraînez-vous entre copains.</string>
     <string name="share_to_title">Mi-Band</string>
     <string name="share_to_topic">\#Mi-Band#</string>
-    <string name="share_uninstall_client">"The application hasn't been installed, unable to share."</string>
-    <string name="smart_alarm_clock">Alarm</string>
-    <string name="smart_alarm_notify">Intelligent Alarm</string>
+    <string name="share_uninstall_client">"L'application n'a pas été installée, incapable de partager"</string>
+    <string name="smart_alarm_clock">Alarme</string>
+    <string name="smart_alarm_notify">Alarme intelligente</string>
     <string name="smart_wake_up">Alerte</string>
     <string name="smart_wake_up_info">"Veuillez me réveiller 30 minutes avant l'heure définie.
 Je voudrais me lever quand mon corps est réveillé."</string>
