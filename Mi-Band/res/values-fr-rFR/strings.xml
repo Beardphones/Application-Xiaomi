@@ -161,7 +161,7 @@ La connexion sera perdue après la déconnexion."</string>
     <string name="feedback">Commentaire</string>
     <string name="female">Femme</string>
     <string name="find_bracelet">Recherche Mi-Band</string>
-    <string name="find_bracelet_warning">L'autonomie sera vite réduite en recherchant votre Mi-Band.</string>
+    <string name="find_bracelet_warning">"L'autonomie sera vite réduite en recherchant votre Mi-Band."</string>
     <string name="finding_bracelet">Recherche Mi-Band ...</string>
     <string name="firmware_upgrade">Mise à jour du firmware</string>
     <string name="firmware_version">Version Firmware</string>
@@ -188,10 +188,10 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="fw_upgrade_now">Mise à jour du firmware ...</string>
     <string name="fw_upgrade_progress">Completé %s%%</string>
     <string name="fw_upgrade_succ">Mise à jour du Firmware terminée, attente du redémarrage...</string>
-    <string name="fw_upgrade_tips">Assurez-vous que votre Mi-Band reste à proximité de votre téléphone pendant l'opération.</string>
+    <string name="fw_upgrade_tips">"Assurez-vous que votre Mi-Band reste à proximité de votre téléphone pendant l'opération."</string>
     <string name="gen_qr_code">Générer un QR code</string>
     <string name="get_help">"Demander de l'aide"</string>
-    <string name="get_image_file_fail">Impossible d'obtenir l'image</string>
+    <string name="get_image_file_fail">"Impossible d'obtenir l'image"</string>
     <string name="goals_push_five">Achevé à 50%</string>
     <string name="goals_push_nine">Achevé à 90%</string>
     <string name="goals_push_none">Pas de notification push</string>
@@ -245,8 +245,8 @@ Veuillez charger votre Mi-Band."</string>
     <string name="light_color_title">Couleur de la LED de progression</string>
     <string name="local_app_failed">"Échec dans l'obtention des données de la dernière version."</string>
     <string name="login">Connexion</string>
-    <string name="login_failed">Echec de connexion, réessayez s'il-vous-plaît.</string>
-    <string name="login_failed_check_sys_time">Echec de connexion, s'il vous plaît vérifiez vos réglages de l'heure et utilisez l'heure fournie sur le réseau.</string>
+    <string name="login_failed">"Echec de connexion, réessayez s'il-vous-plaît."</string>
+    <string name="login_failed_check_sys_time">"Echec de connexion, s'il vous plaît vérifiez vos réglages de l'heure et utilisez l'heure fournie sur le réseau."</string>
     <string name="logining">Connexion ...</string>
     <string name="look_device_list">Rechercher de Mi-Band à proximité</string>
     <string name="main_ui_share_tips">"Vous avez pratiqué pendant %1$s%2$s aujourd'hui.
