@@ -63,7 +63,7 @@ Accord: %2$s"</string>
     <string name="bracelet_info_mac_address">"Nom: %1$s
 Accord: %2$s"</string>
     <string name="bracelet_login_info">Mi-Cloud fournira des suggestions basées sur vos activités et le suivi de votre sommeil.</string>
-    <string name="bracelet_login_info_2">"Connectez vous si vous êtes d'accord avec"</string>
+    <string name="bracelet_login_info_2">"Connectez-vous si vous êtes d'accord avec"</string>
     <string name="bracelet_login_title">Salut, je suis ton Mi-Band.</string>
     <string name="bracelet_not_connected_bat_unknown">Mi-Band non appairé, autonomie inconnue.</string>
     <string name="bracelet_not_found_info">"Veuillez recommencer la recherche quand vous voyez une des LED du Mi-Band émettre des flashs."</string>
