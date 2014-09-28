@@ -212,6 +212,13 @@ Mode antipoussière sélectionné téléphone portable casque appareil dans le t
     <string name="action_baidusearch">Baidu</string>
     <string name="select_baidusearch">Baidu</string>
     <string name="select_baiduvoicesearch">Recherche Baidu</string>
+    <string name="action_search">"Recherche en un seul clic"</string>
+    <string name="search_cancel_text">Annuler</string>
+    <string name="search_go_text">Rechercher</string>
+    <string name="search_baidu_text">Baidu</string>
+    <string name="search_taobao_text">Taobao</string>
+    <string name="search_iciba_text">Dictionnaire</string>
+    <string name="search_select_title">Sélectionner des termes de recherche par défaut</string>
     <string name="faq_title">F.A.Q</string>
     <string name="faq_speed_title">Action non reconnue ?</string>
     <string name="faq_speed_text">Le temps de réaction entre deux clics peut être différent en fonction du modèle de téléphone. Il faut adapter la vitesse dans le menu paramètres</string>
