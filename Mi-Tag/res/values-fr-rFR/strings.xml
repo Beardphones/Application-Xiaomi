@@ -103,6 +103,7 @@ toucher avec le dos de votre téléphone"</string>
     <string name="click_to_choose">Appuyer pour ouvrir</string>
     <string name="set_now">Paramètres</string>
     <string name="write_pon_pon_tile">Écrire</string>
+    <string name="erase_pon_pon_tile">Effacer tag</string>
     <string name="reading">Lecture…</string>
     <string name="writing">Ecriture…</string>
     <string name="touch_and_write_more">"Pour faire une copie, 
