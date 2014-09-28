@@ -266,7 +266,7 @@ Si vous choisissez de quitter maintenant, vous allez perdre les données non syn
     <string name="mili_exit_login_info_unlock">"La fonction de déverrouillage de l'écran ne sera plus active."</string>
     <string name="mili_name">Nom Mi-Band</string>
     <string name="mili_name_too_long">Le nom est trop long, veuillez le changer.</string>
-    <string name="mili_rename_fail">Échec dans la mis à jour du nom du Mi-Band.</string>
+    <string name="mili_rename_fail">Échec dans la mise à jour du nom du Mi-Band.</string>
     <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi-Band et réinitialiser les paramètres d'usine. 
 Êtes-vous sûr de vouloir continuer ?"</string>
     <string name="mili_unbind_question">"Votre téléphone n'aura plus accès aux données du Mi-Band une fois qu'ils seront dissociés."</string>
@@ -324,7 +324,7 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="personal_info">Profil</string>
     <string name="please_input_age">Age</string>
     <string name="please_input_gender">Sélectionnez un genre</string>
-    <string name="please_knock_bracelet">Sélectionnez votre Mi-Band à appairé</string>
+    <string name="please_knock_bracelet">Sélectionnez votre Mi-Band à appairer</string>
     <string name="please_set_sport_goal">Définissez votre objectif</string>
     <string name="pm">PM</string>
     <string name="point">Points</string>
@@ -342,7 +342,7 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="remain_days_format">%s jours à compter de la dernière charge</string>
     <string name="remain_days_today_format">"Moins d'un jour de la dernière charge"</string>
     <string name="rename_mili">Nom</string>
-    <string name="reset_mili">Réinisialiser Mi-Band</string>
+    <string name="reset_mili">Réinitialiser Mi-Band</string>
     <string name="retry">Refaire</string>
     <string name="right_hand">Droit</string>
     <string name="runed">Couru</string>
@@ -389,8 +389,8 @@ Cela correspond à une marche de 12000 pas."</string>
 Faites vos premiers pas."</string>
     <string name="share_miliao_too_old">Votre version de Mi-Talk est trop ancienne.</string>
     <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste."</string>
-    <string name="share_sleep_description">"Dans la phase de sommeil profond pour %1$s hr et %2$s min, 
-En phase de sommeil léger pour %3$s hr et %4$s min.
+    <string name="share_sleep_description">"Dans la phase de sommeil profond pour %1$s h et %2$s min, 
+En phase de sommeil léger pour %3$s h et %4$s min.
 Dans le sommeil: %5$s. Eveillé: %6$s"</string>
     <string name="share_sleep_description_average">"A passé en moyenne %1$sh %2$smin en phase de sommeil profond et %3$sh %4$smin en phase de sommeil léger
 Vous vous êtes couché aux alentours de %5$s, l'heure de réveil moyenne est %6$s."</string>
@@ -488,7 +488,7 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="system_low_info">Veuillez installer Android 4.4 ou une version supérieure pour utiliser le Mi-Band.</string>
     <string name="system_low_title">Veuillez mettre à jour votre système.</string>
     <string name="system_not_support_info">"Pour utiliser le Mi-Band, vous avez besoin de mettre à jour la version d'Android de votre téléphone.
-Seul la version d'Android 4.4 ou supérieur est prise en charge par le Mi-Band."</string>
+Seul la version d'Android 4.4 ou supérieure est prise en charge par le Mi-Band."</string>
     <string name="system_not_support_title">Pas de soutien.</string>
     <string name="time_format_hour_min">%1$sh %2$sm</string>
     <string name="time_format_min">%s min</string>
