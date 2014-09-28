@@ -201,10 +201,10 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="half_marathon_format_0">"It's about %1$s half-marathons."</string>
     <string name="half_marathon_format_1">More than %1$s half-marathons.</string>
     <string name="help">Aide</string>
-    <string name="help_info_0">Assurez-vous que votre téléphone prend en charge le Bluetooth 4.0 ou une version supérieure. Vous pouvez trouvez ces informations dans les spécifications de votre téléphone.</string>
+    <string name="help_info_0">Assurez-vous que votre téléphone prend en charge le Bluetooth 4.0 ou une version supérieure. Vous pouvez trouver ces informations dans les spécifications de votre téléphone.</string>
     <string name="help_info_1">Seule Android 4.4 ou supérieure supporte le Mi-Band.</string>
     <string name="help_info_2">Assurez-vous de charger correctement votre Mi-Band. Vous devriez voir les LEDs vertes clignoter pendant la recharge.</string>
-    <string name="help_info_3">"Si votre Mi-Band est déjà appairé avec un téléphone ou qu'il n'est pas près de votre téléphone, éteignez le Bluetooth de l'ancien téléphone et relancer la recherche avec le nouveau téléphone a appairé."</string>
+    <string name="help_info_3">"Si votre Mi-Band est déjà appairé avec un téléphone ou qu'il n'est pas près de votre téléphone, éteignez le Bluetooth de l'ancien téléphone et relancer la recherche avec le nouveau téléphone à appairer."</string>
     <string name="help_info_4">"Vous pouvez contacter notre service clientèle pour obtenir de l'aide.
 
 Service clientèle Tél: 400-100-567
@@ -212,7 +212,7 @@ Du lundi au dimanche, 8: 00-18: 00"</string>
     <string name="help_title_0">Votre téléphone supporte-t-il le Bluetooth 4.0 ?</string>
     <string name="help_title_1">"Est-ce que le système d'exploitation de votre téléphone répond aux exigences recommandées ?"</string>
     <string name="help_title_2">Est-ce que votre Mi-Band est complètement chargé ?</string>
-    <string name="help_title_3">Le Mi-Band a-t-il été appairé avec un notre téléphone ?</string>
+    <string name="help_title_3">Le Mi-Band a-t-il été appairé avec un autres téléphone ?</string>
     <string name="hot_des">Énergie</string>
     <string name="hour_1" />
     <string name="in">A </string>
@@ -488,7 +488,7 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="system_low_info">Veuillez installer Android 4.4 ou une version supérieure pour utiliser le Mi-Band.</string>
     <string name="system_low_title">Veuillez mettre à jour votre système.</string>
     <string name="system_not_support_info">"Pour utiliser le Mi-Band, vous avez besoin de mettre à jour la version d'Android de votre téléphone.
-Seule la version d'Android 4.4 ou supérieure est prise en charge par le Mi-Band."</string>
+Seul la version d'Android 4.4 ou supérieur est prise en charge par le Mi-Band."</string>
     <string name="system_not_support_title">Pas de soutien.</string>
     <string name="time_format_hour_min">%1$sh %2$sm</string>
     <string name="time_format_min">%s min</string>
