@@ -124,7 +124,7 @@ Accord: %2$s"</string>
     <string name="dynamic_pull_connecting_bracelet">Connexion Mi-Band ...</string>
     <string name="dynamic_pull_last_sync_time">Dernière synchro %s</string>
     <string name="dynamic_pull_not_sync_today">"Non synchro aujourd'hui."</string>
-    <string name="dynamic_pull_pull_to_sync">Tirer pour synchroniser</string>
+    <string name="dynamic_pull_pull_to_sync">Tirez pour synchroniser</string>
     <string name="dynamic_pull_release_to_sync">Relâchez pour synchroniser</string>
     <string name="dynamic_pull_sync_after_connected">Synchro auto une fois connecté.</string>
     <string name="dynamic_pull_sync_error">Impossible de synchroniser, tirez pour rafraîchir.</string>
@@ -161,7 +161,7 @@ La connexion sera perdue après la déconnexion."</string>
     <string name="feedback">Commentaire</string>
     <string name="female">Femme</string>
     <string name="find_bracelet">Recherche Mi-Band</string>
-    <string name="find_bracelet_warning">L'autonomie sera vite réduite en recherchantvotre Mi-Band.</string>
+    <string name="find_bracelet_warning">L'autonomie sera vite réduite en recherchant votre Mi-Band.</string>
     <string name="finding_bracelet">Recherche Mi-Band ...</string>
     <string name="firmware_upgrade">Mise à jour du firmware</string>
     <string name="firmware_version">Version Firmware</string>
@@ -328,14 +328,14 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="please_set_sport_goal">Définissez votre objectif</string>
     <string name="pm">PM</string>
     <string name="point">Points</string>
-    <string name="points_exchange">Credit de remerciement</string>
+    <string name="points_exchange">Credits / Remerciements</string>
     <string name="prev_step">Précédent</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Chargez Plus</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
     <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
     <string name="pull_to_refresh_pull_label">Rafraîchissement déroulant</string>
     <string name="pull_to_refresh_refreshing_label">Chargement en cours…</string>
-    <string name="pull_to_refresh_release_label">Desserrer la charge</string>
+    <string name="pull_to_refresh_release_label">Arrêtez la charge</string>
     <string name="ran">Couru </string>
     <string name="red">Rouge</string>
     <string name="register">Signer</string>
