@@ -1,103 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="fortune">
-        <item>"It's easy to hit goal for one day but hard for every day."</item>
-        <item>"It's not an easy thing to achieve a goal every single day."</item>
-        <item>You are making new record everyday!</item>
-        <item>Enjoy building a better you!</item>
-        <item>You are never a loser until you quit trying.</item>
-        <item>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</item>
-        <item>Achieve one goal a day.</item>
-        <item>Keep challenge yourself to be better today.</item>
-        <item>Just do it.</item>
-        <item>Keep practicing, winning will take care of itself.</item>
+        <item>"Facile d'atteindre son objectif sur une journée plus dur de le faire chaque jour."</item>
+        <item>"Ce n'est pas une chose facile que d'atteindre un objectif chaque jour."</item>
+        <item>Tu bas de nouveaux records chaque jour !</item>
+        <item>Prends plaisir à faire de toi un homme meilleur !</item>
+        <item>La persévérance est la qualité première d’un gagnant.</item>
+        <item>"L'excellence est un art que l'on n'atteint que par l'exercice constant. Nous sommes ce que nous faisons de manière répétée. L'excellence n'est donc pas une action mais une habitude."</item>
+        <item>Atteins un objectif par jour.</item>
+        <item>"Accroches-toi pour être encore meilleur aujourd'hui."</item>
+        <item>Fais-Le.</item>
+        <item>"Continues à t'entrainer et la victoire viendra d'elle-même."</item>
     </string-array>
     <string-array name="months">
-        <item>January</item>
-        <item>February</item>
-        <item>Wednesday</item>
-        <item>April</item>
-        <item>May</item>
-        <item>June</item>
-        <item>July</item>
-        <item>August</item>
-        <item>September</item>
-        <item>October</item>
-        <item>November</item>
-        <item>December</item>
+        <item>Janvier</item>
+        <item>Février</item>
+        <item>Mars</item>
+        <item>Avril</item>
+        <item>Mai</item>
+        <item>Juin</item>
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+        <item>Novembre</item>
+        <item>Décembre</item>
     </string-array>
     <string-array name="select_days_simple">
-        <item>Once</item>
-        <item>Everyday</item>
-        <item>From Mon. to Fri.</item>
-        <item>Customize</item>
+        <item>Une seule fois</item>
+        <item>Tous les jours</item>
+        <item>Du Lundi au Vendredi</item>
+        <item>Personnaliser</item>
     </string-array>
     <string-array name="weather_aqi_descriptions">
-        <item>Fine</item>
-        <item>Good</item>
-        <item>Moderate</item>
-        <item>Moderate</item>
-        <item>Unhealthy</item>
-        <item>Very Unhealthy</item>
+        <item>Très bon</item>
+        <item>Bon</item>
+        <item>Moyen</item>
+        <item>Médiocre</item>
+        <item>Mauvais</item>
+        <item>Très mauvais</item>
     </string-array>
     <string-array name="weather_cloudy">
-        <item>多云</item>
+        <item>Nuageux</item>
     </string-array>
     <string-array name="weather_fine">
-        <item>晴</item>
+        <item>Clair</item>
     </string-array>
     <string-array name="weather_fog">
-        <item>雾</item>
+        <item>Brouillard</item>
     </string-array>
     <string-array name="weather_haze">
-        <item>霾</item>
+        <item>Brume</item>
     </string-array>
     <string-array name="weather_overcast">
-        <item>阴</item>
+        <item>Couvert</item>
     </string-array>
     <string-array name="weather_rain_snows">
-        <item>雨夹雪</item>
+        <item>Neige fondue</item>
     </string-array>
     <string-array name="weather_rains">
-        <item>阵雨</item>
-        <item>雷阵雨</item>
-        <item>小雨</item>
-        <item>中雨</item>
-        <item>大雨</item>
-        <item>大暴雨</item>
-        <item>特大暴雨</item>
-        <item>冻雨</item>
-        <item>雷阵雨伴有冰雹</item>
+        <item>Averses</item>
+        <item>Orages</item>
+        <item>Pluie faible</item>
+        <item>Pluie moyenne</item>
+        <item>Pluie forte</item>
+        <item>Pluie battante</item>
+        <item>Pluie torrentielle</item>
+        <item>Pluie verglaçante</item>
+        <item>Orages accompagnés de grêle</item>
     </string-array>
     <string-array name="weather_sands">
-        <item>浮尘</item>
-        <item>扬沙</item>
-        <item>沙尘暴</item>
-        <item>强沙尘暴</item>
+        <item>Poussière</item>
+        <item>Vent de sable</item>
+        <item>Tempête de sable</item>
+        <item>Forte tempête de sable</item>
     </string-array>
     <string-array name="weather_snows">
-        <item>阵雪</item>
-        <item>小雪</item>
-        <item>中雪</item>
-        <item>大雪</item>
-        <item>暴雪</item>
+        <item>Averses de neige</item>
+        <item>Faibles chutes de neige</item>
+        <item>Moyennes chutes de neige</item>
+        <item>Fortes chutes de neige</item>
+        <item>Blizzard</item>
     </string-array>
     <string-array name="weeks">
-        <item>Mon.</item>
-        <item>Tues.</item>
-        <item>Wed.</item>
-        <item>Thurs.</item>
-        <item>Fri.</item>
-        <item>Sat.</item>
-        <item>Sun.</item>
+        <item>Lun.</item>
+        <item>Mar.</item>
+        <item>Mer.</item>
+        <item>Jeu.</item>
+        <item>Ven.</item>
+        <item>Sam.</item>
+        <item>Dim.</item>
     </string-array>
     <string-array name="weeks_short">
-        <item>Mon.</item>
-        <item>Tues.</item>
-        <item>Wed.</item>
-        <item>Thurs.</item>
-        <item>Fri.</item>
-        <item>Sat.</item>
-        <item>Sun.</item>
+        <item>Lun.</item>
+        <item>Mar.</item>
+        <item>Mer.</item>
+        <item>Jeu.</item>
+        <item>Ven.</item>
+        <item>Sam.</item>
+        <item>Dim.</item>
     </string-array>
 </resources>
