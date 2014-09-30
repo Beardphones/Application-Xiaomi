@@ -28,7 +28,7 @@
     <string name="app_info_version">"Version: %1$s
 Accord: %2$s"</string>
     <string name="app_name">Mi-Band</string>
-    <string name="awake_format">, éveillé %1$s times.</string>
+    <string name="awake_format">, éveillé %1$s fois.</string>
     <string name="awake_format_1">, éveillé une fois.</string>
     <string name="back">Retour</string>
     <string name="battery_charge_full">Batterie chargée</string>
@@ -101,7 +101,7 @@ Accord: %2$s"</string>
     <string name="date_yesterday">Hier</string>
     <string name="day">Jours</string>
     <string name="day_active_detail">Détails quotidiens</string>
-    <string name="description_list_icon">Item Icon</string>
+    <string name="description_list_icon">Point Icône</string>
     <string name="device_list">Mi-Band à proximité</string>
     <string name="device_not_found_not_knocked">"Relancez la recherche après avoir appuyé sur le Mi-Band une fois qu'il clignote."</string>
     <string name="device_not_response">"Pourquoi n'y a-t-il pas de témoin lumineux sur mon Mi-Band ?"</string>
@@ -112,8 +112,8 @@ Accord: %2$s"</string>
     <string name="donot_bind">Appairé plus tard</string>
     <string name="download_failed">"Impossible de télécharger l'APK."</string>
     <string name="downloading_apk">Mi-Band</string>
-    <string name="dynamic_detail_modify_sleep_end_time">Correct awake time</string>
-    <string name="dynamic_detail_modify_sleep_start_time">Correct sleep starting time</string>
+    <string name="dynamic_detail_modify_sleep_end_time">Temps éveillé correct</string>
+    <string name="dynamic_detail_modify_sleep_start_time">Temps de démbut du sommeil correct</string>
     <string name="dynamic_detail_sleep_title">%s</string>
     <string name="dynamic_detail_sleep_title_yesterday">Dernière nuit de sommeil</string>
     <string name="dynamic_detail_step_share_title">%s activité</string>
@@ -480,8 +480,8 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="statistic_detail">Détails</string>
     <string name="statistic_total">Total</string>
     <string name="step">Pas</string>
-    <string name="step1">Etape 1:</string>
-    <string name="step2">Etape 2:</string>
+    <string name="step1">Étape 1:</string>
+    <string name="step2">Étape 2:</string>
     <string name="step_per_day"> pas/jour</string>
     <string name="stop">Fin</string>
     <string name="sync_to_server">Synchro des données sur le Cloud en cours...</string>
@@ -511,9 +511,9 @@ Seul la version d'Android 4.4 ou supérieure est prise en charge par le Mi-Band.
     <string name="unlock_screen_help_info1">Si votre téléphone est toujours verrouillé, vous pouvez essayer de redémarrer le Bluetooth pour résoudre le problème.</string>
     <string name="unlock_screen_help_info2">"Si vous ne parvenez pas à redémarrer le Bluetooth, veuillez-vous rendre dans Paramètres Système->Sécurité pour dissocier le Mi-Band. Ensuite, rendez-vous dans l'application du Mi-Band pour réinitialiser le déverrouillage de l'écran."</string>
     <string name="unlock_screen_help_tips">Encore deux étapes avant de découvrir le moyen le plus rapide et le plus sûr pour déverrouiller votre téléphone.</string>
-    <string name="unlock_screen_help_title0">Est ce que le Mi-Band est suffisamment près de votre téléphone ?</string>
-    <string name="unlock_screen_help_title1">Essayer de redémarrer le Bluetooth.</string>
-    <string name="unlock_screen_help_title2">Essayer de réinitialiser le déverrouillage.</string>
+    <string name="unlock_screen_help_title0">Le Mi-Band est-il suffisamment près de votre téléphone ?</string>
+    <string name="unlock_screen_help_title1">Essayez de redémarrer le Bluetooth.</string>
+    <string name="unlock_screen_help_title2">Essayez de réinitialiser le déverrouillage.</string>
     <string name="unlock_screen_invalid">Que puis-je faire si ne suis pas en mesure de déverrouiller mon téléphone ?</string>
     <string name="unlock_screen_invalid_helper">Impossible de déverrouiller votre téléphone avec le Mi-Band ?</string>
     <string name="unlock_screen_miui_version_low">"Votre version de MIUI n'est pas supporté par le Mi-Band, veuillez mettre à jour votre version."</string>
@@ -532,10 +532,10 @@ ouvrir Réglages->Sécurité."</string>
     <string name="user_agreement">"Déclaration de l'utilisateur et Politique de confidentialité"</string>
     <string name="visit_micom">Visitez le site officiel</string>
     <string name="wait">Un moment ...</string>
-    <string name="walked">Marché </string>
+    <string name="walked">Marché</string>
     <string name="wear_hand">Poignet</string>
     <string name="weared_days">Nombre total de jours</string>
-    <string name="weather_aqi">"Qalité de l'air %s"</string>
+    <string name="weather_aqi">"Qualité de l'air %s"</string>
     <string name="weather_description_cloudy">Nuageux,</string>
     <string name="weather_description_fine">Ensoleillé,</string>
     <string name="weather_description_fog">Brouillard,</string>
