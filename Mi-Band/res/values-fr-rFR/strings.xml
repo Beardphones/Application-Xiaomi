@@ -113,7 +113,7 @@ Accord: %2$s"</string>
     <string name="download_failed">"Impossible de télécharger l'APK."</string>
     <string name="downloading_apk">Mi-Band</string>
     <string name="dynamic_detail_modify_sleep_end_time">Temps éveillé correct</string>
-    <string name="dynamic_detail_modify_sleep_start_time">Temps de démbut du sommeil correct</string>
+    <string name="dynamic_detail_modify_sleep_start_time">Temps de début du sommeil correct</string>
     <string name="dynamic_detail_sleep_title">%s</string>
     <string name="dynamic_detail_sleep_title_yesterday">Dernière nuit de sommeil</string>
     <string name="dynamic_detail_step_share_title">%s activité</string>
