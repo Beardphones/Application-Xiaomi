@@ -1,0 +1,78 @@
+-------------------------
+-- English Localization String resources
+-- Huami Co, ltd. (2014)
+-- Herbert dai
+--
+-- Traduction by Fays 
+-- 20140926
+-------------------------
+ localization_French_table = {
+     calories_table={
+	
+    },
+
+    ok="Ok",
+
+    hour="h",
+    minute="min",
+    month="mois",
+    day="jour",
+    step="pas",
+    km="km",
+    minute_format="%d min",
+    hour_minute_format="%d h %d min",
+    hour_format="%d h",
+
+    welcome_use="Bonjour, je suis Mi Band",
+    last_week_walked_format="La semaine dernière, tu as marché %d pas",
+    last_week_walked_info_format="%d km parcourus, %d calories brûlées",
+    last_month_walked_format="Le mois dernier, tu as marché %d pas",
+    last_month_walked_info_format="%d km parcourus, %d calories brûlées",
+
+    get_over_format=", environ %d g de graisse",
+    click_to_get_help="Mieux utiliser son Mi-Band",
+    take_a_walk="Va faire un tour avec ton Mi-Band",
+    take_a_walk_info="Mi-Band suivra ton activité et t'aidera à être en meilleure santé",
+    unlock_hint="Déverrouiller le téléphone avec votre Mi-Band",
+    unlock_hint_info="Dites adieu à votre mot de passe",
+    no_data_hint_0="Restez en mouvement pour votre bien-être",
+    no_data_hint_1="Pour garder le sourire, il suffit de courir",
+    no_data_hint_2="Une séance de cardio chaque jour vous maintiendra en pleine forme",
+    no_data_hint_3="Chez un adulte, la phase de sommeil profond représente 15% à 20% de la durée totale de sommeil",
+    not_binded_hint="Aucun Mi-Band n'est associé à ce compte, en appairer un maintenant ?",
+    new_record_info="Bravo ! Tu viens de battre ton record de marche",
+    new_record_format="Nouveau record, %d pas, %s %d",
+    today_goal_reached="Félicitation ! Tu as atteint ton objectif de la journée",
+    week_continue_reach_goal="Bravo ! Tu as atteint tout tes objectifs de la semaine",
+    challenge_format="Tu as atteint ton objectif %d jours d'affilé !",
+    personal_best_format="Ton meilleur record est de %d jours !",
+    active_time_format_0="%d h",
+    active_time_format_1="%d h",
+    active_time_format_2="%d h %d min",
+    activie_run_format_0="Couru %s. Bon boulot !",
+    activie_run_format_1="Couru %s. Tu fais des miracles !",
+    activie_run_format_2="Couru %s. Incroyable endurance !",
+    activie_run_consumed="%d calories brûlées. %s",
+
+    get_distance_format=", pour une distance totale de %d m",
+    activity_walk_format="%s a marché %d pas %s",
+    activity_walk_consumed_format="%d calories brûlées %s",
+
+    activity_activity_format="%s %s d'activité %s",
+    last_night_sleeped_good_format="La nuit dernière, tu as dormi %d h %d min. Quelle bonne nuit !",
+    last_night_sleeped_normal_format="La nuit dernière, tu as dormi %d h %d min",
+    deep_sleep_format="En phase de sommeil profond pendant %d h %d min",
+
+    battery_low_info="Batterie faible, veuillez mettre en charge le Mi-Band",
+    battery_very_low_info="Batterie très faible, veuillez mettre en charge le Mi-Band",
+
+    cannot_find_bracelet="Impossible de trouver le Mi-Band",
+    cannot_find_bracelet_info="Assurez-vous que le Mi-Band soit suffisamment chargé et à proximité de votre téléphone",
+
+    challenge_to_get="A %s jour(s) de battre un nouveau record !",
+    record_reach_max="Tu as atteint ton meilleur record !",
+    new_record_born="Nouveau record !",
+
+    --=================== Game =====================
+
+ }
