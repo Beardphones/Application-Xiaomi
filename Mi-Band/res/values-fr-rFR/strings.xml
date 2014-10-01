@@ -215,7 +215,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="help_title_3">Le Mi-Band a-t-il été appairé avec un autre téléphone ?</string>
     <string name="hot_des">Énergie</string>
     <string name="hour_1" />
-    <string name="in">A </string>
+    <string name="in">En </string>
     <string name="incoming_call_notify">Appel entrant</string>
     <string name="incoming_call_notify_tips">"M'avertir si je rate un appel après %s sec."</string>
     <string name="input_precise_person_info">Veuillez indiquer vos informations personnelles. Plus de détails aideront à obtenir des résultats plus précis.</string>
