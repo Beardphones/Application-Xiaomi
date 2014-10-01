@@ -402,20 +402,20 @@ Vous vous êtes couché aux alentours de %5$s, l'heure de réveil moyenne est %6
     <string name="share_step_description_monthly">"%1$s%2$s
  brûlé %3$s cal, et vous avez économisé %4$s gallon(s) d'essence.
 (merci pour la protection de notre terre)
-Le dossier le plus élevé est %5$s, marché %6$s pas."</string>
+Le record le plus élevé a eu lieu le %5$s, avec  %6$s pas marchés."</string>
     <string name="share_step_description_monthly_run">"%1$s, couru %2$s
- %3$s, et vous avez enregistré %4$s gallon(s) d'essence.
+ %3$s, et vous avez économisé %4$s gallon(s) d'essence.
 (merci pour la protection de notre terre)
-Le dossier le plus élevé est %5$s, marché %6$s pas."</string>
+Le record le plus élevé a eu lieu le %5$s, avec  %6$s pas marchés."</string>
     <string name="share_step_description_run">"Marché %1$s, couru %2$s.
 Brulé %3$s cal.
 "</string>
     <string name="share_step_description_weekly">"Total %1$s%2$s
 Brulé %3$s cal.
-Plus haut record quotidien arrivé sur %4$s, marché %5$s pas."</string>
+Le plus haut record quotidien a eu lieu le %4$s, avec %5$s pas marchés ."</string>
     <string name="share_step_description_weekly_run">"Total %1$s, couru %2$s.
 %3$s
-Plus haut record quotidien arrivé sur %4$s, marché %5$s pas."</string>
+Le plus haut record quotidien a eu lieu le %4$s, avec %5$s pas marchés."</string>
     <string name="share_step_goal_failed_title">Total</string>
     <string name="share_step_goal_failed_title_today">"Aujourd'hui"</string>
     <string name="share_step_goal_succ_title">Objectif atteint</string>
