@@ -239,7 +239,7 @@ Veuillez charger votre Mi-Band."</string>
     <string name="instruction_title">Mieux utiliser le Mi-Band</string>
     <string name="kg">kg</string>
     <string name="kilogram">kg</string>
-    <string name="km">km</string>
+    <string name="km">" km "</string>
     <string name="left_hand">Gauche</string>
     <string name="light_color">Couleur des LEDs</string>
     <string name="light_color_title">Couleur de la LED de progression</string>
