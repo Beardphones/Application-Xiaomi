@@ -123,7 +123,7 @@ Accord: %2$s"</string>
     <string name="dynamic_pull_connect_failed_hint">Veuillez vérifier que votre Mi-Band soit assez chargé.</string>
     <string name="dynamic_pull_connecting_bracelet">Connexion Mi-Band ...</string>
     <string name="dynamic_pull_last_sync_time">Dernière synchro %s</string>
-    <string name="dynamic_pull_not_sync_today">"Non synchro aujourd'hui."</string>
+    <string name="dynamic_pull_not_sync_today">"Non synchro aujourd'hui"</string>
     <string name="dynamic_pull_pull_to_sync">Tirez pour synchroniser</string>
     <string name="dynamic_pull_release_to_sync">Relâchez pour synchroniser</string>
     <string name="dynamic_pull_sync_after_connected">Synchro auto une fois connecté.</string>
