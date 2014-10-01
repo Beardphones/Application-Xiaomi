@@ -198,8 +198,8 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="goals_push_ten">Achevé à 100%</string>
     <string name="gram">g</string>
     <string name="green">Vert</string>
-    <string name="half_marathon_format_0">"C'est environ %1$s demi-marathons."</string>
-    <string name="half_marathon_format_1">Plus que %1$s demi-marathons.</string>
+    <string name="half_marathon_format_0">"C'est environ %1$s demi-marathon(s)."</string>
+    <string name="half_marathon_format_1">Plus que %1$s demi-marathon(s).</string>
     <string name="help">Aide</string>
     <string name="help_info_0">Assurez-vous que votre téléphone prend en charge le Bluetooth 4.0 ou une version supérieure. Vous pouvez trouver ces informations dans les spécifications de votre téléphone.</string>
     <string name="help_info_1">Seul Android 4.4 ou supérieur supporte le Mi-Band.</string>
@@ -254,8 +254,8 @@ Veuillez charger votre Mi-Band."</string>
     <string name="main_ui_sleep_share_tips">"Sommeil léger de %1$s%2$s.
 J'ai dormi à %3$s, et me suis réveillé à %4$s."</string>
     <string name="male">Homme</string>
-    <string name="marathon_format_0">"Il s'agit de %1$s marathons."</string>
-    <string name="marathon_format_1">Plus de %1$s marathons.</string>
+    <string name="marathon_format_0">"Il s'agit de %1$s marathon(s)."</string>
+    <string name="marathon_format_1">Plus de %1$s marathon(s).</string>
     <string name="mili_exit_login_info">"Vous êtes sur le point de vous déconnecter de votre compte Mi courant
 Voulez-vous continuer ?"</string>
     <string name="mili_exit_login_info_continue">"Échec de la synchronisation, veuillez vérifier la connexion réseau.
@@ -400,11 +400,11 @@ Vous vous êtes couché aux alentours de %5$s, l'heure de réveil moyenne est %6
     <string name="share_step_description">"Marché %1$s brûlé %2$s cal.
 "</string>
     <string name="share_step_description_monthly">"%1$s%2$s
- brûlé %3$s cal, et vous avez enregistré %4$s allons d'essence.
+ brûlé %3$s cal, et vous avez économisé %4$s gallon(s) d'essence.
 (merci pour la protection de notre terre)
 Le dossier le plus élevé est %5$s, marché %6$s pas."</string>
     <string name="share_step_description_monthly_run">"%1$s, couru %2$s
- %3$s, et vous avez enregistré %4$s gallons d'essence.
+ %3$s, et vous avez enregistré %4$s gallon(s) d'essence.
 (merci pour la protection de notre terre)
 Le dossier le plus élevé est %5$s, marché %6$s pas."</string>
     <string name="share_step_description_run">"Marché %1$s, couru %2$s.
