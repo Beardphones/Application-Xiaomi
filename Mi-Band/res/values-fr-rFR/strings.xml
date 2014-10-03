@@ -140,7 +140,7 @@ Accord: %2$s"</string>
     <string name="dynamic_sleep_tip">Total</string>
     <string name="dynamic_step_tip">Mesures actuelles</string>
     <string name="dynamic_tip_sleep_unsynced">Non mis à jour</string>
-    <string name="dynamic_tip_step_sync_time_hour">%d hr</string>
+    <string name="dynamic_tip_step_sync_time_hour">%d h</string>
     <string name="dynamic_tip_step_sync_time_min">%d min</string>
     <string name="dynamic_tip_step_unsynced">Non mis à jour</string>
     <string name="dynamic_tip_sync_progress">Synchro des données %d%%</string>
@@ -164,7 +164,7 @@ La connexion sera perdue après la déconnexion."</string>
     <string name="find_bracelet_warning">"L'autonomie sera vite réduite en recherchant votre Mi-Band."</string>
     <string name="finding_bracelet">Recherche Mi-Band ...</string>
     <string name="firmware_upgrade">Mise à jour du firmware</string>
-    <string name="firmware_version">Version Firmware</string>
+    <string name="firmware_version">Version firmware</string>
     <string name="first_use_days_today_format">Moins d\'un jour depuis la première utilisation.</string>
     <string name="first_use_remain_days_format">%s jours depuis la première utilisation</string>
     <string name="found_bracelet_info">"Quand les LEDs du Mi-Band commencent à clignoter, appuyez plusieurs fois pour appairer."</string>
@@ -172,22 +172,22 @@ La connexion sera perdue après la déconnexion."</string>
     <string name="friends_search">Recherche</string>
     <string name="friends_search_tips">Mi-ID/Pseudo/Téléphone</string>
     <string name="fw_failed_help_tips0">Le firmware est le micro-logiciel embarqué dans le Mi-Band, en charge de son bon fonctionnement.</string>
-    <string name="fw_failed_help_tips1">"Les mises à jour du Firmware peuvent optimiser le fonctionnement du Mi-Band, mais aussi apporter de nouvelles fonctionnalités à celui-ci. Un Firmware qui n'est pas à jour peut causer le dysfonctionnement de certaines fonctionnalités du Mi-Band."</string>
+    <string name="fw_failed_help_tips1">"Les mises à jour du firmware peuvent optimiser le fonctionnement du Mi-Band, mais aussi apporter de nouvelles fonctionnalités à celui-ci. Un firmware qui n'est pas à jour peut causer le dysfonctionnement de certaines fonctionnalités du Mi-Band."</string>
     <string name="fw_failed_help_tips2">"Premièrement, assurez-vous que l'alimentation de Mi-Band n'est pas inférieure à 5%, et que le Mi-Band est correctement connecté à votre téléphone pendant la mise à jour."</string>
-    <string name="fw_failed_help_title">F.A.Q du Firmware</string>
+    <string name="fw_failed_help_title">F.A.Q du firmware</string>
     <string name="fw_failed_help_title0">"Qu'est-ce que le firmware ?"</string>
     <string name="fw_failed_help_title1">Pourquoi dois-je mettre à jour le firmware ?</string>
-    <string name="fw_failed_help_title2">"Que faire si je n'arrive pas à mettre à jour le Firmware ?"</string>
+    <string name="fw_failed_help_title2">"Que faire si je n'arrive pas à mettre à jour le firmware ?"</string>
     <string name="fw_low_battery_tips">"Impossible de faire la mise à jour si la batterie du Mi-Band est inférieure à 5%. 
 La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de batterie."</string>
     <string name="fw_low_battery_title">Veuillez recharger le Mi-Band pendant la mise à jour.</string>
     <string name="fw_low_battery_view_help">Aide</string>
-    <string name="fw_upgrade">Mise à jour du Firmware</string>
-    <string name="fw_upgrade_failed">La mise à jour du Firmware a échoué.</string>
+    <string name="fw_upgrade">Mise à jour du firmware</string>
+    <string name="fw_upgrade_failed">La mise à jour du firmware a échoué.</string>
     <string name="fw_upgrade_failed_tips">Désolé, la mise à jour du Firmware a échoué. Cela désactivera une partie des fonctionnalités.</string>
     <string name="fw_upgrade_now">Mise à jour du firmware ...</string>
     <string name="fw_upgrade_progress">Completé %s%%</string>
-    <string name="fw_upgrade_succ">Mise à jour du Firmware terminée, attente du redémarrage...</string>
+    <string name="fw_upgrade_succ">Mise à jour du firmware terminée, attente du redémarrage...</string>
     <string name="fw_upgrade_tips">"Assurez-vous que votre Mi-Band reste à proximité de votre téléphone pendant l'opération."</string>
     <string name="gen_qr_code">Générer un QR code</string>
     <string name="get_help">"Demander de l'aide"</string>
@@ -271,13 +271,13 @@ Si vous choisissez de quitter maintenant, vous allez perdre les données non syn
 Êtes-vous sûr de vouloir continuer ?"</string>
     <string name="mili_unbind_question">"Votre téléphone n'aura plus accès aux données du Mi-Band une fois qu'ils seront dissociés."</string>
     <string name="mili_unbind_question_content">"Une fois que vous avez dissocié votre téléphone avec le Mi-Band, vous pouvez l'appairer avec un autre Mi-Band."</string>
-    <string name="mili_unbind_question_content_1">Si vous avez configurer le déverrouillage du téléphone avec le Mi-Band, vous ne serez plus en mesure de déverrouiller votre téléphone avec le Mi-Band une fois que vous les aurez dissociés.</string>
+    <string name="mili_unbind_question_content_1">Si vous avez configuré le déverrouillage du téléphone avec le Mi-Band, vous ne serez plus en mesure de déverrouiller votre téléphone avec le Mi-Band une fois que vous les aurez dissociés.</string>
     <string name="minute" />
     <string name="modify_gender">Sexe</string>
     <string name="modify_height">Taille</string>
     <string name="modify_nickname">Editer nom</string>
-    <string name="modify_signiture">Editer status</string>
-    <string name="modify_signiture_hint">Status</string>
+    <string name="modify_signiture">Editer statut</string>
+    <string name="modify_signiture_hint">Statut</string>
     <string name="modify_weight">Poids</string>
     <string name="mon_fri">Lun. à Ven.</string>
     <string name="mon_sat">Lun. à Sam.</string>
@@ -328,7 +328,7 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="please_set_sport_goal">Définissez votre objectif</string>
     <string name="pm">PM</string>
     <string name="point">Points</string>
-    <string name="points_exchange">Credits / Remerciements</string>
+    <string name="points_exchange">Crédits / Remerciements</string>
     <string name="prev_step">Précédent</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Chargez Plus</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
