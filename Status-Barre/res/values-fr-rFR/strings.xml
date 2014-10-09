@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_license">Utilisez-le à vos risques et périls !</string>
+    <string name="about_name">Organiser vos raccourcis Miui6</string>
+    <string name="about_text1">Auteur:</string>
+    <string name="about_text2">don11995</string>
+    <string name="about_text3">Concept:</string>
+    <string name="about_text4">stas2z</string>
+    <string name="about_text5">Icône:</string>
+    <string name="about_text6">DriffeX</string>
+    <string name="app_name">Status Barre</string>
+    <string name="data_access">Accès</string>
+    <string name="data_airplane">Mode avion</string>
+    <string name="data_autolight">Luminosité auto</string>
+    <string name="data_block">Bloquer</string>
+    <string name="data_bluetooth">Bluetooth</string>
+    <string name="data_buttons">Désactiver</string>
+    <string name="data_gps">GPS</string>
+    <string name="data_guest">Invité</string>
+    <string name="data_light">Torche</string>
+    <string name="data_mobile">Données</string>
+    <string name="data_rotate">Rotation</string>
+    <string name="data_screenshot">"Capture d'écran"</string>
+    <string name="data_silent">Ne pas déranger</string>
+    <string name="data_sound">Silence</string>
+    <string name="data_speed">Performance</string>
+    <string name="data_sync">Synchro</string>
+    <string name="data_vibration">Vibreur</string>
+    <string name="data_wifi">Wi-Fi</string>
+    <string name="data_wifispot">Hotspot</string>
+    <string name="err_get_data">Database reading error</string>
+    <string name="err_init_settings">Error while getting current setting</string>
+    <string name="err_reset">Erreur lors de la réinitialisation des réglages</string>
+    <string name="err_saving">"Erreur lors de l'enregistrement des paramètres"</string>
+    <string name="howtouse_text">"1. Glisser-déposer pour organiser vos raccourcis dans votre ordre préféré.
+2. Appuyez sur \"Sauvegarder\".
+3. Terminé !"</string>
+    <string name="howtouse_text1">\"Réinitialiser\" permet de basculer l\'ordre par défaut.</string>
+    <string name="main_header">"Glissez et déposez vos raccourcis"</string>
+    <string name="main_menu_about">A propos</string>
+    <string name="main_menu_howtouse">Tutoriel rapide</string>
+    <string name="main_reset_button">Réinitialiser</string>
+    <string name="main_save_button">Sauvegarder</string>
+    <string name="main_settings_question">Voulez-vous vraiment réinitialiser vos paramètres ?</string>
+    <string name="main_settings_question_no">Non</string>
+    <string name="main_settings_question_yes">Oui</string>
+    <string name="main_settings_saved">Les paramètres ont bien été enregistré</string>
+</resources>
