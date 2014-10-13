@@ -26,13 +26,13 @@ Adresse: %2$s"</string>
     <string name="app_info_version">"Version: %1$s
 Accord: %2$s"</string>
     <string name="description_list_icon">Point Icône</string>
-    <string name="date_today">Today</string>
-    <string name="date_yesterday">Yesterday</string>
-    <string name="date_this_week">This week</string>
-    <string name="date_last_week">Last week</string>
-    <string name="date_this_month">This month</string>
-    <string name="date_last_month">Last month</string>
-    <string name="date_from_to">%1$s to %2$s</string>
+    <string name="date_today">"Aujourd'hui"</string>
+    <string name="date_yesterday">Hier</string>
+    <string name="date_this_week">Cette semaine</string>
+    <string name="date_last_week">Semaine dernière</string>
+    <string name="date_this_month">Ce mois-ci</string>
+    <string name="date_last_month">Mois dernier</string>
+    <string name="date_from_to">%1$s à %2$s</string>
     <string name="date_from_to_short">%1$s-%2$s</string>
     <string name="date_month_day">d MMM</string>
     <string name="date_year_month_day">d MMM, yyyy</string>
