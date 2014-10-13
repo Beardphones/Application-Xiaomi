@@ -230,7 +230,7 @@ If you choose to exit, you will loss data that hasn't been synced. Are you sure 
     <string name="day">Jours</string>
     <string name="one_min">1 min. avant</string>
     <string name="before_min">%s min. avant</string>
-    <string name="today">"Today"Aujourd'hui"</string>
+    <string name="today">"Aujourd'hui"</string>
     <string name="app_exit_press_again">Appuyez sur la touche retour pour quitter</string>
     <string name="set_goal_step">8000 pas/jour</string>
     <string name="hour_1" />
@@ -250,7 +250,7 @@ If you choose to exit, you will loss data that hasn't been synced. Are you sure 
 Service clientèle Tél: 400-100-567
 Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="get_image_file_fail">"Impossible d'obtenir l'image"</string>
-    <string name="select_image"Editer avatar</string>
+    <string name="select_image">Editer avatar</string>
     <string name="select_from_camera">Caméra</string>
     <string name="select_from_local">Choisissez dans la Galerie</string>
     <string name="fw_upgrade_failed_tips">Désolé, la mise à jour du Firmware a échoué. Cela désactivera une partie des fonctionnalités.</string>
@@ -281,7 +281,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="checking_new_apk">Recherche de nouvelles mises à jour...</string>
     <string name="please_knock_bracelet">Sélectionnez votre Mi-Band à appairer</string>
     <string name="dynamic_title_sleep">Nuit dernière</string>
-    <string name="dynamic_title_step">"Today"Aujourd'hui"</string>
+    <string name="dynamic_title_step">"Aujourd'hui"</string>
     <string name="dynamic_step_tip">Mesures actuelles</string>
     <string name="dynamic_sleep_tip">Total</string>
     <string name="dynamic_sleep_deep_title">Sommeil profond %s</string>
@@ -289,7 +289,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="dynamic_detail_sleep_title_yesterday">Dernière nuit de sommeil</string>
     <string name="dynamic_detail_step_title">%s</string>
     <string name="dynamic_detail_step_share_title">%s activité</string>
-    <string name="dynamic_detail_step_title_today">"Today"Aujourd'hui"</string>
+    <string name="dynamic_detail_step_title_today">"Aujourd'hui"</string>
     <string name="dynamic_sleep_deep">Sommeil profond</string>
     <string name="dynamic_sleep_shallow">Sommeil léger</string>
     <string name="dynamic_sleep_active">Temps éveillé</string>
@@ -358,7 +358,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="share_sleep_title_daily">Sommeil</string>
     <string name="share_step_goal_succ_title_today">Objectif du jour atteint !</string>
     <string name="share_step_goal_succ_title">Objectif atteint</string>
-    <string name="share_step_goal_failed_title_today">3Aujourd'hui"</string>
+    <string name="share_step_goal_failed_title_today">"Aujourd'hui"</string>
     <string name="share_step_goal_failed_title">Total</string>
     <string name="share_step_description">"Marché %1$s brûlé %2$s cal.
 "</string>
@@ -430,24 +430,14 @@ ouvrir Réglages->Sécurité."</string>
     <string name="unlock_screen_help_info0">"Pour une question de sécurité, le déverrouillage ne s'opère que quand le Mi-Band est suffisamment près du téléphone."</string>
     <string name="unlock_screen_help_info1">Si votre téléphone est toujours verrouillé, vous pouvez essayer de redémarrer le Bluetooth pour résoudre le problème.</string>
     <string name="unlock_screen_help_info2">"Si vous ne parvenez pas à redémarrer le Bluetooth, veuillez-vous rendre dans Paramètres Système->Sécurité pour dissocier le Mi-Band. Ensuite, rendez-vous dans l'application du Mi-Band pour réinitialiser le déverrouillage de l'écran."</string>
-    <string name="instruction_title">More to do with Mi Band</string>
-    <string name="instruction_tip_1">"Take a look 
-find out your work out
-progress"</string>
-    <string name="instruction_tip_2_1">"Steps count
- is less than 
-1/3 of your goal"</string>
-    <string name="instruction_tip_2_2">"Over
-1/3 of your goal"</string>
-    <string name="instruction_tip_2_3">"Over
-2/3 of your goal"</string>
-    <string name="instruction_tip_2_4">"Great job!
-You have hit your goal today."</string>
-    <string name="instruction_tip_2_5">"Over
-Goal set"</string>
-    <string name="instruction_tip_3">"Power is 
-very low. 
-Please charge Mi Band."</string>
+    <string name="instruction_title">Mieux utiliser son Mi-Band</string>
+    <string name="instruction_tip_1">"Jetez un coup d'œil sur votre progression"</string>
+    <string name="instruction_tip_2_1">"Moins d'1/3 de votre objectif"</string>
+    <string name="instruction_tip_2_2">"Plus d'1/3 de votre objectif"</string>
+    <string name="instruction_tip_2_3">"Plus de 2/3 de votre objectif"</string>
+    <string name="instruction_tip_2_4">"Bravo ! Vous avez atteint votre objectif de la journée"</string>
+    <string name="instruction_tip_2_5">"Vous avez dépassé votre objectif"</string>
+    <string name="instruction_tip_3">"S'il vous plaît recharger Mi-Band"</string>
     <string name="new_record_born">Great job! You just made a new record.</string>
     <string name="new_record_format_str">"%1$s burned %2$s cal.
 Every new record gets you one step closer to a better self.
