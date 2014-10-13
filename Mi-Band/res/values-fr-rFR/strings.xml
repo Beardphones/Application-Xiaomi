@@ -315,8 +315,8 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="start_weixin_not_installed">Démarrer WeChat (non installé)</string>
     <string name="action_pop_about">A propos</string>
     <string name="find_bracelet">Recherche Mi-Band</string>
-    <string name="light_color">Indication Light Color</string>
-    <string name="light_color_title">Indicates light color for the progress of workout</string>
+    <string name="light_color">Couleur des LEDs</string>
+    <string name="light_color_title">"Couleur de l'indicateur de progression"</string>
     <string name="wear_hand">Poignet</string>
     <string name="left_hand">Gauche</string>
     <string name="right_hand">Droit</string>
