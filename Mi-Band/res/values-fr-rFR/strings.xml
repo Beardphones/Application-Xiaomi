@@ -56,7 +56,7 @@ Accord: %2$s"</string>
     <string name="friends_search">Recherche</string>
     <string name="friends_invite2">Invité</string>
     <string name="statistic_total">Total</string>
-    <string name="statistic_day_average">Ave. Per Day</string>
+    <string name="statistic_day_average">Moy. par jour</string>
     <string name="statistic_detail">Détails</string>
     <string name="day_active_detail">Détails quotidiens</string>
     <string name="alarm">Alarme</string>
@@ -144,9 +144,9 @@ La connexion sera perdue après la déconnexion."</string>
     <string name="mili_name">Nom du Mi-Band</string>
     <string name="set_mili_name_ok">Nom Mi-Band OK.</string>
     <string name="set_mili_name_fail">Impossible de renommer votre Mi-Band.</string>
-    <string name="mili_name_too_long">Name is too long, please change.</string>
-    <string name="mili_rename_fail">"Failed to update Mi Band's name."</string>
-    <string name="mili_unbind_question">Your phone will no longer have access to data from Mi Band once they are unpaired.</string>
+    <string name="mili_name_too_long">Le nom est trop long, veuillez le changer</string>
+    <string name="mili_rename_fail">Échec lors de la mise à jour du nom du Mi-Band</string>
+    <string name="mili_unbind_question">"Votre téléphone n'aura plus accès aux données du Mi Band une fois le désapairrage effectué"</string>
     <string name="share_to_title">Mi-Band</string>
     <string name="share_to_content">Partagez votre vie avec le Mi-Band.</string>
     <string name="share_goal_tips_succ">"Vous avez de grands projets ?
@@ -162,22 +162,22 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="smart_wake_up_info">"Veuillez me réveiller 30 minutes avant l'heure définie.
 Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="alarm_cycle">Répétez</string>
-    <string name="login_failed_check_sys_time">Failed to login, please check your time setting and use the time provided by network.</string>
+    <string name="login_failed_check_sys_time">"Échec de la connexion, vérifiez le réglage de l'heure et activez la synchronisation horaire du réseau"</string>
     <string name="everyday">Quotidien</string>
     <string name="mon_fri">Lun. to Ven.</string>
     <string name="mon_sat">Lun. to Dim.</string>
     <string name="device_not_found_not_knocked">"Relancez la recherche après avoir appuyé sur le Mi-Band une fois qu'il clignote."</string>
     <string name="statistic">Statistiques</string>
-    <string name="mili_unbind_question_content">Once you unpair Mi Band with your phone, you may pair another Mi Band with it.</string>
-    <string name="mili_unbind_question_content_1">In addition, you are no longer able to unlock your screen with this Mi Band once you unpair them.</string>
-    <string name="mili_reset_info">"We are about to clean up data from this Mi Band and reset it to factory settings. 
-Are you sure to continue?"</string>
-    <string name="mili_exit_login_info">"You are about to log out from current Mi Account.
-Would you like to continue?"</string>
-    <string name="mili_exit_login_info_continue">"Failed to sync, please check network connection. 
-If you choose to exit, you will loss data that hasn't been synced. Are you sure to exit?"</string>
-    <string name="modify_signiture">Edit status</string>
-    <string name="modify_signiture_hint">Status</string>
+    <string name="mili_unbind_question_content">Une fois que vous avez désappairé le Mi-Band de votre téléphone, vous pouvez en appairer un autre</string>
+    <string name="mili_unbind_question_content_1">En complément, vous ne pourrez plus déverrouiller le téléphone avec ce Mi-Band une fois celui-ci désappairé</string>
+    <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi Band et puis de le réinitialiser avec les paramètres d'usine 
+Êtes-vous sûr de vouloir continuer ?"</string>
+    <string name="mili_exit_login_info">"Vous êtes sur le point de vous déconnecter de votre compte Mi
+Voulez-vous continuer ?"</string>
+    <string name="mili_exit_login_info_continue">"Échec de la synchronisation, veuillez vérifier la connexion réseau 
+Si vous choisissez de quitter maintenant, les données non synchronisées seront perdues. Êtes-vous sur de vouloir quitter ?"</string>
+    <string name="modify_signiture">Modifier la signature</string>
+    <string name="modify_signiture_hint">Signature</string>
     <string name="modify_nickname">Editer nom</string>
     <string name="personal_info">Profil</string>
     <string name="confirm">Confirmer</string>
@@ -263,7 +263,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="fw_failed_help_title2">"Que faire si je n'arrive pas à mettre à jour le Firmware ?"</string>
     <string name="fw_failed_help_tips2">"Premièrement, assurez-vous que l'alimentation de Mi-Band n'est pas inférieure à 5%, et que le Mi-Band est correctement connecté à votre téléphone pendant la mise à jour."</string>
     <string name="clock_closed">Désactiver</string>
-    <string name="new_version_available">Found a new version</string>
+    <string name="new_version_available">Nouvelle version est disponible</string>
     <string name="downloading_apk">Mi-Band</string>
     <string name="upgrade">Mise à jour</string>
     <string name="download_failed">"Impossible de télécharger l'APK."</string>
@@ -271,13 +271,13 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="apk_download_ok">"Téléchargement complet de l'app Mi-Band."</string>
     <string name="bracelet_login_info_2">"Connectez-vous si vous êtes d'accord avec"</string>
     <string name="please_input_gender">Sélectionnez un genre</string>
-    <string name="input_precise_person_info">Please enter your personal information. More details will help to get precise results.</string>
+    <string name="input_precise_person_info">Veuillez renseigner vos informations personnelles. Plus de détails aideront à obtenir des résultats plus précis</string>
     <string name="age">Age</string>
     <string name="ages">Ans</string>
     <string name="check_upgrade">Vérifiez les mises à jour</string>
     <string name="visit_micom">Visitez le site officiel</string>
     <string name="apk_uptodate">Vous utilisez actuellement la dernière version.</string>
-    <string name="local_app_failed">Failed to obtain current version data.</string>
+    <string name="local_app_failed">Impossible de récupérer les informations de la version déjà installée</string>
     <string name="checking_new_apk">Recherche de nouvelles mises à jour...</string>
     <string name="please_knock_bracelet">Sélectionnez votre Mi-Band à appairer</string>
     <string name="dynamic_title_sleep">Nuit dernière</string>
@@ -336,7 +336,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="your_weight">Poids</string>
     <string name="please_set_sport_goal">Définissez votre objectif</string>
     <string name="your_gender">Sexe</string>
-    <string name="donot_bind">Pair later</string>
+    <string name="donot_bind">Appairer plus tard</string>
     <string name="welcom_back">Bienvenue</string>
     <string name="bracelet_not_connected_bat_unknown">Mi-Band non appairé, autonomie inconnue.</string>
     <string name="am">AM</string>
@@ -350,7 +350,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="unlock_screen_help_tips">Encore deux étapes avant de découvrir le moyen le plus rapide et le plus sûr pour déverrouiller votre téléphone.</string>
     <string name="weared_days">Nombre total de jours</string>
     <string name="help_title_3">Le Mi-Band a-t-il été appairé avec un autre téléphone ?</string>
-    <string name="look_device_list">Search for nearby Mi Band</string>
+    <string name="look_device_list">Rechercher un Mi-Band à proximité</string>
     <string name="device_list">Mi-Band à proximité</string>
     <string name="unbinding">Dissociation ...</string>
     <string name="share_sleep_title">Nuit dernière</string>
@@ -438,14 +438,14 @@ ouvrir Réglages->Sécurité."</string>
     <string name="instruction_tip_2_4">"Bravo ! Vous avez atteint votre objectif de la journée"</string>
     <string name="instruction_tip_2_5">"Vous avez dépassé votre objectif"</string>
     <string name="instruction_tip_3">"S'il vous plaît recharger Mi-Band"</string>
-    <string name="new_record_born">Great job! You just made a new record.</string>
-    <string name="new_record_format_str">"%1$s burned %2$s cal.
-Every new record gets you one step closer to a better self.
-Don't stop yourself, move forward."</string>
+    <string name="new_record_born">Bravo! Vous avez établi un nouveau record</string>
+    <string name="new_record_format_str">"%1$s pas, %2$s calories brûlées
+Chaque nouveau record n'est qu'une étape
+Il faut garder le rythme"</string>
     <string name="continue_reach_goal">"Continuez d'atteindre vos objectifs"</string>
     <string name="continue_tips_format">"Votre plus beau record serait d'atteindre votre objectif pendant %1$s jours."</string>
-    <string name="gram">g</string>
-    <string name="kilogram">kg</string>
+    <string name="gram">" g "</string>
+    <string name="kilogram">" kg "</string>
     <string name="sync_to_server">Synchro des données sur le Cloud en cours ...</string>
     <string name="unlock_screen_miui_version_low">"Votre version de MIUI n'est pas supporté par le Mi-Band, veuillez mettre à jour votre version.</string>
     <string name="share_uninstall_client">"L'application n'a pas été installée, incapable de partager"</string>
@@ -457,12 +457,12 @@ Don't stop yourself, move forward."</string>
     <string name="setting_about_app">Version app: </string>
     <string name="stop">Arrêt</string>
     <string name="start">Démarrer</string>
-    <string name="no_wear_bracelet">You did not wear Mi Band last night.</string>
-    <string name="no_wear_user_modified">Manually add details about my sleep</string>
+    <string name="no_wear_bracelet">"Vous n'avez pas porter votre Mi-Band la nuit dernière"</string>
+    <string name="no_wear_user_modified">Ajouter manuellement les données sur mon sommeil</string>
     <string name="dynamic_pull_connect_failed">Connexion échouée, tirez pour réessayer</string>
     <string name="dynamic_pull_connect_failed_hint">Veuillez vérifier que votre Mi-Band soit assez chargé.</string>
     <string name="dynamic_pull_not_sync_today">"Non synchro aujourd'hui"</string>
-    <string name="dynamic_pull_last_sync_time">Last synced %s</string>
+    <string name="dynamic_pull_last_sync_time">Dernière synchro %s</string>
     <string name="dynamic_pull_connecting_bracelet">Connexion Mi-Band ...</string>
     <string name="dynamic_pull_sync_after_connected">Synchro auto une fois connecté</string>
     <string name="dynamic_pull_syncing">Synchronisation ...</string>
@@ -471,11 +471,11 @@ Don't stop yourself, move forward."</string>
     <string name="dynamic_pull_pull_to_sync">Tirez pour synchroniser</string>
     <string name="dynamic_pull_update_report">%s données mises à jour</string>
     <string name="dynamic_pull_sync_error">Impossible de synchroniser, tirez pour rafraîchir.</string>
-    <string name="bind_weixin_qrcode_name">Mi-Band QR code</string>
-    <string name="mili_exit_login_info_unbind">Exit will disconnect Mi Band with your phone,</string>
-    <string name="mili_exit_login_info_unlock">unlock screen feature will be no longer valid.</string>
-    <string name="mili_exit_login_info_continue_tip">Are you sure to continue?</string>
-    <string name="mili_exit_login_info_exiting">Logging out ...</string>
+    <string name="bind_weixin_qrcode_name">QR code du Mi-Band</string>
+    <string name="mili_exit_login_info_unbind">Êtes-vous sur de vouloir quitter ? Le Mi-Band sera déconnecté de votre téléphone</string>
+    <string name="mili_exit_login_info_unlock">"La fonctionnalité de déverrouillage de l'écran ne sera plus opérationnelle"</string>
+    <string name="mili_exit_login_info_continue_tip">Êtes-vous sûr de vouloir continuer ?</string>
+    <string name="mili_exit_login_info_exiting">Déconnexion ...</string>
     <string name="back">Retour</string>
     <string name="enable_debug_log">Mode de débogage activé ！</string>
     <string name="disable_debug_log">Mode de débogage fermé！</string>
@@ -522,11 +522,11 @@ puis appuyez sur suivant pour compléter la synchronisation."</string>
 La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de batterie."</string>
     <string name="fw_low_battery_view_help">Aide</string>
     <string name="in">En </string>
-    <string name="main_ui_share_tips">"Worked out for %1$s%2$s today.
+    <string name="main_ui_share_tips">"Activité pendant %1$s%2$s aujourd'hui
 %3$s"</string>
     <string name="ran">Couru </string>
-    <string name="main_ui_sleep_share_tips">"Light sleep %1$s%2$s
-Slept in %3$s, woke up at %4$s."</string>
+    <string name="main_ui_sleep_share_tips">"Sommeil léger %1$s%2$s
+Couché à %3$s, réveillé à %4$s"</string>
     <string name="awake_format">, éveillé %1$s fois.</string>
     <string name="awake_format_1">, éveillé une fois.</string>
     <string name="discard">Annuler</string>
