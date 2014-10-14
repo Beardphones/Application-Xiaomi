@@ -121,7 +121,7 @@ Seul la version d'Android 4.4 ou supérieure est prise en charge par le Mi-Band.
     <string name="distance">Distance</string>
     <string name="points_exchange">Credit rewards</string>
     <string name="odo">Distance total</string>
-    <string name="daily_sporty">pas par jours</string>
+    <string name="daily_sporty">Pas par jours</string>
     <string name="unknown_location">Ne se trouve pas</string>
     <string name="km">km</string>
     <string name="cal">cal</string>
