@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="all_numbers_count">
-        <item quantity="other">%d entries</item>
-        <item quantity="one">1 entry</item>
+        <item quantity="other">%d entrées</item>
+        <item quantity="one">1 entrée</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d Items Checked</item>
-        <item quantity="one">%1$d Item Checked</item>
+        <item quantity="other">%1$d fichiers vérifiées</item>
+        <item quantity="one">%1$d fichier vérifié</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Delete selected %1$s conversations?</item>
-        <item quantity="one">Delete this conversation?</item>
+        <item quantity="other">Supprimer la sélection %1$s conversations ?</item>
+        <item quantity="one">Supprimer cette conversation ?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s secs</item>
@@ -18,39 +18,39 @@
         <item quantity="few">%s secs</item>
     </plurals>
     <plurals name="search_results_title">
-        <item quantity="other">%1$s results for \"%2$s\"</item>
-        <item quantity="one">%1$s result for \"%2$s\"</item>
+        <item quantity="other">%1$s résultats pour \"%2$s\"</item>
+        <item quantity="one">%1$s résultat pour \"%2$s\"</item>
     </plurals>
     <plurals name="recipient_count">
-        <item quantity="other">%1$s people</item>
+        <item quantity="other">%1$s personnes</item>
     </plurals>
     <plurals name="message_count">
         <item quantity="other">%1$s messages</item>
         <item quantity="one">%1$s message</item>
     </plurals>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">%d contacts with phone numbers</item>
-        <item quantity="one">1 contact with phone number</item>
+        <item quantity="other">%d contacts avec des numéros de téléphone</item>
+        <item quantity="one">1 contact avec le numéro de téléphone</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d contacts</item>
         <item quantity="one">1 contact</item>
     </plurals>
     <plurals name="listFoundAllContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d trouvé</item>
+        <item quantity="one">1 trouvé</item>
     </plurals>
     <plurals name="searchFoundContacts">
-        <item quantity="other">%d found</item>
-        <item quantity="one">1 found</item>
+        <item quantity="other">%d trouvé</item>
+        <item quantity="one">1 trouvé</item>
     </plurals>
     <plurals name="merge_info">
-        <item quantity="other">merged from %0$d sources</item>
-        <item quantity="one">not merged</item>
+        <item quantity="other">fusionnées à partir %0$d sources</item>
+        <item quantity="one">pas fusionné</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d groups</item>
-        <item quantity="one">1 group</item>
+        <item quantity="other">%0$d groupes</item>
+        <item quantity="one">1 groupe</item>
     </plurals>
     <plurals name="num_contacts_in_group">
         <item quantity="other">%1$d people from %2$s</item>
