@@ -418,7 +418,7 @@ ouvrir Réglages->Sécurité."</string>
     <string name="bind_weixin_succ">Relié avec succès !</string>
     <string name="bind_weixin_save">Sauvegarder dans la galerie,</string>
     <string name="incoming_call_notify">Appel entrant</string>
-    <string name="incoming_call_notify_tips">Notice me if I miss incoming call in %s sec.</string>
+    <string name="incoming_call_notify_tips">"M'avertir si je rate un appel après %s sec"</string>
     <string name="share_step_walk">"J'ai marché"</string>
     <string name="one_week">Au cours de cette semaine, </string>
     <string name="walked">Marché </string>
