@@ -164,8 +164,8 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="alarm_cycle">Répétez</string>
     <string name="login_failed_check_sys_time">"Échec de la connexion, vérifiez le réglage de l'heure et activez la synchronisation horaire du réseau"</string>
     <string name="everyday">Quotidien</string>
-    <string name="mon_fri">Lun. to Ven.</string>
-    <string name="mon_sat">Lun. to Dim.</string>
+    <string name="mon_fri">Lun. à Ven.</string>
+    <string name="mon_sat">Lun. à Dim.</string>
     <string name="device_not_found_not_knocked">"Relancez la recherche après avoir appuyé sur le Mi-Band une fois qu'il clignote."</string>
     <string name="statistic">Statistiques</string>
     <string name="mili_unbind_question_content">Une fois que vous avez désappairé le Mi-Band de votre téléphone, vous pouvez en appairer un autre</string>
