@@ -146,7 +146,7 @@ La connexion sera perdue après la déconnexion."</string>
     <string name="set_mili_name_fail">Impossible de renommer votre Mi-Band.</string>
     <string name="mili_name_too_long">Le nom est trop long, veuillez le changer</string>
     <string name="mili_rename_fail">Échec lors de la mise à jour du nom du Mi-Band</string>
-    <string name="mili_unbind_question">Votre téléphone n\'aura plus accès aux données du Mi Band une fois le désapairrage effectué</string>
+    <string name="mili_unbind_question">Votre téléphone n\'aura plus accès aux données du Mi-Band une fois le désapairrage effectué</string>
     <string name="share_to_title">Mi-Band</string>
     <string name="share_to_content">Partagez votre vie avec le Mi-Band.</string>
     <string name="share_goal_tips_succ">"Vous avez de grands projets ?
@@ -170,7 +170,7 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="statistic">Statistiques</string>
     <string name="mili_unbind_question_content">Une fois que vous avez désappairé le Mi-Band de votre téléphone, vous pouvez en appairer un autre</string>
     <string name="mili_unbind_question_content_1">En complément, vous ne pourrez plus déverrouiller le téléphone avec ce Mi-Band une fois celui-ci désappairé</string>
-    <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi Band et puis de le réinitialiser avec les paramètres d'usine 
+    <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi-Band et puis de le réinitialiser avec les paramètres d'usine 
 Êtes-vous sûr de vouloir continuer ?"</string>
     <string name="mili_exit_login_info">"Vous êtes sur le point de vous déconnecter de votre compte Mi
 Voulez-vous continuer ?"</string>
