@@ -91,7 +91,7 @@ Accord: %2$s"</string>
     <string name="get_help">"Demander de l'aide"</string>
     <string name="system_not_support_title">Pas de soutien.</string>
     <string name="system_not_support_info">"Pour utiliser le Mi-Band, vous avez besoin de mettre à jour la version d'Android de votre téléphone.
-Seul la version d'Android 4.4 ou supérieure est prise en charge par le Mi-Band."</string>
+Seule la version d'Android 4.4 ou supérieure est prise en charge par le Mi-Band."</string>
     <string name="system_low_title">Veuillez mettre à jour votre système.</string>
     <string name="system_low_info">Veuillez installer Android 4.4 ou une version supérieure pour utiliser le Mi-Band.</string>
     <string name="bind_bracelet">Mi-Band trouvé</string>
