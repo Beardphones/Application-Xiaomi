@@ -363,7 +363,7 @@ Veuillez vérifier votre numéro de suivis."</string>
     <string name="wlan_unavailable_dialog_content">%s est nécessaire pour les données 2G/3G, cliquez sur OK pour envoyer uniquement en Wi-Fi</string>
     <string name="wlan_unavailable_dialog_button_sent">Envoyer immédiatement</string>
     <string name="wlan_unavailable_dialog_button_ok">OK</string>
-    <string name="packaging_dialog_content">Génération du rapport, s'il vous plaît attendre un moment…</string>
+    <string name="packaging_dialog_content">Génération du rapport, s\'il vous plaît attendre un moment…</string>
     <string name="bugreport_feedback_from">Pour：%s</string>
     <string name="log_file">Journal d\'exportation</string>
     <string name="log_file_summary">Log file will export to /MIUI/Debug directory in SDcard</string>
@@ -3320,8 +3320,8 @@ Please turn off airplane mode"</string>
     <string name="sim_locked">SIM card is locked</string>
     <string name="sim_not_ready">Sim card is in use. Please try again later.</string>
     <string name="sim_in_airplane_mode">Please disable Airplane mode.</string>
-    <string name="days">%d days</string>
-    <string name="hours">%d hours</string>
+    <string name="days">%d jours</string>
+    <string name="hours">%d heures</string>
     <string name="minutes">%d minutes</string>
     <string name="shutdown_confirm_title">Are you sure you want to shutdown your phone?</string>
     <string name="reboot_confirm_title">Are you sure you want to restart your phone?</string>
