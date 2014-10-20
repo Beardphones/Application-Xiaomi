@@ -5,8 +5,8 @@
         <item quantity="one">%1$d photo disponible</item>
     </plurals>
     <plurals name="sixin_batch_delete_n_conversation_plurals">
-        <item quantity="other">Supprimer %d messages?</item>
-        <item quantity="one">Supprimer %d message?</item>
+        <item quantity="other">Supprimer %d messages ?</item>
+        <item quantity="one">Supprimer %d message ?</item>
     </plurals>
     <plurals name="group_sending_failed_plurals">
         <item quantity="other">"Échec de l'envoi %s messages. Appuyez sur renvoyer."</item>
