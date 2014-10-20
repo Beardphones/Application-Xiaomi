@@ -55,7 +55,7 @@ Accord: %2$s"</string>
     <string name="friends_search_tips">Mi-ID/Pseudo/Téléphone</string>
     <string name="friends_search">Recherche</string>
     <string name="friends_invite2">Invité</string>
-    <string name="statistic_totale">Totale</string>
+    <string name="statistic_total">Totale</string>
     <string name="statistic_day_average">Moy. par jour</string>
     <string name="statistic_detail">Détails</string>
     <string name="day_active_detail">Détails quotidiens</string>
@@ -184,7 +184,7 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="stat_steps">Pas</string>
     <string name="stat_steps_active_time">Durée</string>
     <string name="stat_steps_consecutive_active">Longue</string>
-    <string name="stat_step_active_totale">Temps actif</string>
+    <string name="stat_step_active_total">Temps actif</string>
     <string name="stat_steps_achievement">Progrès</string>
     <string name="stat_sleep_achievement">Progrès</string>
     <string name="stat_step_daily">Pas quotidien</string>
@@ -208,9 +208,9 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="stat_step_run_duration_average">Moy. Couru</string>
     <string name="stat_step_walk_calories_average">Moy. brûler</string>
     <string name="stat_step_run_calories_average">Moy. brûler</string>
-    <string name="stat_step_totale">Pas totalee</string>
-    <string name="stat_step_distance_totale">Distance totale</string>
-    <string name="stat_step_calorie_totale">Totale Brûler</string>
+    <string name="stat_step_total">Pas totalee</string>
+    <string name="stat_step_distance_total">Distance totale</string>
+    <string name="stat_step_calorie_total">Totale Brûler</string>
     <string name="stat_sleep">Temps de veille</string>
     <string name="stat_sleep_deep">Sommeil profond</string>
     <string name="stat_sleep_shallow">Sommeil léger</string>
