@@ -65,7 +65,7 @@ Accord: %2$s"</string>
     <string name="about_copyright" />
     <string name="unit_kilometer">" km "</string>
     <string name="unit_meter">" m "</string>
-    <string name="unit_calorie">" cal "</string>
+    <string name="unit_calorie">" Kcal "</string>
     <string name="unit_step">pas</string>
     <string name="unit_hour">" h "</string>
     <string name="unit_min">" min "</string>
@@ -124,7 +124,7 @@ Seul la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Band
     <string name="daily_sporty">Pas par jours</string>
     <string name="unknown_location">Ne se trouve pas</string>
     <string name="km">km</string>
-    <string name="cal">cal</string>
+    <string name="cal">Kcal</string>
     <string name="step">pas</string>
     <string name="point">points</string>
     <string name="unknown_mili">Moi</string>
@@ -189,14 +189,14 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="stat_sleep_achievement">Progrès</string>
     <string name="stat_step_daily">Pas quotidien</string>
     <string name="stat_step_distance_daily">Distance quotidienne</string>
-    <string name="stat_step_calorie_daily">Brûlée</string>
+    <string name="stat_step_calorie_daily">Brûlées</string>
     <string name="stat_step_piece">Pas</string>
     <string name="stat_step_distance_piece">Distance</string>
-    <string name="stat_step_calorie_piece">Brûlée</string>
-    <string name="stat_step_walk_distance">Distance marché</string>
-    <string name="stat_step_run_distance">Distance couru</string>
-    <string name="stat_step_walk_calorie">Brûlée</string>
-    <string name="stat_step_run_calorie">Brûlée</string>
+    <string name="stat_step_calorie_piece">Brûlées</string>
+    <string name="stat_step_walk_distance">Distance marchée</string>
+    <string name="stat_step_run_distance">Distance courue</string>
+    <string name="stat_step_walk_calorie">Brûlées</string>
+    <string name="stat_step_run_calorie">Brûlées</string>
     <string name="stat_step_walk_duration">Marché</string>
     <string name="stat_step_run_duration">Couru</string>
     <string name="stat_step_average">Pas quotidien</string>
@@ -206,11 +206,11 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="stat_step_run_distance_average">Moy. Distance couru</string>
     <string name="stat_step_walk_duration_average">Moy. Marché</string>
     <string name="stat_step_run_duration_average">Moy. Couru</string>
-    <string name="stat_step_walk_calories_average">Moy. Brûlée</string>
-    <string name="stat_step_run_calories_average">Moy. Brûlée</string>
+    <string name="stat_step_walk_calories_average">Moy. Brûlées</string>
+    <string name="stat_step_run_calories_average">Moy. Brûlées</string>
     <string name="stat_step_total">Pas totale</string>
     <string name="stat_step_distance_total">Distance totale</string>
-    <string name="stat_step_calorie_total">Totale Brûlée</string>
+    <string name="stat_step_calorie_total">Totale Brûlées</string>
     <string name="stat_sleep">Temps de veille</string>
     <string name="stat_sleep_deep">Sommeil profond</string>
     <string name="stat_sleep_shallow">Sommeil léger</string>
@@ -368,20 +368,20 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="share_step_goal_succ_title">Objectif atteint</string>
     <string name="share_step_goal_failed_title_today">Aujourd\'hui</string>
     <string name="share_step_goal_failed_title">Totale</string>
-    <string name="share_step_description">"Marché %1$s brûlé %2$s cal.
+    <string name="share_step_description">"Marché %1$s brûlé %2$s Kcal.
 "</string>
     <string name="share_step_description_run">"Marché %1$s, couru %2$s.
-Brulé %3$s cal.
+Brulé %3$s Kcal.
 "</string>
     <string name="share_step_description_weekly">"Totale %1$s%2$s
-Brulé %3$s cal.
+Brulé %3$s Kcal.
 Le plus haut record quotidien a eu lieu le %4$s, avec %5$s pas marchés ."</string>
     <string name="share_step_description_weekly_run">"Totale %1$s, couru %2$s.
 %3$s
 Le plus haut record quotidien a eu lieu le %4$s, avec %5$s pas marchés."</string>
     <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste."</string>
     <string name="share_step_description_monthly">"%1$s%2$s
- brûlé %3$s cal, et vous avez économisé %4$s gallon(s) d'essence.
+ brûlé %3$s Kcal, et vous avez économisé %4$s gallon(s) d'essence.
 (merci pour la protection de notre terre)
 Le record le plus élevé a eu lieu le %5$s, avec  %6$s pas marchés."</string>
     <string name="share_step_description_monthly_run">"%1$s, couru %2$s
