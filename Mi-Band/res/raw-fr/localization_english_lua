@@ -23,7 +23,7 @@
     hour_minute_format="%d h %d min",
     hour_format="%d h",
 
-    welcome_use="Bonjour, je suis Mi Band",
+    welcome_use="Bonjour, je suis Mi-Band",
     last_week_walked_format="La semaine dernière, tu as marché %d pas",
     last_week_walked_info_format="%d km parcourus, %d calories brûlées",
     last_month_walked_format="Le mois dernier, tu as marché %d pas",
@@ -65,7 +65,7 @@
     activity_walk_format="%s a marché %d pas %s",
     activity_walk_consumed_format="%d calories brûlées %s",
 	
-	activity_rope_skipping_format="%s Skipped rope %d time(s)",
+    activity_rope_skipping_format="%s Skipped rope %d time(s)",
     activity_situp_format="%s Did %d sit-ups",
     activity_consumed_format="Burned %d cal %s",
 
