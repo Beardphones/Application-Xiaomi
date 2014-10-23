@@ -11,7 +11,7 @@
     <string name="address">Adresse:</string>
     <string name="birthday">Anniversaire:</string>
     <string name="note">Note:</string>
-    <string name="add_to_contacts">Ajouter un contact</string>
+    <string name="add_to_contacts">Ajouter à un contact</string>
     <string name="recognize">Analyser</string>
     <string name="place_barcode_into_rectangle">"Placez le code QR ou le code barres à l'intérieur du rectangle"</string>
     <string name="open_flash_error">"Impossible d'activer le flash"</string>
@@ -64,7 +64,7 @@
     <string name="action_open_or_close_motion">Rotation auto</string>
     <string name="toast_open">Ouvrir</string>
     <string name="toast_close">Quitter</string>
-    <string name="super_difficult_click">"Difficulté cliquez "</string>
+    <string name="super_difficult_click">Difficulté(s):</string>
     <string name="click_count_union">" fois"</string>
     <string name="action_open_wechat">Ouvrir WeChat</string>
     <string name="action_share_to_wechat">Partager sur WeChat</string>
@@ -97,7 +97,7 @@
     <string name="recommend">Recommander</string>
     <string name="add">Ajouter</string>
     <string name="running_notification">Mi-Clé</string>
-    <string name="click_to_open">Ouvrir</string>
+    <string name="click_to_open">Appuyer pour ouvrir</string>
     <string name="call_to">Appeler</string>
     <string name="sms_to">Destinataire</string>
     <string name="sms_template">Message (facultatif)</string>
@@ -130,7 +130,7 @@
     <string name="cn_1000">1000</string>
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
-    <string name="splash_tip">Connecter Mi-Clé</string>
+    <string name="splash_tip">Connecter votre Mi-Clé</string>
     <string name="default_action_title">Action par défaut</string>
     <string name="action_home">Accueil</string>
     <string name="action_key_direction">Touche de direction</string>
@@ -151,11 +151,11 @@
     <string name="message_photo_end">Photos ont été enregistrés</string>
     <string name="select_camera">Sélectionner la caméra</string>
     <string name="select_direction">Sélectionnez une direction</string>
-    <string name="key_direction_up">Clé</string>
-    <string name="key_direction_down">Sous la clé de la direction</string>
-    <string name="key_direction_left">Touche de direction gauche</string>
-    <string name="key_direction_right">Touche de direction droite</string>
-    <string name="front_camera">Caméra frontal</string>
+    <string name="key_direction_up">Haut</string>
+    <string name="key_direction_down">Bas</string>
+    <string name="key_direction_left">Gauche</string>
+    <string name="key_direction_right">Droite</string>
+    <string name="front_camera">Caméra frontale</string>
     <string name="back_camera">Caméra arrière</string>
     <string name="write_pic_fail">"Une erreur s'est produite"</string>
     <string name="settings">Paramètres</string>
@@ -185,6 +185,8 @@ Ce commutateur permet de désactiver le retour de vibrations"</string>
     <string name="setting_instant_photo_text">Mise au point Auto (Autofocus)</string>
     <string name="setting_vibrate_text">Retour de vibration intelligent</string>
     <string name="setting_silent_mode">Désactiver la Mi-Clé</string>
+    <string name="setting_proximity_text">Empêcher par inadvertance</string>
+    <string name="setting_proximity_desc">L\'utilisation de capteurs de distance, pour éviter l\'utilisation abusive de la Mi-Clé dans votre poche.</string>
     <string name="setting_silent_mode_default">Mode Casque (Débranchez la Mi-Clé)</string>
     <string name="setting_silent_mode_dust_cap">Mode de prise de la poussière (Ne pas retirer la Mi-Clé)</string>
     <string name="setting_silent_mode_desc">"Après le mode de sélection casque, veillez à débrancher la compteur clé, sinon elle se traduira par aucun bruit.
@@ -219,7 +221,7 @@ Mode antipoussière sélectionné téléphone portable casque appareil dans le t
     <string name="search_taobao_text">Taobao</string>
     <string name="search_iciba_text">Dictionnaire</string>
     <string name="search_select_title">Sélectionner des termes de recherche par défaut</string>
-    <string name="faq_title">F.A.Q</string>
+    <string name="faq_title">F.A.Q Mi-Clé</string>
     <string name="faq_speed_title">Action non reconnue ?</string>
     <string name="faq_speed_text">Le temps de réaction entre deux clics peut être différent en fonction du modèle de téléphone. Il faut adapter la vitesse dans le menu paramètres</string>
     <string name="faq_focus_title">Photos floues ? Lenteur ?</string>
