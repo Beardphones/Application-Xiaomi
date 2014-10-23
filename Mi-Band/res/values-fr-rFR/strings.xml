@@ -334,7 +334,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="firmware_version">Version Firmware</string>
     <string name="step_per_day"> pas/jours</string>
     <string name="remain_days_format">%s jours depuis la première utilisation</string>
-    <string name="remain_days_today_format">Moins d\'un jour de la dernière charge</string>
+    <string name="remain_days_today_format">Moins d\'un jour depuis la dernière charge</string>
     <string name="blue">Bleu</string>
     <string name="red">Rouge</string>
     <string name="green">Vert</string>
