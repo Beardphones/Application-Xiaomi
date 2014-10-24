@@ -226,8 +226,8 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="bmenu_dynamic">Mises à jour</string>
     <string name="bmenu_device">Appareils</string>
     <string name="bmenu_my">Moi</string>
-    <string name="fw_upgrade_succ">Mise à jour du Firmware terminée, attente du redémarrage...</string>
-    <string name="fw_upgrade_failed">La mise à jour du Firmware a échoué.</string>
+    <string name="fw_upgrade_succ">Mise à jour du firmware terminée, attente du redémarrage...</string>
+    <string name="fw_upgrade_failed">La mise à jour du firmware a échoué.</string>
     <string name="user_agreement">"Déclaration de l'utilisateur et Politique de confidentialité"</string>
     <string name="error_code">Erreur</string>
     <string name="alarm_setting">Paramètres alarme</string>
@@ -262,14 +262,14 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="select_image">Editer avatar</string>
     <string name="select_from_camera">Caméra</string>
     <string name="select_from_local">Choisissez dans la Galerie</string>
-    <string name="fw_upgrade_failed_tips">Désolé, la mise à jour du Firmware a échoué. Cela désactivera une partie des fonctionnalités.</string>
+    <string name="fw_upgrade_failed_tips">Désolé, la mise à jour du firmware a échoué. Cela désactivera une partie des fonctionnalités.</string>
     <string name="retry">Refaire</string>
-    <string name="fw_failed_help_title">F.A.Q du Firmware</string>
+    <string name="fw_failed_help_title">F.A.Q du firmware</string>
     <string name="fw_failed_help_title0">Qu\'est-ce que le firmware ?</string>
     <string name="fw_failed_help_tips0">Le firmware est le micro-logiciel embarqué dans le Mi-Band, en charge de son bon fonctionnement.</string>
     <string name="fw_failed_help_title1">Pourquoi dois-je mettre à jour le firmware ?</string>
-    <string name="fw_failed_help_tips1">"Les mises à jour du Firmware peuvent optimiser le fonctionnement du Mi-Band, mais aussi apporter de nouvelles fonctionnalités à celui-ci. Un Firmware qui n'est pas à jour peut causer le dysfonctionnement de certaines fonctionnalités du Mi-Band."</string>
-    <string name="fw_failed_help_title2">"Que faire si je n'arrive pas à mettre à jour le Firmware ?"</string>
+    <string name="fw_failed_help_tips1">"Les mises à jour du firmware peuvent optimiser le fonctionnement du Mi-Band, mais aussi apporter de nouvelles fonctionnalités à celui-ci. Un firmware qui n'est pas à jour peut causer le dysfonctionnement de certaines fonctionnalités du Mi-Band."</string>
+    <string name="fw_failed_help_title2">"Que faire si je n'arrive pas à mettre à jour le firmware ?"</string>
     <string name="fw_failed_help_tips2">"Premièrement, assurez-vous que l'alimentation de Mi-Band n'est pas inférieure à 5%, et que le Mi-Band est correctement connecté à votre téléphone pendant la mise à jour."</string>
     <string name="clock_closed">Désactiver</string>
     <string name="new_version_available">Nouvelle version est disponible</string>
@@ -331,7 +331,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="right_hand">Droit</string>
     <string name="unbind">Dissocier</string>
     <string name="unbind_short">Dissocier</string>
-    <string name="firmware_version">Version Firmware</string>
+    <string name="firmware_version">Version firmware</string>
     <string name="step_per_day"> pas/jours</string>
     <string name="remain_days_format">%s jours depuis la première utilisation</string>
     <string name="remain_days_today_format">Moins d\'un jour depuis la dernière charge</string>
@@ -487,7 +487,7 @@ Il faut garder le rythme"</string>
     <string name="back">Retour</string>
     <string name="enable_debug_log">Mode de débogage activé ！</string>
     <string name="disable_debug_log">Mode de débogage fermé！</string>
-    <string name="fw_upgrade">Mise à jour du Firmware</string>
+    <string name="fw_upgrade">Mise à jour du firmware</string>
     <string name="fw_upgrade_tips">Assurez-vous que votre Mi-Band reste à proximité de votre téléphone pendant l\'opération.</string>
     <string name="fw_upgrade_progress">Completé %s%%</string>
     <string name="runed">Couru</string>
