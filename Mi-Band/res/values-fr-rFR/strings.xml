@@ -216,13 +216,13 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="stat_sleep_shallow">Sommeil léger</string>
     <string name="stat_sleep_time">Couché à</string>
     <string name="stat_sleep_rise_time">Réveillé à</string>
-    <string name="stat_sleep_wake">Durée éveillé</string>
+    <string name="stat_sleep_wake">Durée réveillé</string>
     <string name="stat_sleep_average">Moy. Sommeil</string>
     <string name="stat_sleep_deep_average">Moy. Sommeil profond</string>
     <string name="stat_sleep_shallow_average">Moy. Sommeil léger</string>
     <string name="stat_sleep_time_average">Moy. Couché à</string>
     <string name="stat_sleep_rise_time_average">Moy. Réveillé à</string>
-    <string name="stat_sleep_wake_average">Eveillé/jour</string>
+    <string name="stat_sleep_wake_average">Réveillé/jour</string>
     <string name="bmenu_dynamic">Mises à jour</string>
     <string name="bmenu_device">Appareils</string>
     <string name="bmenu_my">Moi</string>
@@ -301,7 +301,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="dynamic_detail_step_title_today">Aujourd\'hui</string>
     <string name="dynamic_sleep_deep">Sommeil profond</string>
     <string name="dynamic_sleep_shallow">Sommeil léger</string>
-    <string name="dynamic_sleep_active">Temps éveillé</string>
+    <string name="dynamic_sleep_active">Temps réveillé</string>
     <string name="dynamic_sleep_active_start">Prêt à dormir</string>
     <string name="dynamic_sleep_active_end">Prêt à se lever</string>
     <string name="dynamic_tip_unweared">Pas activé</string>
@@ -312,7 +312,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="dynamic_tip_sync_progress">Synchro des données %d%%</string>
     <string name="dynamic_tip_sync_time">%s synchronisé</string>
     <string name="dynamic_detail_modify_sleep_start_time">Temps de début du sommeil correct</string>
-    <string name="dynamic_detail_modify_sleep_end_time">Temps éveillé correct</string>
+    <string name="dynamic_detail_modify_sleep_end_time">Temps réveillé correct</string>
     <string name="time_format_hour_min">%1$s h %2$s m</string>
     <string name="time_format_min">%s min</string>
     <string name="action_pop_my_bracelet">Paramètres Mi-Band</string>
@@ -535,8 +535,8 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="ran">Couru </string>
     <string name="main_ui_sleep_share_tips">"Sommeil léger %1$s%2$s
 Couché à %3$s, réveillé à %4$s"</string>
-    <string name="awake_format">, éveillé %1$s fois.</string>
-    <string name="awake_format_1">, éveillé une fois.</string>
+    <string name="awake_format">, réveillé %1$s fois.</string>
+    <string name="awake_format_1">, réveillé une fois.</string>
     <string name="discard">Annuler</string>
     <string name="discard_alarm_change">Annuler les changements ?</string>
     <string name="notify_status_motor">Vibreur du bracelet</string>
