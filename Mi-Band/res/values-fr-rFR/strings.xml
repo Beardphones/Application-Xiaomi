@@ -34,13 +34,13 @@ Accord: %2$s"</string>
     <string name="date_last_month">Mois dernier</string>
     <string name="date_from_to">%1$s à %2$s</string>
     <string name="date_from_to_short">%1$s-%2$s</string>
-    <string name="date_month_day">d MMM</string>
-    <string name="date_year_month_day">d MMM, yyyy</string>
+    <string name="date_month_day">dd MMMM</string>
+    <string name="date_year_month_day">dd MMMM, yyyy</string>
     <string name="date_month_day_short">%1$d/%2$d</string>
     <string name="date_month_day_week">%1$s %2$s</string>
     <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
     <string name="date_month">MMMM</string>
-    <string name="date_year_month">MMM, yyyy</string>
+    <string name="date_year_month">MMMM, yyyy</string>
     <string name="network_error">La connexion au réseau a échoué, veuillez vérifier votre connexion.</string>
     <string name="prev_step">Précédent</string>
     <string name="next_step">Suivant</string>
@@ -65,7 +65,7 @@ Accord: %2$s"</string>
     <string name="about_copyright" />
     <string name="unit_kilometer">" km "</string>
     <string name="unit_meter">" m "</string>
-    <string name="unit_calorie">" Kcal "</string>
+    <string name="unit_calorie">" cal "</string>
     <string name="unit_step">pas</string>
     <string name="unit_hour">" h "</string>
     <string name="unit_min">" min "</string>
@@ -124,7 +124,7 @@ Seul la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Band
     <string name="daily_sporty">Pas par jours</string>
     <string name="unknown_location">Ne se trouve pas</string>
     <string name="km">km</string>
-    <string name="cal">Kcal</string>
+    <string name="cal">cal</string>
     <string name="step">pas</string>
     <string name="point">points</string>
     <string name="unknown_mili">Moi</string>
@@ -368,20 +368,20 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="share_step_goal_succ_title">Objectif atteint</string>
     <string name="share_step_goal_failed_title_today">Aujourd\'hui</string>
     <string name="share_step_goal_failed_title">Totale</string>
-    <string name="share_step_description">"Marché %1$s brûlé %2$s Kcal.
+    <string name="share_step_description">"Marché %1$s brûlé %2$s cal.
 "</string>
     <string name="share_step_description_run">"Marché %1$s, couru %2$s.
-Brulé %3$s Kcal.
+Brulé %3$s cal.
 "</string>
     <string name="share_step_description_weekly">"Totale %1$s%2$s
-Brulé %3$s Kcal.
+Brulé %3$s cal.
 Le plus haut record quotidien a eu lieu le %4$s, avec %5$s pas marchés ."</string>
     <string name="share_step_description_weekly_run">"Totale %1$s, couru %2$s.
 %3$s
 Le plus haut record quotidien a eu lieu le %4$s, avec %5$s pas marchés."</string>
     <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste."</string>
     <string name="share_step_description_monthly">"%1$s%2$s
- brûlé %3$s Kcal, et vous avez économisé %4$s gallon(s) d'essence.
+ brûlé %3$s cal, et vous avez économisé %4$s gallon(s) d'essence.
 (merci pour la protection de notre terre)
 Le record le plus élevé a eu lieu le %5$s, avec  %6$s pas marchés."</string>
     <string name="share_step_description_monthly_run">"%1$s, couru %2$s
@@ -401,7 +401,7 @@ Le record le plus élevé a eu lieu le %5$s, avec  %6$s pas marchés."</string>
     <string name="share_sleep_description">"Dans la phase de sommeil profond pendant %1$s h et %2$s min, 
 En phase de sommeil léger pendant %3$s h et %4$s min.
 Dans le sommeil: %5$s. Réveil: %6$s"</string>
-    <string name="share_sleep_description_average">"A passé en moyenne %1$sh %2$s min en phase de sommeil profond et %3$sh %4$smin en phase de sommeil léger
+    <string name="share_sleep_description_average">"A passé en moyenne %1$s h %2$s min en phase de sommeil profond et %3$s h %4$s min en phase de sommeil léger
 Vous vous êtes couché aux alentours de %5$s, l'heure de réveil moyenne est %6$s."</string>
     <string name="smart_alarm_notify">Alarme intelligente</string>
     <string name="battery_charge_full">Batterie chargée</string>
@@ -471,8 +471,8 @@ Il faut garder le rythme"</string>
     <string name="dynamic_pull_connect_failed_hint">Veuillez vérifier que votre Mi-Band soit assez chargé.</string>
     <string name="dynamic_pull_not_sync_today">Non synchro aujourd\'hui</string>
     <string name="dynamic_pull_last_sync_time">Dernière synchro %s</string>
-    <string name="dynamic_pull_connecting_bracelet">Connexion Mi-Band ...</string>
-    <string name="dynamic_pull_sync_after_connected">Synchro auto une fois connecté</string>
+    <string name="dynamic_pull_connecting_bracelet">Connexion au Mi-Band ...</string>
+    <string name="dynamic_pull_sync_after_connected">Synchronisation automatique</string>
     <string name="dynamic_pull_syncing">Synchronisation ...</string>
     <string name="dynamic_pull_syncing_progress">Synchronisé %s%%</string>
     <string name="dynamic_pull_release_to_sync">Relâchez pour synchroniser</string>
@@ -494,10 +494,10 @@ Il faut garder le rythme"</string>
     <string name="share_to_miliao_path">Partager via</string>
     <string name="share_to_miliao_target_feeds">Cercle</string>
     <string name="share_to_miliao_target_friends">Amis</string>
-    <string name="share_to_miliao_target_union">Entraînez-vous entre copains.</string>
+    <string name="share_to_miliao_target_union">Entraînez-vous entre copains</string>
     <string name="no_network_connection">Déconnecté du réseau</string>
     <string name="gen_qr_code">Générer un QR code</string>
-    <string name="bin_weixin_device_not_connect">Mi-Band non connecté.</string>
+    <string name="bin_weixin_device_not_connect">Mi-Band non connecté</string>
     <string name="share_to_content_sleep">Mes infos sur mon sommeil</string>
     <string name="share_to_content_step">Mes infos d\'activité</string>
     <string name="share_to_topic">\#Mi-Band#</string>
@@ -605,7 +605,7 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="lab_factory_share_photo_menu_title">Sélectionnez une photo</string>
     <string name="lab_factory_share_photo_menu_camera">Caméra</string>
     <string name="lab_factory_share_photo_menu_gallery">Galerie</string>
-    <string name="lab_factory_sport_result_cost_cal">Coût %d Kcal</string>
+    <string name="lab_factory_sport_result_cost_cal">Coût %d cal</string>
     <string name="lab_factory_sport_pb_cnt">%d heures</string>
     <string name="lab_factory_sport_average_rate_perm_mimute">Average velocity %d t/m</string>
     <string name="lab_factory_sport_result_dot">,</string>
