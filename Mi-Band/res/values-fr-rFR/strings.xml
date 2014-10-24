@@ -278,7 +278,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="download_failed">Impossible de télécharger l\'APK.</string>
     <string name="start_download">Téléchargement en tâche de fond...</string>
     <string name="apk_download_ok">Téléchargement complet de l\'app Mi-Band.</string>
-    <string name="bracelet_login_info_2">Connectez-vous si vous êtes d\'accord avec</string>
+    <string name="bracelet_login_info_2">Connectez-vous si vous êtes d\'accord avec </string>
     <string name="please_input_gender">Sélectionnez un genre</string>
     <string name="input_precise_person_info">Veuillez renseigner vos informations personnelles. Plus de détails aideront à obtenir des résultats plus précis</string>
     <string name="age">Age</string>
@@ -508,7 +508,7 @@ Il faut garder le rythme"</string>
     <string name="move_and_capture">Déplacer et capturé</string>
     <string name="share_miliao_too_old">Votre version de Mi-Talk est trop ancienne.</string>
     <string name="first_use_days_today_format">Moins d\'un jour depuis la première utilisation.</string>
-    <string name="first_use_remain_days_format">%s jours depuis la première utilisation</string>
+    <string name="first_use_remain_days_format">%s jour(s) depuis la première utilisation</string>
     <string name="until_hit_goals">Objectifs atteints consécutifs jusqu\'au %s</string>
     <string name="continue_reach_goal_new_record">Nouveau record créé</string>
     <string name="bind_weixin_new_tips">"Appuyez sur Lier avec WeChat pour commencer, 
