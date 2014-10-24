@@ -398,10 +398,10 @@ Le record le plus élevé a eu lieu le %5$s, avec  %6$s pas marchés."</string>
     <string name="share_continue_goal_format_run">"Marche totale de %1$s, couru %2$s.
 %3$s.
 %4$s"</string>
-    <string name="share_sleep_description">"Dans la phase de sommeil profond pour %1$s h et %2$s min, 
-En phase de sommeil léger pour %3$s h et %4$s min.
-Dans le sommeil: %5$s. Eveillé: %6$s"</string>
-    <string name="share_sleep_description_average">"A passé en moyenne %1$sh %2$smin en phase de sommeil profond et %3$sh %4$smin en phase de sommeil léger
+    <string name="share_sleep_description">"Dans la phase de sommeil profond pendant %1$s h et %2$s min, 
+En phase de sommeil léger pendant %3$s h et %4$s min.
+Dans le sommeil: %5$s. Réveil: %6$s"</string>
+    <string name="share_sleep_description_average">"A passé en moyenne %1$sh %2$s min en phase de sommeil profond et %3$sh %4$smin en phase de sommeil léger
 Vous vous êtes couché aux alentours de %5$s, l'heure de réveil moyenne est %6$s."</string>
     <string name="smart_alarm_notify">Alarme intelligente</string>
     <string name="battery_charge_full">Batterie chargée</string>
