@@ -357,7 +357,7 @@ Du lundi au dimanche, 8:00 - 18:00"</string>
     <string name="alarm_device_not_connect">Veuillez relier un Mi-Band avant de régler l\'alarme.</string>
     <string name="unlock_screen_not_connect">Veuillez appairer un Mi-Band avant de régler le Déverrouillage de l\'écran.</string>
     <string name="unlock_screen_help_tips">Encore deux étapes avant de découvrir le moyen le plus rapide et le plus sûr pour déverrouiller votre téléphone.</string>
-    <string name="weared_days">Nombre totale de jours</string>
+    <string name="weared_days">Nombre total de jours</string>
     <string name="look_device_list">Rechercher un Mi-Band à proximité</string>
     <string name="device_list">Mi-Band à proximité</string>
     <string name="unbinding">Dissociation ...</string>
