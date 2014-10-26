@@ -8,7 +8,7 @@
     <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
     <string name="app_name">Mi-Band</string>
     <string name="action_exit">Quitter</string>
-    <string name="register">Signer</string>
+    <string name="register">S\'inscrire</string>
     <string name="login">Connexion</string>
     <string name="logining">Connexion...</string>
     <string name="welcome">Bonjour</string>
