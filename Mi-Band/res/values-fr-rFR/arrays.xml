@@ -3,13 +3,13 @@
     <string-array name="fortune">
         <item>"Facile d'atteindre son objectif sur une journée plus dur de le faire chaque jour."</item>
         <item>"Ce n'est pas une chose facile que d'atteindre un objectif chaque jour."</item>
-        <item>Tu bats de nouveaux records chaque jour !</item>
+        <item>Tu bas de nouveaux records chaque jour !</item>
         <item>Prends plaisir à faire de toi un homme meilleur !</item>
         <item>La persévérance est la qualité première d’un gagnant.</item>
         <item>"L'excellence est un art que l'on n'atteint que par l'exercice constant. Nous sommes ce que nous faisons de manière répétée. L'excellence n'est donc pas une action mais une habitude."</item>
         <item>Atteins un objectif par jour.</item>
         <item>"Accroches-toi pour être encore meilleur aujourd'hui."</item>
-        <item>Fais-le.</item>
+        <item>Fais-Le.</item>
         <item>"Continues à t'entrainer et la victoire viendra d'elle-même."</item>
     </string-array>
     <string-array name="months">
@@ -27,77 +27,35 @@
         <item>Décembre</item>
     </string-array>
     <string-array name="select_days_simple">
-        <item>Une seule fois</item>
+        <item>Une fois</item>
         <item>Tous les jours</item>
         <item>Du Lundi au Vendredi</item>
         <item>Personnaliser</item>
     </string-array>
     <string-array name="weather_aqi_descriptions">
-        <item>Très bon</item>
-        <item>Bon</item>
-        <item>Moyen</item>
-        <item>Médiocre</item>
-        <item>Mauvais</item>
-        <item>Très mauvais</item>
-    </string-array>
-    <string-array name="weather_cloudy">
-        <item>Nuageux</item>
-    </string-array>
-    <string-array name="weather_fine">
-        <item>Clair</item>
-    </string-array>
-    <string-array name="weather_fog">
-        <item>Brouillard</item>
-    </string-array>
-    <string-array name="weather_haze">
-        <item>Brume</item>
-    </string-array>
-    <string-array name="weather_overcast">
-        <item>Couvert</item>
-    </string-array>
-    <string-array name="weather_rain_snows">
-        <item>Neige fondue</item>
-    </string-array>
-    <string-array name="weather_rains">
-        <item>Averses</item>
-        <item>Orages</item>
-        <item>Pluie faible</item>
-        <item>Pluie moyenne</item>
-        <item>Pluie forte</item>
-        <item>Pluie battante</item>
-        <item>Pluie torrentielle</item>
-        <item>Pluie verglaçante</item>
-        <item>Orages accompagnés de grêle</item>
-    </string-array>
-    <string-array name="weather_sands">
-        <item>Poussière</item>
-        <item>Vent de sable</item>
-        <item>Tempête de sable</item>
-        <item>Forte tempête de sable</item>
-    </string-array>
-    <string-array name="weather_snows">
-        <item>Averses de neige</item>
-        <item>Faibles chutes de neige</item>
-        <item>Moyennes chutes de neige</item>
-        <item>Fortes chutes de neige</item>
-        <item>Blizzard</item>
+        <item>Great</item>
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Caution</item>
+        <item>Unhealthy</item>
+        <item>Very Unhealthy</item>
     </string-array>
     <string-array name="weeks">
-        <item>Lun.</item>
-        <item>Mar.</item>
-        <item>Mer.</item>
-        <item>Jeu.</item>
-        <item>Ven.</item>
-        <item>Sam.</item>
-        <item>Dim.</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
     </string-array>
     <string-array name="weeks_short">
-        <item>Lun.</item>
-        <item>Mar.</item>
-        <item>Mer.</item>
-        <item>Jeu.</item>
-        <item>Ven.</item>
-        <item>Sam.</item>
-        <item>Dim.</item>
+        <item>Lundi</item>
+        <item>Mardi</item>
+        <item>Mercredi</item>
+        <item>Jeudi</item>
+        <item>Vendredi</item>
+        <item>Samedi</item>
+        <item>Dimanche</item>
     </string-array>
 </resources>
