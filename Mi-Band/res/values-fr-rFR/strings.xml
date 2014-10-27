@@ -36,7 +36,7 @@ Accord: %2$s"</string>
     <string name="date_from_to_short">%1$s-%2$s</string>
     <string name="date_month_day">dd MMMM</string>
     <string name="date_year_month_day">dd MMMM, yyyy</string>
-    <string name="date_month_day_short">%1$d/%2$d</string>
+    <string name="date_month_day_short">%2$d/%1$d</string>
     <string name="date_month_day_week">%1$s %2$s</string>
     <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
     <string name="date_month">MMMM</string>
@@ -464,7 +464,7 @@ Il faut garder le rythme"</string>
     <string name="setting_about_fw">Version firmware: </string>
     <string name="setting_about_app">Version app: </string>
     <string name="stop">Fin</string>
-    <string name="start">Début</string>
+    <string name="start">Stop</string>
     <string name="no_wear_bracelet">Vous n\'avez pas porter votre Mi-Band la nuit dernière</string>
     <string name="no_wear_user_modified">Ajouter manuellement les données sur mon sommeil</string>
     <string name="dynamic_pull_connect_failed">Connexion échouée, tirez pour réessayer</string>
@@ -553,7 +553,7 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="body">Nuque</string>
     <string name="wrong_system_time">Your system time is incorrect. This will effect Mi Band.</string>
     <string name="restart_bluetooth_tips">S\'il vous plaît redémarrer le Bluetooth.</string>
-    <string name="lab_factory_title">Caractéristiques Lab</string>
+    <string name="lab_factory_title">Caractéristiques</string>
     <string name="lab_factory_sport_type_situp">Sit-up</string>
     <string name="lab_factory_sport_type_ropeskipping">Corde à sauter</string>
     <string name="lab_factory_sport_analyser_activity_not_found">Impossible de charger l\'interface utilisateur</string>
@@ -597,7 +597,7 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="lab_factory_sport_favorite_report_succeeded">Merci pour votre vote !</string>
     <string name="lab_factory_sport_button_restart">Redémarrage</string>
     <string name="lab_factory_sport_button_stop">Stop</string>
-    <string name="action_pop_lab">Caractéristiques Lab</string>
+    <string name="action_pop_lab">Caractéristiques</string>
     <string name="lab_factory_sport_unit">Heure(s)</string>
     <string name="lab_factory_sport_finish_desc">Fini</string>
     <string name="lab_factory_sport_timeout">Aucun événement détecté dans les 2 minutes</string>
