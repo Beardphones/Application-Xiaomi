@@ -46,12 +46,12 @@
     week_continue_reach_goal="Bravo ! Tu as atteint tout tes objectifs de la semaine",
     challenge_format="Tu as atteint ton objectif %d jours d'affilé !",
     personal_best_format="Ton meilleur record est de %d jours !",
-    continue_with_skips_title="Vous n'avez pas atteint votre objectif hier, ne vous inquiétez pas, nous avons utilisé un joker pour te couvrir ;)",
-    personal_best_with_skips_format="Tu viens de réaliser un record pendant %d jour(s) ! De plus, il te reste %d joker(s) ;)",
-    continue_used_n_skips_format="Tu as atteint ton objectif pendant %d jour(s) ! Il te reste %d joker(s) ;)",
-    continue_used_0_skips_format="Tu as atteint ton objectif pendant %d jour(s) ! Tu n'as plus de joker.",
-    personal_best_on_skip_day_title="Tu as atteint ton objectif pendant %d jour(s) ! Pour vous récompenser, nous te donnons un joker comme cadeau ;) Avec un joker, tu peux tricher quand tu n'atteint pas ton but dans une journée.",
-    personal_best_on_skip_day_info="Tu gagneras un joker une fois que tu auras atteint ton objectif durant 7 jours consécutifs. Ils seront utilisés automatiquement lorsque tu manqueras ton objectif. Un joker est valable pour une journée.",
+    continue_with_skips_title="Vous n'avez pas atteint votre objectif hier, ne vous inquiétez pas, nous avons utilisé une note fictive pour te couvrir ;)",
+    personal_best_with_skips_format="Tu viens de réaliser un record pendant %d jour(s) ! De plus, il te reste %d note(s) fictive(s) ;)",
+    continue_used_n_skips_format="Tu as atteint ton objectif pendant %d jour(s) ! Il te reste %d note(s) fictive(s) ;)",
+    continue_used_0_skips_format="Tu as atteint ton objectif pendant %d jour(s) ! Tu n'as plus de note fictive.",
+    personal_best_on_skip_day_title="Tu as atteint ton objectif pendant %d jour(s) ! Pour vous récompenser, nous vous donnons une note fictive comme cadeau ;) Pour chaque note, tu peux tricher quand tu n'atteint pas ton but dans une journée.",
+    personal_best_on_skip_day_info="Tu gagneras une note de triche une fois que tu auras atteint ton objectif durant 7 jours consécutifs. Nous allons les utiliser automatiquement lorsque tu manqueras ton objectif. Une note est utilisée pour une journée.",
 
     active_time_format_0="%d h",
     active_time_format_1="%d h",
@@ -61,19 +61,18 @@
     activie_run_format_2="Couru %s. Incroyable endurance !",
     activie_run_consumed="%d calories brûlées. %s",
 
-    get_distance_format=", pour une distance totale de %d m",
-    activity_walk_format="%s a marché %d pas %s",
-    activity_walk_consumed_format="%d calories brûlées %s",
-	
+    get_distance_format=", distance totale de %d m.",
+    activity_walk_format="%s Marché %d pas %s",
+    activity_walk_consumed_format="Brûlées %d cal %s",
+
     activity_rope_skipping_format="%s Skipped rope %d time(s)",
     activity_situp_format="%s Did %d sit-ups",
-    activity_consumed_format="Burned %d cal %s",
-
+    activity_consumed_format="Brûlées %d cal %s",
 
     activity_activity_format="%s %s d'activité %s",
-    last_night_sleeped_good_format="La nuit dernière, tu as dormi %d h %d min. Quelle bonne nuit !",
-    last_night_sleeped_normal_format="La nuit dernière, tu as dormi %d h %d min",
-    deep_sleep_format="En phase de sommeil profond pendant %d h %d min",
+    last_night_sleeped_good_format="La nuit dernière, tu as dormi %s. Quelle bonne nuit !",
+    last_night_sleeped_normal_format="La nuit dernière, tu as dormi %s.",
+    deep_sleep_format="En phase de sommeil profond pendant %s.",
 
     battery_low_info="Batterie faible, veuillez mettre en charge le Mi-Band",
     battery_very_low_info="Batterie très faible, veuillez mettre en charge le Mi-Band",
