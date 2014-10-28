@@ -464,7 +464,7 @@ Il faut garder le rythme"</string>
     <string name="setting_about_fw">Version firmware: </string>
     <string name="setting_about_app">Version app: </string>
     <string name="stop">Fin</string>
-    <string name="start">Stop</string>
+    <string name="start">Début</string>
     <string name="no_wear_bracelet">Vous n\'avez pas porter votre Mi-Band la nuit dernière</string>
     <string name="no_wear_user_modified">Ajouter manuellement les données sur mon sommeil</string>
     <string name="dynamic_pull_connect_failed">Connexion échouée, tirez pour réessayer</string>
