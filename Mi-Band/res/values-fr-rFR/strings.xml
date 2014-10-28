@@ -600,13 +600,13 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="action_pop_lab">Caractéristiques</string>
     <string name="lab_factory_sport_unit">Heure(s)</string>
     <string name="lab_factory_sport_finish_desc">Fini</string>
-    <string name="lab_factory_sport_timeout">Aucun événement détecté dans les 2 minutes</string>
+    <string name="lab_factory_sport_timeout">Aucun événement détecté depuis 2 minutes</string>
     <string name="lab_factory_share_photo">Photo</string>
     <string name="lab_factory_share_photo_menu_title">Sélectionnez une photo</string>
     <string name="lab_factory_share_photo_menu_camera">Appareil photo</string>
     <string name="lab_factory_share_photo_menu_gallery">Galerie</string>
     <string name="lab_factory_sport_result_cost_cal">Coût %d cal</string>
-    <string name="lab_factory_sport_pb_cnt">%d heures</string>
+    <string name="lab_factory_sport_pb_cnt">%d heure(s)</string>
     <string name="lab_factory_sport_average_rate_perm_mimute">Vitesse moyenne %d t/m</string>
     <string name="lab_factory_sport_result_dot">,</string>
     <string name="lab_factory_sport_steps_converted">est égal à %d pas</string>
