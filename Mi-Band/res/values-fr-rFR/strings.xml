@@ -474,7 +474,7 @@ Il faut garder le rythme"</string>
     <string name="dynamic_pull_connecting_bracelet">Connexion au Mi-Band ...</string>
     <string name="dynamic_pull_sync_after_connected">Synchronisation automatique</string>
     <string name="dynamic_pull_syncing">Synchronisation ...</string>
-    <string name="dynamic_pull_syncing_progress">Synchronisé %s%%</string>
+    <string name="dynamic_pull_syncing_progress">%s%% synchronisé</string>
     <string name="dynamic_pull_release_to_sync">Relâchez pour synchroniser</string>
     <string name="dynamic_pull_pull_to_sync">Tirez pour synchroniser</string>
     <string name="dynamic_pull_update_report">%s données mises à jour</string>
