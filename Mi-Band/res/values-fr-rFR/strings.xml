@@ -611,7 +611,7 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="lab_factory_sport_result_dot">,</string>
     <string name="lab_factory_sport_steps_converted">est égal à %d pas</string>
     <string name="lab_factory_exit_press_again">Appuyez sur la touche retour pour quitter</string>
-    <string name="lab_factory_internal_test">Est l\'analyse de diagramme ?</string>
+    <string name="lab_factory_internal_test">Analyse des modes Sport et tests</string>
     <string name="lab_factory_sport_come_on">Créer son record personnel</string>
     <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130>%1$s&lt;/font></string>
 </resources>
