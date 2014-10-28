@@ -576,7 +576,7 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="lab_factory_sport_min">%s points</string>
     <string name="lab_factory_sport_second">%s secondes</string>
     <string name="lab_factory_sport_min_second" formatted="false">%s points %s secondes</string>
-    <string name="lab_factory_sport_attention_punish_cheating"><font color="#ff0000">我瞟见你可能在作弊哦！小心终极惩罚，本组记录清零呢。Eyes on you！</font></string>
+    <string name="lab_factory_sport_attention_punish_cheating"><font color="#ff0000">Oh ! Vous pouvez tricher, mais attention au châtiment ultime. Le groupe sera déçu. On vous surveille !</font></string>
     <string name="lab_factory_sport_more_sport_favorite_vote">Votez pour plus de sports</string>
     <string name="lab_factory_sport_more_sport_favorite_notice">S\'il vous plaît choisir un seul sport</string>
     <string name="lab_factory_sport_type_swimming">Piscine</string>
