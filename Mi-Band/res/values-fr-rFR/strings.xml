@@ -553,7 +553,7 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="body">Nuque</string>
     <string name="wrong_system_time">Your system time is incorrect. This will effect Mi Band.</string>
     <string name="restart_bluetooth_tips">S\'il vous plaît redémarrer le Bluetooth.</string>
-    <string name="lab_factory_title">Caractéristiques</string>
+    <string name="lab_factory_title">Centre de fitness</string>
     <string name="lab_factory_sport_type_situp">Abdoninaux</string>
     <string name="lab_factory_sport_type_ropeskipping">Corde à sauter</string>
     <string name="lab_factory_sport_analyser_activity_not_found">Impossible de charger l\'interface utilisateur</string>
