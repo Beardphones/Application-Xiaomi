@@ -315,8 +315,8 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="main_ui_sleep_share_tips">"Sommeil léger %1$s%2$s
 Couché à %3$s, réveillé à %4$s"</string>
     <string name="male">Homme</string>
-    <string name="marathon_format_0">"C'est environ %1$s demi-marathon(s)."</string>
-    <string name="marathon_format_1">Plus que %1$s demi-marathon(s).</string>
+    <string name="marathon_format_0">"C'est environ %1$s marathon(s)."</string>
+    <string name="marathon_format_1">Plus que %1$s marathon(s).</string>
     <string name="mili_exit_login_info">"Vous êtes sur le point de vous déconnecter de votre compte Mi
 Voulez-vous continuer ?"</string>
     <string name="mili_exit_login_info_continue">"Échec de la synchronisation, veuillez vérifier la connexion réseau 
