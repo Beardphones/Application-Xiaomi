@@ -158,7 +158,7 @@ Adresse: %2$s"</string>
     <string name="exit_app">Quitter</string>
     <string name="exit_app_continue">Continuer</string>
     <string name="exit_app_tips">"Etes-vous sûr de vouloir vous déconnecter ? 
-La connexion sera perdue après la déconnexion."</string>
+La synchronisation sera perdue après la déconnexion."</string>
     <string name="exit_login">Déconnexion</string>
     <string name="exit_login_1">Etes-vous sûr de vouloir vous déconnecter ?</string>
     <string name="failed_enable_bt">Activer Bluetooth</string>
