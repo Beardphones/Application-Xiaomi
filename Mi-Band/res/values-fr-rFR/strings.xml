@@ -597,7 +597,7 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="lab_factory_sport_favorite_report_succeeded">Merci pour votre vote !</string>
     <string name="lab_factory_sport_button_restart">Redémarrage</string>
     <string name="lab_factory_sport_button_stop">Stop</string>
-    <string name="action_pop_lab">Caractéristiques</string>
+    <string name="action_pop_lab">Centre de fitness</string>
     <string name="lab_factory_sport_unit">Heure(s)</string>
     <string name="lab_factory_sport_finish_desc">Fini</string>
     <string name="lab_factory_sport_timeout">Aucun événement détecté depuis 2 minutes</string>
