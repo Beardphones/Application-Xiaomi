@@ -141,7 +141,7 @@ Adresse: %2$s"</string>
     <string name="dynamic_sleep_deep">Sommeil profond</string>
     <string name="dynamic_sleep_deep_title">Sommeil profond %s</string>
     <string name="dynamic_sleep_shallow">Sommeil léger</string>
-    <string name="dynamic_sleep_tip">Totale</string>
+    <string name="dynamic_sleep_tip">Total</string>
     <string name="dynamic_step_tip">Mesures actuelles</string>
     <string name="dynamic_tip_sleep_unsynced">Non mis à jour</string>
     <string name="dynamic_tip_step_sync_time_hour">%d h avant</string>
@@ -461,21 +461,22 @@ Vous vous êtes couché aux alentours de %5$s, l'heure de réveil moyenne est %6
     <string name="share_step_description">"Marché %1$s brûlé %2$s cal.
 "</string>
     <string name="share_step_description_monthly">"%1$s%2$s
- brûlé %3$s cal, et vous avez économisé %4$s gallon(s) d'essence.
-(merci pour la protection de notre terre)
-Le record le plus élevé a eu lieu le %5$s, avec  %6$s pas marchés."</string>
+ Avec %3$s cal. brûlées, vous avez économisé %4$s gallon(s) d'essence.
+(merci pour la protection de notre planète)
+Le meilleur record a eu lieu le %5$s, avec %6$s pas marchés."</string>
     <string name="share_step_description_monthly_run">"%1$s, couru %2$s
  %3$s, et vous avez économisé %4$s gallon(s) d'essence.
-(merci pour la protection de notre terre)
-Le record le plus élevé a eu lieu le %5$s, avec  %6$s pas marchés."</string>
+(merci pour la protection de notre planète)
+Le meilleur record a eu lieu le %5$s, avec %6$s pas marchés."</string>
     <string name="share_step_description_run">"Marché %1$s, couru %2$s.
-Brulé %3$s cal.
+%3$s cal. brûlées.
 "</string>
-    <string name="share_step_description_weekly">"Totale %1$s%2$s
-Brulé %3$s cal.
-Le plus haut record quotidien a eu lieu le %4$s, avec %5$s pas marchés ."</string>
-    <string name="share_step_description_weekly_run">"Totale %1$s, couru %2$s.%3$sLe plus haut record quotidien a eu lieu le %4$s, avec %5$s pas marchés."</string>
-    <string name="share_step_goal_failed_title">Totale</string>
+    <string name="share_step_description_weekly">"Total %1$s%2$s
+%3$s cal. brûlées.
+Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas marchés."</string>
+    <string name="share_step_description_weekly_run">"Total %1$s, couru %2$s.%3$s
+Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas courus."</string>
+    <string name="share_step_goal_failed_title">Total</string>
     <string name="share_step_goal_failed_title_today">Aujourd\'hui</string>
     <string name="share_step_goal_succ_title">Objectif atteint</string>
     <string name="share_step_goal_succ_title_today">Objectif du jour atteint !</string>
@@ -528,7 +529,7 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="stat_step_run_distance_average">Moy. distance couru</string>
     <string name="stat_step_run_duration">Couru</string>
     <string name="stat_step_run_duration_average">Moy. couru</string>
-    <string name="stat_step_total">Pas totale</string>
+    <string name="stat_step_total">Pas totals</string>
     <string name="stat_step_walk_calorie">Brûlées en marchant</string>
     <string name="stat_step_walk_calories_average">Moy. brûlées</string>
     <string name="stat_step_walk_distance">Distance marchée</string>
@@ -543,7 +544,7 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="statistic">Statistiques</string>
     <string name="statistic_day_average">Moy. par jour</string>
     <string name="statistic_detail">Détails</string>
-    <string name="statistic_total">Totale</string>
+    <string name="statistic_total">Total</string>
     <string name="step">pas</string>
     <string name="step_per_day"> pas/jour</string>
     <string name="step1">Étape 1:</string>
