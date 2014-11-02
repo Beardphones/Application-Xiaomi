@@ -500,7 +500,7 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="start_download">Téléchargement en tâche de fond...</string>
     <string name="start_weixin">Ouvrir Wechat</string>
     <string name="start_weixin_not_installed">Démarrer WeChat (non installé)</string>
-    <string name="stat_sleep">Temps de veille</string>
+    <string name="stat_sleep">Temps de sommeil</string>
     <string name="stat_sleep_average">Moy. sommeil</string>
     <string name="stat_sleep_deep">Sommeil profond</string>
     <string name="stat_sleep_deep_average">Moy. sommeil profond</string>
