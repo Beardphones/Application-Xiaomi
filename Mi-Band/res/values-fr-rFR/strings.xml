@@ -50,7 +50,7 @@ vous aurez besoin d'être connecté à Internet."</string>
     <string name="bind_weixin_new_disable_tips">Après avoir relié votre compte WeChat et suivi le compte Mi-Band WeChat service, vous pourrez vérifier les informations comme le nombre de pas à travers WeChat. Vous pourrez
 ainsi comparer vos performances avec vos amis.</string>
     <string name="bind_weixin_new_now">Synchro avec WeChat, un moment...</string>
-    <string name="bind_weixin_new_tips">"Appuyez sur Lier avec WeChat pour commencer, 
+    <string name="bind_weixin_new_tips">"Appuyez sur Lier avec WeChat pour commencer,
 puis appuyez sur suivant pour compléter la synchronisation."</string>
     <string name="bind_weixin_now">Génération du QR code ...</string>
     <string name="bind_weixin_qrcode_name">QR code du Mi-Band</string>
@@ -70,7 +70,7 @@ Accord: %2$s"</string>
 Adresse: %2$s"</string>
     <string name="bracelet_login_info">Mi-Cloud fournira des suggestions basées sur vos activités et le suivi de votre sommeil.</string>
     <string name="bracelet_login_info_2">Connectez-vous si vous êtes d\'accord avec la
-</string>
+    </string>
     <string name="bracelet_login_title">Salut, je suis ton Mi-Band.</string>
     <string name="bracelet_not_connected_bat_unknown">Mi-Band non appairé, autonomie inconnue.</string>
     <string name="bracelet_not_found_info">Veuillez recommencer la recherche quand vous voyez une des LED du Mi-Band émettre des flashs.</string>
@@ -159,7 +159,7 @@ Adresse: %2$s"</string>
     <string name="everyday">Tous les jours</string>
     <string name="exit_app">Quitter</string>
     <string name="exit_app_continue">Continuer</string>
-    <string name="exit_app_tips">"Etes-vous sûr de vouloir vous déconnecter ? 
+    <string name="exit_app_tips">"Etes-vous sûr de vouloir vous déconnecter ?
 La synchronisation sera perdue après la déconnexion."</string>
     <string name="exit_login">Déconnexion</string>
     <string name="exit_login_1">Etes-vous sûr de vouloir vous déconnecter ?</string>
@@ -181,7 +181,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="fw_failed_help_title0">Qu\'est-ce que le firmware ?</string>
     <string name="fw_failed_help_title1">Pourquoi dois-je mettre à jour le firmware ?</string>
     <string name="fw_failed_help_title2">"Que faire si je n'arrive pas à mettre à jour le firmware ?"</string>
-    <string name="fw_low_battery_tips">"Impossible de faire la mise à jour si la batterie du Mi-Band est inférieure à 5%. 
+    <string name="fw_low_battery_tips">"Impossible de faire la mise à jour si la batterie du Mi-Band est inférieure à 5%.
 La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de batterie."</string>
     <string name="fw_low_battery_title">Veuillez recharger le Mi-Band pendant la mise à jour.</string>
     <string name="fw_low_battery_view_help">Aide</string>
@@ -328,7 +328,7 @@ Couché à %3$s, réveillé à %4$s"</string>
     <string name="marathon_format_1">Plus que %1$s marathon(s).</string>
     <string name="mili_exit_login_info">"Vous êtes sur le point de vous déconnecter de votre compte Mi
 Voulez-vous continuer ?"</string>
-    <string name="mili_exit_login_info_continue">"Échec de la synchronisation, veuillez vérifier la connexion réseau 
+    <string name="mili_exit_login_info_continue">"Échec de la synchronisation, veuillez vérifier la connexion réseau
 Si vous choisissez de quitter maintenant, les données non synchronisées seront perdues. Êtes-vous sur de vouloir quitter ?"</string>
     <string name="mili_exit_login_info_continue_tip">Êtes-vous sûr de vouloir continuer ?</string>
     <string name="mili_exit_login_info_exiting">Déconnexion ...</string>
@@ -337,7 +337,7 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="mili_name">Nom du Mi-Band</string>
     <string name="mili_name_too_long">Le nom est trop long, veuillez le changer</string>
     <string name="mili_rename_fail">Échec lors de la mise à jour du nom du Mi-Band</string>
-    <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi-Band et puis de le réinitialiser avec les paramètres d'usine 
+    <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi-Band et puis de le réinitialiser avec les paramètres d'usine
 Êtes-vous sûr de vouloir continuer ?"</string>
     <string name="mili_unbind_question">Votre téléphone n\'aura plus accès aux données du Mi-Band une fois le désapairrage effectué</string>
     <string name="mili_unbind_question_content">Une fois que vous avez désappairé le Mi-Band de votre téléphone, vous pouvez en appairer un autre</string>
@@ -368,8 +368,8 @@ Il faut garder le rythme"</string>
     <string name="no_wear_bracelet">Vous n\'avez pas porter votre Mi-Band la nuit dernière</string>
     <string name="no_wear_user_modified">Ajouter manuellement les données sur mon sommeil</string>
     <string name="noti_bracelet_low_battery_content_high">Il vous reste moins de 5%, veuillez recharger le Mi-Band.</string>
-    <string name="noti_bracelet_low_battery_content_low">Battery is very low, You need to recharge your band.</string>
-    <string name="noti_bracelet_low_battery_content_mid">You need to recharge your band.</string>
+    <string name="noti_bracelet_low_battery_content_low">La batterie est faible, vous devez recharger le Mi-Band.</string>
+    <string name="noti_bracelet_low_battery_content_mid">Vous devez recharger votre bracelet.</string>
     <string name="noti_bracelet_low_battery_title">Batterie faible</string>
     <string name="noti_bracelet_low_battery_title_low">La batterie est épuisée, veuillez recharger le Mi-Band.</string>
     <string name="notify_status_motor">Vibreur du bracelet</string>
@@ -460,7 +460,7 @@ Cela correspond à une marche de 12000 pas."</string>
 Faites vos premiers pas."</string>
     <string name="share_miliao_too_old">Votre version de Mi-Talk est trop ancienne.</string>
     <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste."</string>
-    <string name="share_sleep_description">"Dans la phase de sommeil profond pendant %1$s h et %2$s min, 
+    <string name="share_sleep_description">"Dans la phase de sommeil profond pendant %1$s h et %2$s min,
 En phase de sommeil léger pendant %3$s h et %4$s min.
 Endormi : %5$s. Réveil : %6$s"</string>
     <string name="share_sleep_description_average">"A passé en moyenne %1$s h %2$s min en phase de sommeil profond et %3$s h %4$s min en phase de sommeil léger
@@ -469,19 +469,21 @@ Vous vous êtes couché aux alentours de %5$s, l'heure de réveil moyenne est %6
     <string name="share_sleep_title_average">Sommeil moy.</string>
     <string name="share_sleep_title_daily">Sommeil</string>
     <string name="share_step_description">"Marché %1$s brûlé %2$s cal.
-"</string>
+    "</string>
     <string name="share_step_description_monthly">"%1$s%2$s
- Avec %3$s cal. brûlées, vous avez économisé %4$s gallon(s) d'essence.
+Avec %3$s cal. brûlées, vous avez économisé %4$s gallon(s) d'essence.
 (merci pour la protection de notre planète)
 Le meilleur record a eu lieu le %5$s, avec %6$s pas marchés."</string>
     <string name="share_step_description_monthly_run">"%1$s, couru %2$s
- %3$s, et vous avez économisé %4$s gallon(s) d'essence.
+%3$s, et vous avez économisé %4$s gallon(s) d'essence.
 (merci pour la protection de notre planète)
 Le meilleur record a eu lieu le %5$s, avec %6$s pas marchés."</string>
     <string name="share_step_description_run">"Marché %1$s, couru %2$s.
-%3$s cal. brûlées."</string>
+%3$s cal. brûlées.
+"</string>
     <string name="share_step_description_weekly">"Total %1$s%2$s
-%3$s cal. brûlées.Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas marchés."</string>
+%3$s cal. brûlées.
+Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas marchés."</string>
     <string name="share_step_description_weekly_run">"Total %1$s, couru %2$s.%3$s
 Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas courus."</string>
     <string name="share_step_goal_failed_title">Total</string>
@@ -499,7 +501,7 @@ Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas courus."</string>
     <string name="share_to_title">Mi-Band</string>
     <string name="share_to_topic">\#Mi-Band#</string>
     <string name="share_uninstall_client">L\'application n\'a pas été installée, incapable de partager</string>
-    <string name="signal_strength">Signal strength: </string>
+    <string name="signal_strength">Force du signal : </string>
     <string name="smart_alarm_clock">Alarme</string>
     <string name="smart_alarm_notify">Alarme intelligente</string>
     <string name="smart_wake_up">Alerte</string>
