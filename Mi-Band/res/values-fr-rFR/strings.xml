@@ -235,6 +235,10 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="lab_factory_exercise_state_ready">GO</string>
     <string name="lab_factory_exercise_state_stopped">Stop</string>
     <string name="lab_factory_exit_press_again">Appuyez sur la touche retour pour quitter</string>
+    <string name="lab_factory_sport_vote_desc">Voter pour votre sport favori</string>
+    <string name="lab_factory_sport_vote_sub_desc">It is coming soon after next app upgrade</string>
+    <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
+    <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour</string>
     <string name="lab_factory_internal_test">Analyse des modes Sport et tests</string>
     <string name="lab_factory_item_group_others">Autres</string>
     <string name="lab_factory_item_group_social">Social</string>
