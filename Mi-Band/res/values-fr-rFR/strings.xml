@@ -41,7 +41,7 @@ Accord: %2$s"</string>
     <string name="bind_bracelet">Mi-Band trouvé</string>
     <string name="bind_bracelet_ok">Appairé avec succès.</string>
     <string name="bind_new_mili">Appairer un nouveau Mi-Band</string>
-    <string name="bind_qq">Sync with QQ</string>
+    <string name="bind_qq">Synchroniser avec QQ</string>
     <string name="bind_qq_health">Synchronisez avec le Centre de santé QQ</string>
     <string name="bind_qq_health_tip">"Synchronisez données (pas et sommeil) avec le Centre de santé QQ,
 vous aurez besoin d'être connecté à Internet."</string>
@@ -84,7 +84,7 @@ Adresse: %2$s"</string>
     <string name="cm">cm</string>
     <string name="come_from_xiaomi_bracelet">A partir du Mi-Band</string>
     <string name="confirm">Confirmer</string>
-    <string name="confirm_lazy_day">Are you sure to confirm a lazy day?</string>
+    <string name="confirm_lazy_day">Etes-vous sûr de confirmer une journée de farniente ?</string>
     <string name="connect_bracelet_now">Connexion...</string>
     <string name="content_too_short">Le contenu est manquant.</string>
     <string name="continue_reach_goal">"Continuez d'atteindre vos objectifs"</string>
@@ -252,8 +252,8 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="lab_factory_sport_button_restart">Redémarrage</string>
     <string name="lab_factory_sport_button_stop">Stop</string>
     <string name="lab_factory_sport_come_on">Créer son record personnel</string>
-    <string name="lab_factory_sport_continuous_ropeskipping">Continuous</string>
-    <string name="lab_factory_sport_continuous_situp">Continuous</string>
+    <string name="lab_factory_sport_continuous_ropeskipping">Sans interruption</string>
+    <string name="lab_factory_sport_continuous_situp">Sans interruption</string>
     <string name="lab_factory_sport_device_preparing">Préparation</string>
     <string name="lab_factory_sport_finish_desc">Fini</string>
     <string name="lab_factory_sport_gb_count">Continuité PB %d fois</string>
@@ -603,8 +603,7 @@ ouvrir Réglages->Sécurité."</string>
     <string name="upgrade">Mise à jour</string>
     <string name="upgrade_tip">Notification de mise à jour</string>
     <string name="user_agreement">"Déclaration de l'utilisateur et Politique de confidentialité"</string>
-    <string name="user_agreement_prefix">"Pour utiliser ce produit, vous devez accepter notre
-
+    <string name="user_agreement_prefix">"Pour utiliser ce produit, vous devez accepter notre\n
 "</string>
     <string name="visit_micom">Visitez le site officiel</string>
     <string name="wait">Un moment ...</string>
