@@ -41,6 +41,7 @@ Accord: %2$s"</string>
     <string name="bind_bracelet">Mi-Band trouvé</string>
     <string name="bind_bracelet_ok">Appairé avec succès.</string>
     <string name="bind_new_mili">Appairer un nouveau Mi-Band</string>
+    <string name="bind_qq">Sync with QQ</string>
     <string name="bind_qq_health">Synchronisez avec le Centre de santé QQ</string>
     <string name="bind_qq_health_tip">"Synchronisez données (pas et sommeil) avec le Centre de santé QQ,
 vous aurez besoin d'être connecté à Internet."</string>
@@ -83,6 +84,7 @@ Adresse: %2$s"</string>
     <string name="cm">cm</string>
     <string name="come_from_xiaomi_bracelet">A partir du Mi-Band</string>
     <string name="confirm">Confirmer</string>
+    <string name="confirm_lazy_day">Are you sure to confirm a lazy day?</string>
     <string name="connect_bracelet_now">Connexion...</string>
     <string name="content_too_short">Le contenu est manquant.</string>
     <string name="continue_reach_goal">"Continuez d'atteindre vos objectifs"</string>
@@ -212,7 +214,7 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="help_title_3">Mi Band has paired up with another phone?</string>
     <string name="hot_des">Énergie</string>
     <string name="hour_1" />
-    <string name="in">En </string>
+    <string name="in">En </string>
     <string name="incoming_call_notify">Appel entrant</string>
     <string name="incoming_call_notify_tips">M\'avertir si je rate un appel après %s sec</string>
     <string name="input_precise_person_info">Veuillez renseigner vos informations personnelles. Plus de détails aideront à obtenir des résultats plus précis</string>
@@ -235,10 +237,6 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="lab_factory_exercise_state_ready">GO</string>
     <string name="lab_factory_exercise_state_stopped">Stop</string>
     <string name="lab_factory_exit_press_again">Appuyez sur la touche retour pour quitter</string>
-    <string name="lab_factory_sport_vote_desc">Voter pour votre sport favori</string>
-    <string name="lab_factory_sport_vote_sub_desc">C'est pour bientôt, lors de la prochaine mise à jour de l'application</string>
-    <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
-    <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour</string>
     <string name="lab_factory_internal_test">Analyse des modes Sport et tests</string>
     <string name="lab_factory_item_group_others">Autres</string>
     <string name="lab_factory_item_group_social">Social</string>
@@ -247,13 +245,15 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="lab_factory_share_photo_menu_camera">Appareil photo</string>
     <string name="lab_factory_share_photo_menu_gallery">Galerie</string>
     <string name="lab_factory_share_photo_menu_title">Sélectionnez une photo</string>
+    <string name="lab_factory_sport_accumulate">Accumulate %d time(s)</string>
     <string name="lab_factory_sport_analyser_activity_not_found">Impossible de charger l\'interface utilisateur</string>
-    <string name="lab_factory_sport_attention_punish_cheating"><font color="#ff0000">Oh ! Vous pouvez tricher, mais attention au châtiment ultime. Le groupe sera déçu. On vous surveille !</font></string>
     <string name="lab_factory_sport_average_rate_per_minute">Vitesse moyenne %d t/m</string>
     <string name="lab_factory_sport_best_record">Record personnel :</string>
     <string name="lab_factory_sport_button_restart">Redémarrage</string>
     <string name="lab_factory_sport_button_stop">Stop</string>
     <string name="lab_factory_sport_come_on">Créer son record personnel</string>
+    <string name="lab_factory_sport_continuous_ropeskipping">Continuous</string>
+    <string name="lab_factory_sport_continuous_situp">Continuous</string>
     <string name="lab_factory_sport_device_preparing">Préparation</string>
     <string name="lab_factory_sport_finish_desc">Fini</string>
     <string name="lab_factory_sport_gb_count">Continuité PB %d fois</string>
@@ -303,7 +303,11 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="lab_factory_sport_type_tennis">Tennis</string>
     <string name="lab_factory_sport_type_volleyball">Volley-ball</string>
     <string name="lab_factory_sport_unit">Heure(s)</string>
+    <string name="lab_factory_sport_vote_desc">Voter pour votre sport favori</string>
     <string name="lab_factory_sport_vote_others_hint">Saisissez votre sport favori ici</string>
+    <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
+    <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour</string>
+    <string name="lab_factory_sport_vote_sub_desc">C'est pour bientôt, lors de la prochaine mise à jour de l'application</string>
     <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130>%1$s&lt;/font></string>
     <string name="lab_factory_title">Centre de fitness</string>
     <string name="left_hand">Gauche</string>
@@ -363,10 +367,11 @@ Il faut garder le rythme"</string>
     <string name="no_network_connection">Déconnecté du réseau</string>
     <string name="no_wear_bracelet">Vous n\'avez pas porter votre Mi-Band la nuit dernière</string>
     <string name="no_wear_user_modified">Ajouter manuellement les données sur mon sommeil</string>
-    <string name="noti_bracelet_low_battery_content">Il vous reste moins de 5%, veuillez recharger le Mi-Band.</string>
-    <string name="noti_bracelet_low_battery_content_none">La batterie est épuisée, veuillez recharger le Mi-Band.</string>
+    <string name="noti_bracelet_low_battery_content_high">Il vous reste moins de 5%, veuillez recharger le Mi-Band.</string>
+    <string name="noti_bracelet_low_battery_content_low">Battery is very low, You need to recharge your band.</string>
+    <string name="noti_bracelet_low_battery_content_mid">You need to recharge your band.</string>
     <string name="noti_bracelet_low_battery_title">Batterie faible</string>
-    <string name="noti_bracelet_low_battery_title_none">Le Mi-Band s\'est arrêté.</string>
+    <string name="noti_bracelet_low_battery_title_low">La batterie est épuisée, veuillez recharger le Mi-Band.</string>
     <string name="notify_status_motor">Vibreur du bracelet</string>
     <string name="notify_status_motor_alarm">Alarme sonne...</string>
     <string name="notify_status_motor_auth">Correspondant Mi-Band...</string>
@@ -380,7 +385,7 @@ Il faut garder le rythme"</string>
     <string name="notify_status_motor_test">Analyse...</string>
     <string name="odo">Distance totale</string>
     <string name="one_min">1 min. avant</string>
-    <string name="one_week">Au cours de cette semaine, </string>
+    <string name="one_week">Au cours de cette semaine, </string>
     <string name="orange">Orange</string>
     <string name="person_info_finished_info">Le Mi-Band a été correctement configuré.</string>
     <string name="person_info_goal_info">"D'après des études, nous vous suggérons de faire au moins 40 minutes d'entraînement tous les jours.
@@ -400,7 +405,7 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="pull_to_refresh_pull_label">Rafraîchissement déroulant</string>
     <string name="pull_to_refresh_refreshing_label">Chargement en cours…</string>
     <string name="pull_to_refresh_release_label">Arrêtez la charge</string>
-    <string name="ran">Couru </string>
+    <string name="ran">Couru </string>
     <string name="red">Rouge</string>
     <string name="register">S\'inscrire</string>
     <string name="remain_days_format">%s jour(s) depuis la première charge</string>
@@ -474,11 +479,9 @@ Le meilleur record a eu lieu le %5$s, avec %6$s pas marchés."</string>
 (merci pour la protection de notre planète)
 Le meilleur record a eu lieu le %5$s, avec %6$s pas marchés."</string>
     <string name="share_step_description_run">"Marché %1$s, couru %2$s.
-%3$s cal. brûlées.
-"</string>
+%3$s cal. brûlées."</string>
     <string name="share_step_description_weekly">"Total %1$s%2$s
-%3$s cal. brûlées.
-Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas marchés."</string>
+%3$s cal. brûlées.Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas marchés."</string>
     <string name="share_step_description_weekly_run">"Total %1$s, couru %2$s.%3$s
 Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas courus."</string>
     <string name="share_step_goal_failed_title">Total</string>
@@ -496,6 +499,7 @@ Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas courus."</string>
     <string name="share_to_title">Mi-Band</string>
     <string name="share_to_topic">\#Mi-Band#</string>
     <string name="share_uninstall_client">L\'application n\'a pas été installée, incapable de partager</string>
+    <string name="signal_strength">Signal strength: </string>
     <string name="smart_alarm_clock">Alarme</string>
     <string name="smart_alarm_notify">Alarme intelligente</string>
     <string name="smart_wake_up">Alerte</string>
@@ -551,7 +555,7 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="statistic_detail">Détails</string>
     <string name="statistic_total">Total</string>
     <string name="step">pas</string>
-    <string name="step_per_day"> pas/jour</string>
+    <string name="step_per_day"> pas/jour</string>
     <string name="step1">Étape 1:</string>
     <string name="step2">Étape 2:</string>
     <string name="stop">Fin</string>
@@ -599,11 +603,12 @@ ouvrir Réglages->Sécurité."</string>
     <string name="upgrade">Mise à jour</string>
     <string name="upgrade_tip">Notification de mise à jour</string>
     <string name="user_agreement">"Déclaration de l'utilisateur et Politique de confidentialité"</string>
-    <string name="user_agreement_prefix">"Pour utiliser ce produit, vous devez accepter notre\n
+    <string name="user_agreement_prefix">"Pour utiliser ce produit, vous devez accepter notre
+
 "</string>
     <string name="visit_micom">Visitez le site officiel</string>
     <string name="wait">Un moment ...</string>
-    <string name="walked">Marché </string>
+    <string name="walked">Marché </string>
     <string name="wear_hand">Poignet</string>
     <string name="weared_days">Nombre total de jours</string>
     <string name="weather_aqi">Qualité de l\'air %s</string>
