@@ -94,14 +94,14 @@ Adresse: %2$s"</string>
     <string name="date_from_to">%1$s à %2$s</string>
     <string name="date_from_to_short">%1$s-%2$s</string>
     <string name="date_last_month">Mois dernier</string>
-    <string name="date_last_week">Semaine dernière</string>
+    <string name="date_last_week">Sem. dern.</string>
     <string name="date_month">MMMM</string>
     <string name="date_month_day">dd MMMM</string>
     <string name="date_month_day_short">%2$d/%1$d</string>
     <string name="date_month_day_week">%1$s %2$s</string>
     <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
     <string name="date_this_month">Ce mois-ci</string>
-    <string name="date_this_week">Cette semaine</string>
+    <string name="date_this_week">Cette sem.</string>
     <string name="date_today">Aujourd\'hui</string>
     <string name="date_year_month">MMMM, yyyy</string>
     <string name="date_year_month_day">dd MMMM, yyyy</string>
