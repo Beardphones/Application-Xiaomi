@@ -307,7 +307,7 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="lab_factory_sport_vote_others_hint">Saisissez votre sport favori ici</string>
     <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
     <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour</string>
-    <string name="lab_factory_sport_vote_sub_desc">C'est pour bientôt, lors de la prochaine mise à jour de l'application</string>
+    <string name="lab_factory_sport_vote_sub_desc">C\'est pour bientôt, lors de la prochaine mise à jour de l\'application</string>
     <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130>%1$s&lt;/font></string>
     <string name="lab_factory_title">Centre de fitness</string>
     <string name="left_hand">Gauche</string>
