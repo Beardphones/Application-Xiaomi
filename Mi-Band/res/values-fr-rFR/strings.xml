@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about">A propos</string>
+    <string name="about_copyright" />
     <string name="accept">Accepter</string>
     <string name="action_exit">Quitter</string>
     <string name="action_local_ota">Mise à jour sur la carte SD</string>
@@ -14,6 +15,7 @@
     <string name="age">Age</string>
     <string name="ages">Ans</string>
     <string name="agree">"D'accord"</string>
+    <string name="agree_first">"S'il vous plaît lisez et acceptez \n l'Accord utilisateur et la Politique de confidentialité."</string>
     <string name="alarm">Alarme</string>
     <string name="alarm_cycle">Répétez</string>
     <string name="alarm_device_not_connect">Veuillez relier un Mi-Band avant de régler l\'alarme.</string>
@@ -41,9 +43,12 @@ Accord: %2$s"</string>
     <string name="bind_bracelet">Mi-Band trouvé</string>
     <string name="bind_bracelet_ok">Appairé avec succès.</string>
     <string name="bind_new_mili">Appairer un nouveau Mi-Band</string>
+    <string name="bind_qq">Lier à QQ mobile</string>
     <string name="bind_qq_health">Synchronisez avec le Centre de santé QQ</string>
     <string name="bind_qq_health_tip">"Synchronisez données (pas et sommeil) avec le Centre de santé QQ,
 vous aurez besoin d'être connecté à Internet."</string>
+    <string name="bind_qq_health_tip_another_qq">Votre compte mobile de QQ est actuellement connecté et permet de voir les données en matière de santé</string>
+    <string name="bind_qq_health_tip_init">Se connecter pour  terminee la liaison QQ santé</string>
     <string name="bind_qq_health_title">Ajouter un compte QQ</string>
     <string name="bind_weixin_failed">Echec, veuillez réessayer.</string>
     <string name="bind_weixin_new_disable_tips">Après avoir relié votre compte WeChat et suivi le compte Mi-Band WeChat service, vous pourrez vérifier les informations comme le nombre de pas à travers WeChat. Vous pourrez
@@ -60,6 +65,9 @@ puis appuyez sur suivant pour compléter la synchronisation."</string>
     <string name="bind_weixin_title">Synchronisez pour partager et vous comparer à vos amis.</string>
     <string name="blue">Bleu</string>
     <string name="bluetooth">Bluetooth: </string>
+    <string name="bmenu_device">Appareil</string>
+    <string name="bmenu_dynamic">Dynamique</string>
+    <string name="bmenu_my">moi</string>
     <string name="body">Nuque</string>
     <string name="bracelet_info_battery">%s%%</string>
     <string name="bracelet_info_deviceid">%s</string>
@@ -83,6 +91,8 @@ Adresse: %2$s"</string>
     <string name="cm">cm</string>
     <string name="come_from_xiaomi_bracelet">A partir du Mi-Band</string>
     <string name="confirm">Confirmer</string>
+    <string name="confirm_lazy_day">"Confirmez-vous une journée de farniente ?"</string>
+    <string name="congrats">Félicitations</string>
     <string name="connect_bracelet_now">Connexion...</string>
     <string name="content_too_short">Le contenu est manquant.</string>
     <string name="continue_reach_goal">"Continuez d'atteindre vos objectifs"</string>
@@ -106,6 +116,7 @@ Adresse: %2$s"</string>
     <string name="date_yesterday">Hier</string>
     <string name="day">Jours</string>
     <string name="day_active_detail">Détails quotidiens</string>
+    <string name="description_list_icon">Icône objet</string>
     <string name="device_list">Mi-Band à proximité</string>
     <string name="device_not_found_not_knocked">Relancez la recherche après avoir appuyé sur le Mi-Band une fois qu\'il clignote.</string>
     <string name="device_not_response">Pourquoi n\'y a-t-il pas de témoin lumineux sur mon Mi-Band ?</string>
@@ -148,7 +159,7 @@ Adresse: %2$s"</string>
     <string name="dynamic_tip_step_sync_time_min">%d min avant</string>
     <string name="dynamic_tip_step_unsynced">Non mis à jour</string>
     <string name="dynamic_tip_sync_progress">Synchro des données %d%%</string>
-    <string name="dynamic_tip_sync_time">%s synchronisé</string>
+    <string name="dynamic_tip_sync_time">Synchronisé à %s</string>
     <string name="dynamic_tip_unweared">Pas activé</string>
     <string name="dynamic_title_sleep">Dernière nuit</string>
     <string name="dynamic_title_step">Aujourd\'hui</string>
@@ -172,6 +183,9 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="first_use_days_today_format">Moins d\'un jour depuis la première utilisation.</string>
     <string name="first_use_remain_days_format">%s jour(s) depuis la première utilisation</string>
     <string name="found_bracelet_info">Quand les LEDs du Mi-Band commencent à clignoter, appuyez plusieurs fois pour appairer.</string>
+    <string name="friends_invite2">Inviter</string>
+    <string name="friends_search">Rechercher</string>
+    <string name="friends_search_tips">"ID MIUI / surnom / numéro de téléphone"</string>
     <string name="fw_failed_help_tips0">Le firmware est le micro-logiciel embarqué dans le Mi-Band, en charge de son bon fonctionnement.</string>
     <string name="fw_failed_help_tips1">"Les mises à jour du firmware peuvent optimiser le fonctionnement du Mi-Band, mais aussi apporter de nouvelles fonctionnalités à celui-ci. Un firmware qui n'est pas à jour peut causer le dysfonctionnement de certaines fonctionnalités du Mi-Band."</string>
     <string name="fw_failed_help_tips2">"Premièrement, assurez-vous que l'alimentation de Mi-Band n'est pas inférieure à 5%, et que le Mi-Band est correctement connecté à votre téléphone pendant la mise à jour."</string>
@@ -206,6 +220,7 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="help_info_1">Seul Android 4.4 ou supérieur supporte le Mi-Band.</string>
     <string name="help_info_2">Assurez-vous de charger correctement votre Mi-Band. Vous devriez voir les LEDs vertes clignoter pendant la recharge.</string>
     <string name="help_info_3">"Si votre Mi-Band est déjà appairé avec un téléphone ou qu'il n'est pas près de votre téléphone, éteignez le Bluetooth de l'ancien téléphone et relancer la recherche avec le nouveau téléphone à appairer."</string>
+    <string name="help_info_4">"Vous pouvez contacter notre service clientèle pour obtenir de l'aide.\nService clientèle Tél: 400-100-567\nDu lundi au dimanche, 8:00 - 18:00"</string>
     <string name="help_title_0">Votre téléphone est près du Mi-Band ?</string>
     <string name="help_title_1">"Est-ce que le système d'exploitation de votre téléphone répond aux exigences recommandées ?"</string>
     <string name="help_title_2">Est-ce que votre Mi-Band est complètement chargé ?</string>
@@ -243,6 +258,7 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="lab_factory_share_photo_menu_camera">Appareil photo</string>
     <string name="lab_factory_share_photo_menu_gallery">Galerie</string>
     <string name="lab_factory_share_photo_menu_title">Sélectionnez une photo</string>
+    <string name="lab_factory_sport_accumulate">Votre entrainement est de %d mois</string>
     <string name="lab_factory_sport_analyser_activity_not_found">Impossible de charger l\'interface utilisateur</string>
     <string name="lab_factory_sport_attention_punish_cheating"><font color="#ff0000">Oh ! Vous pouvez tricher, mais attention au châtiment ultime. Le groupe sera déçu. On vous surveille !</font></string>
     <string name="lab_factory_sport_average_rate_per_minute">Vitesse moyenne %d t/m</string>
@@ -250,6 +266,8 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="lab_factory_sport_button_restart">Redémarrage</string>
     <string name="lab_factory_sport_button_stop">Stop</string>
     <string name="lab_factory_sport_come_on">Créer son record personnel</string>
+    <string name="lab_factory_sport_continuous_ropeskipping">Quantité de sauts</string>
+    <string name="lab_factory_sport_continuous_situp">Quantité d\'abdoninaux</string>
     <string name="lab_factory_sport_device_preparing">Préparation</string>
     <string name="lab_factory_sport_finish_desc">Fini</string>
     <string name="lab_factory_sport_gb_count">Continuité PB %d fois</string>
@@ -285,21 +303,25 @@ La mise à jour sera lancé automatiquement une fois qu'il aura suffisamment de 
     <string name="lab_factory_sport_timeout">Aucun événement détecté depuis 2 minutes</string>
     <string name="lab_factory_sport_type_badminton">Badminton</string>
     <string name="lab_factory_sport_type_basketball">Basket-ball</string>
-    <string name="lab_factory_sport_type_climbing">Escalade</string>
+    <string name="lab_factory_sport_type_climbing">Randonnée</string>
     <string name="lab_factory_sport_type_football">Football</string>
     <string name="lab_factory_sport_type_others">Autres</string>
     <string name="lab_factory_sport_type_pingpong">Ping Pong</string>
-    <string name="lab_factory_sport_type_riding">Équitation</string>
+    <string name="lab_factory_sport_type_riding">Vélo</string>
     <string name="lab_factory_sport_type_ropeskipping">Corde à sauter</string>
+    <string name="lab_factory_sport_type_running">Jogging</string>
     <string name="lab_factory_sport_type_situp">Abdoninaux</string>
-    <string name="lab_factory_sport_type_skidding">Patinage</string>
+    <string name="lab_factory_sport_type_skidding">Roller</string>
     <string name="lab_factory_sport_type_sliding">Skateboard</string>
     <string name="lab_factory_sport_type_swimming">Natation</string>
     <string name="lab_factory_sport_type_tennis">Tennis</string>
     <string name="lab_factory_sport_type_volleyball">Volley-ball</string>
     <string name="lab_factory_sport_unit">Heure(s)</string>
+    <string name="lab_factory_sport_vote_desc">S\'il vous plaît voter pour votre sport favori</string>
     <string name="lab_factory_sport_vote_others_hint">Saisissez votre sport favori ici</string>
-    <string name="lab_factory_sport_without_pb_info">&lt;font color=#f57130>%1$s&lt;/font></string>
+    <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
+    <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour le</string>
+    <string name="lab_factory_sport_vote_sub_desc">Peut-être que la prochaine fois que vous mettrez à jour l\'application et il apparaîtra dans le centre de fitness !</string>
     <string name="lab_factory_title">Centre de fitness</string>
     <string name="left_hand">Gauche</string>
     <string name="light_color">Couleur des LEDs</string>
@@ -356,10 +378,12 @@ Il faut garder le rythme"</string>
     <string name="new_version_available">Nouvelle version est disponible</string>
     <string name="next_step">Suivant</string>
     <string name="no_network_connection">Déconnecté du réseau</string>
+    <string name="no_network_connection_retry">Le réseau est pas connecté, s\'il vous plaît connectez-vous</string>
     <string name="no_wear_bracelet">Vous n\'avez pas porter votre Mi-Band la nuit dernière</string>
     <string name="no_wear_user_modified">Ajouter manuellement les données sur mon sommeil</string>
-    <string name="noti_bracelet_low_battery_content">Il vous reste moins de 5%, veuillez recharger le Mi-Band.</string>
-    <string name="noti_bracelet_low_battery_content_none">La batterie est épuisée, veuillez recharger le Mi-Band.</string>
+    <string name="noti_bracelet_low_battery_content_high">La capacité batterie est inférieure à 10 %, s\'il vous plaît pensez à recharger</string>
+    <string name="noti_bracelet_low_battery_content_low">La batterie est épuisée, veuillez recharger le Mi-Band.</string>
+    <string name="noti_bracelet_low_battery_content_mid">La capacité batterie est faible, s\'il vous plaît pensez à recharger</string>
     <string name="noti_bracelet_low_battery_title">Batterie faible</string>
     <string name="noti_bracelet_low_battery_title_none">Le Mi-Band s\'est arrêté.</string>
     <string name="notify_status_motor">Vibreur du bracelet</string>
@@ -388,6 +412,8 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="please_knock_bracelet">Sélectionnez votre Mi-Band à appairer</string>
     <string name="please_set_sport_goal">Définissez votre objectif</string>
     <string name="pm">PM</string>
+    <string name="point">point(s)</string>
+    <string name="points_exchange">Échangez vos points produit</string>
     <string name="prev_step">Précédent</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Chargez Plus</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
@@ -482,6 +508,7 @@ Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas courus."</string>
     <string name="share_step_goal_succ_title_today">Objectif du jour atteint !</string>
     <string name="share_step_walk" />
     <string name="share_to_content">Partagez votre vie avec le Mi-Band.</string>
+    <string name="share_to_content_for_event">我报名参加了“国庆七天,日行万步得小米手机4”的活动, 你愿意站在一旁默默祝福还是一起来参加呢？快来报名吧！</string>
     <string name="share_to_content_sleep">Mes infos sur mon sommeil</string>
     <string name="share_to_content_step">Mes infos d\'activité</string>
     <string name="share_to_miliao_path">Partager via</string>
@@ -490,7 +517,9 @@ Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas courus."</string>
     <string name="share_to_miliao_target_union">Entraînez-vous entre copains</string>
     <string name="share_to_title">Mi-Band</string>
     <string name="share_to_topic">\#Mi-Band#</string>
+    <string name="share_to_topic_for_event">\#小米手环日行万步#</string>
     <string name="share_uninstall_client">L\'application n\'a pas été installée, incapable de partager</string>
+    <string name="signal_strength">Force du signal：</string>
     <string name="smart_alarm_clock">Alarme</string>
     <string name="smart_alarm_notify">Alarme intelligente</string>
     <string name="smart_wake_up">Alerte</string>
@@ -498,9 +527,11 @@ Le meilleur record quotidien a eu lieu le %4$s, avec %5$s pas courus."</string>
 Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="start">Début</string>
     <string name="start_download">Téléchargement en tâche de fond...</string>
+    <string name="start_use">Début d\'utilisation</string>
     <string name="start_weixin">Ouvrir Wechat</string>
     <string name="start_weixin_not_installed">Démarrer WeChat (non installé)</string>
     <string name="stat_sleep">Temps de sommeil</string>
+    <string name="stat_sleep_achievement">Progression du sommeil</string>
     <string name="stat_sleep_average">Moy. sommeil</string>
     <string name="stat_sleep_deep">Sommeil profond</string>
     <string name="stat_sleep_deep_average">Moy. sommeil profond</string>
@@ -512,6 +543,7 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="stat_sleep_time_average">Moy. couché à</string>
     <string name="stat_sleep_wake">Durée réveillé</string>
     <string name="stat_sleep_wake_average">Réveillé/jour</string>
+    <string name="stat_step_active_total">Total des événements</string>
     <string name="stat_step_average">Moy. pas quotidiens</string>
     <string name="stat_step_calorie_average">Conso. quotidienne</string>
     <string name="stat_step_calorie_daily">Brûlées ce jour</string>
@@ -536,6 +568,10 @@ Je voudrais me lever quand mon corps est réveillé."</string>
     <string name="stat_step_walk_distance_average">Moy. distance marché</string>
     <string name="stat_step_walk_duration">Marché</string>
     <string name="stat_step_walk_duration_average">Moy. marché</string>
+    <string name="stat_steps">nombre de mesures</string>
+    <string name="stat_steps_achievement">Progression des pas</string>
+    <string name="stat_steps_active_time">Durée de l\'activité</string>
+    <string name="stat_steps_consecutive_active">L\'activité maxinale</string>
     <string name="state_bind_failed">Impossible d\'ajouter un compte</string>
     <string name="state_binded">S\'identifier</string>
     <string name="state_binded_nickname">Ajouter un compte QQ %s</string>
@@ -570,6 +606,8 @@ Seule la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Ban
     <string name="unit_min">" min "</string>
     <string name="unit_min_short">" m "</string>
     <string name="unit_step">pas</string>
+    <string name="unknown_location">Non localisé</string>
+    <string name="unknown_mili">我的</string>
     <string name="unlock_screen">Déverrouillage de l\'écran</string>
     <string name="unlock_screen_help_info0">Pour une question de sécurité, le déverrouillage ne s\'opère que quand le Mi-Band est suffisamment près du téléphone.</string>
     <string name="unlock_screen_help_info1">Si votre téléphone est toujours verrouillé, vous pouvez essayer de redémarrer le Bluetooth pour résoudre le problème.</string>
@@ -597,7 +635,7 @@ ouvrir Réglages->Sécurité."</string>
     <string name="user_agreement_prefix">"Pour utiliser ce produit, vous devez accepter notre\n
 "</string>
     <string name="visit_micom">Visitez le site officiel</string>
-    <string name="wait">Un moment ...</string>
+    <string name="wait">Un instant ...</string>
     <string name="walked">Marché </string>
     <string name="wear_hand">Poignet</string>
     <string name="weared_days">Nombre total de jours</string>
