@@ -284,7 +284,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_monitor_cancelled_notice">Le capteur va compter %s automatiquement</string>
     <string name="lab_factory_sport_monitor_timeout_notice">Pas d\'activité detectée</string>
     <string name="lab_factory_sport_more_sport_favorite_notice">Impossible de choisir plus d\'un sport</string>
-    <string name="lab_factory_sport_more_sport_favorite_vote">Votez pour plus de sports</string>
+    <string name="lab_factory_sport_more_sport_favorite_vote">Voter pour plus de sports</string>
     <string name="lab_factory_sport_pb_count">Record personnel %d fois</string>
     <string name="lab_factory_sport_pb_desc">Meilleur record personnel de %s</string>
     <string name="lab_factory_sport_pb_ropeskipping">Corde à sauter</string>
