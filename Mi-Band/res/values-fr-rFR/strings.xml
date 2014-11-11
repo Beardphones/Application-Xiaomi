@@ -316,7 +316,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_type_tennis">Tennis</string>
     <string name="lab_factory_sport_type_volleyball">Volley-ball</string>
     <string name="lab_factory_sport_unit">fois</string>
-    <string name="lab_factory_sport_vote_desc">S\'il vous plaît voter pour votre sport favori</string>
+    <string name="lab_factory_sport_vote_desc">S\'il vous plaît, votez pour votre sport favori</string>
     <string name="lab_factory_sport_vote_others_hint">Saisissez votre sport favori</string>
     <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
     <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour le</string>
