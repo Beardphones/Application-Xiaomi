@@ -473,7 +473,7 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="share_goal_tips_succ">"Vous avez de grands projets ?
 Faites vos premiers pas."</string>
     <string name="share_miliao_too_old">Votre version de Mi-Talk est trop ancienne.</string>
-    <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste."</string>
+    <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste"</string>
     <string name="share_sleep_description">"Dans la phase de sommeil profond pendant %1$s h et %2$s min, 
 En phase de sommeil léger pendant %3$s h et %4$s min.
 Endormi : %5$s. Réveil : %6$s"</string>
