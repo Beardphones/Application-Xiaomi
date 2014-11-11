@@ -67,7 +67,7 @@ puis appuyez sur suivant pour compléter la synchronisation."</string>
     <string name="bluetooth">Bluetooth: </string>
     <string name="bmenu_device">Appareil</string>
     <string name="bmenu_dynamic">Dynamique</string>
-    <string name="bmenu_my">moi</string>
+    <string name="bmenu_my">Moi</string>
     <string name="body">Nuque</string>
     <string name="bracelet_info_battery">%s%%</string>
     <string name="bracelet_info_deviceid">%s</string>
@@ -100,16 +100,16 @@ Adresse: %2$s"</string>
     <string name="continue_tips_format">"Votre plus beau record serait d'atteindre votre objectif pendant %1$s jour(s)."</string>
     <string name="daily_sporty">Pas par jour</string>
     <string name="date_from_to">%1$s à %2$s</string>
-    <string name="date_from_to_short">%1$s-%2$s</string>
-    <string name="date_last_month">Mois dernier</string>
-    <string name="date_last_week">Semaine dernière</string>
+    <string name="date_from_to_short">%2$s-%1$s</string>
+    <string name="date_last_month">Mois der.</string>
+    <string name="date_last_week">Sem. der.</string>
     <string name="date_month">MMMM</string>
     <string name="date_month_day">dd MMMM</string>
     <string name="date_month_day_short">%2$d/%1$d</string>
-    <string name="date_month_day_week">%1$s %2$s</string>
+    <string name="date_month_day_week">%2$s %1$s</string>
     <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
     <string name="date_this_month">Ce mois-ci</string>
-    <string name="date_this_week">Cette semaine</string>
+    <string name="date_this_week">Cette sem.</string>
     <string name="date_today">Aujourd\'hui</string>
     <string name="date_year_month">MMMM, yyyy</string>
     <string name="date_year_month_day">dd MMMM, yyyy</string>
@@ -266,7 +266,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_button_stop">Stop</string>
     <string name="lab_factory_sport_come_on">Continuez !</string>
     <string name="lab_factory_sport_continuous_ropeskipping">Quantité de sauts</string>
-    <string name="lab_factory_sport_continuous_situp">Quantité d\'abdoninaux</string>
+    <string name="lab_factory_sport_continuous_situp">Quantité d\'abdominaux</string>
     <string name="lab_factory_sport_device_preparing">Prêt</string>
     <string name="lab_factory_sport_finish_desc">Fini</string>
     <string name="lab_factory_sport_gb_count">Continuité PB %d fois</string>
@@ -274,9 +274,9 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_group_record">Nombre de groupe:</string>
     <string name="lab_factory_sport_group_time_cost" formatted="false">Cycle actuel de %s sur %s</string>
     <string name="lab_factory_sport_hour">%d H</string>
-    <string name="lab_factory_sport_hour_min" formatted="false">%d H%d M</string>
-    <string name="lab_factory_sport_hour_min_sec" formatted="false">%d H%d M%d S</string>
-    <string name="lab_factory_sport_hour_sec" formatted="false">%d H%d S</string>
+    <string name="lab_factory_sport_hour_min" formatted="false">%d H %d M</string>
+    <string name="lab_factory_sport_hour_min_sec" formatted="false">%d H %d M %d S</string>
+    <string name="lab_factory_sport_hour_sec" formatted="false">%d H %d S</string>
     <string name="lab_factory_sport_min">%s points</string>
     <string name="lab_factory_sport_min_sec" formatted="false">%s points %s secondes</string>
     <string name="lab_factory_sport_monitor_bracelet_offline">Mi-Band n\'est pas connecté</string>
@@ -288,7 +288,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_pb_count">Record personnel %d fois</string>
     <string name="lab_factory_sport_pb_desc">Meilleur record personnel de %s</string>
     <string name="lab_factory_sport_pb_ropeskipping">Corde à sauter</string>
-    <string name="lab_factory_sport_pb_situp">Abdoninaux</string>
+    <string name="lab_factory_sport_pb_situp">Abdominaux</string>
     <string name="lab_factory_sport_result_cost_cal">Coût %d cal</string>
     <string name="lab_factory_sport_result_dot">", "</string>
     <string name="lab_factory_sport_sec">%s secondes</string>
@@ -309,7 +309,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_type_riding">Vélo</string>
     <string name="lab_factory_sport_type_ropeskipping">Corde à sauter</string>
     <string name="lab_factory_sport_type_running">Jogging</string>
-    <string name="lab_factory_sport_type_situp">Abdoninaux</string>
+    <string name="lab_factory_sport_type_situp">Abdominaux</string>
     <string name="lab_factory_sport_type_skidding">Roller</string>
     <string name="lab_factory_sport_type_sliding">Skateboard</string>
     <string name="lab_factory_sport_type_swimming">Natation</string>
