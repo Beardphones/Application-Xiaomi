@@ -260,7 +260,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_accumulate">Votre entrainement est de %d mois</string>
     <string name="lab_factory_sport_analyser_activity_not_found">Impossible de charger l\'interface utilisateur</string>
     <string name="lab_factory_sport_attention_punish_cheating"><font color="#ff0000">Oh ! Vous pouvez tricher, mais attention au châtiment ultime. Le groupe sera déçu. On vous surveille !</font></string>
-    <string name="lab_factory_sport_average_rate_per_minute">Vitesse moyenne %d t/m</string>
+    <string name="lab_factory_sport_average_rate_per_minute">Vitesse moyenne %d t/min</string>
     <string name="lab_factory_sport_best_record">Record personnel :</string>
     <string name="lab_factory_sport_button_restart">Redémarrage</string>
     <string name="lab_factory_sport_button_stop">Stop</string>
