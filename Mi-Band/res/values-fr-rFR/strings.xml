@@ -316,7 +316,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_type_tennis">Tennis</string>
     <string name="lab_factory_sport_type_volleyball">Volley-ball</string>
     <string name="lab_factory_sport_unit">fois</string>
-    <string name="lab_factory_sport_vote_desc">S\'il vous plaît voter pour votre sport favori</string>
+    <string name="lab_factory_sport_vote_desc">S\'il vous plaît votez pour votre sport favori</string>
     <string name="lab_factory_sport_vote_others_hint">Saisissez votre sport favori</string>
     <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
     <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour le</string>
@@ -610,7 +610,7 @@ Seule la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Ban
     <string name="unlock_screen_help_title0">Le Mi-Band est-il suffisamment près de votre téléphone ?</string>
     <string name="unlock_screen_help_title1">Essayez de redémarrer le Bluetooth.</string>
     <string name="unlock_screen_help_title2">Essayez de réinitialiser le déverrouillage.</string>
-    <string name="unlock_screen_invalid">Que puis-je faire si ne suis pas en mesure de déverrouiller mon téléphone ?</string>
+    <string name="unlock_screen_invalid">Que puis-je faire si je ne suis pas en mesure de déverrouiller mon téléphone ?</string>
     <string name="unlock_screen_invalid_helper">Impossible de déverrouiller votre téléphone avec le Mi-Band ?</string>
     <string name="unlock_screen_miui_version_low">Votre version de MIUI n\'est pas supporté par le Mi-Band, veuillez mettre à jour votre version.</string>
     <string name="unlock_screen_modify_unlock">"Si vous voulez effectuer un changement
