@@ -284,13 +284,13 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_monitor_cancelled_notice">Le capteur va compter %s automatiquement</string>
     <string name="lab_factory_sport_monitor_timeout_notice">Pas d\'activité detectée</string>
     <string name="lab_factory_sport_more_sport_favorite_notice">Impossible de choisir plus d\'un sport</string>
-    <string name="lab_factory_sport_more_sport_favorite_vote">Voter pour plus de sports</string>
+    <string name="lab_factory_sport_more_sport_favorite_vote">Votez pour plus de sports</string>
     <string name="lab_factory_sport_pb_count">Record personnel %d fois</string>
     <string name="lab_factory_sport_pb_desc">Meilleur record personnel de %s</string>
     <string name="lab_factory_sport_pb_ropeskipping">Corde à sauter</string>
     <string name="lab_factory_sport_pb_situp">Abdominaux</string>
     <string name="lab_factory_sport_result_cost_cal">Coût %d cal</string>
-    <string name="lab_factory_sport_result_dot">", "</string>
+    <string name="lab_factory_sport_result_dot">" , "</string>
     <string name="lab_factory_sport_sec">%s secondes</string>
     <string name="lab_factory_sport_share_info_accumulated_time">Total</string>
     <string name="lab_factory_sport_share_info_accumulated_time_once">Total</string>
@@ -316,7 +316,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_type_tennis">Tennis</string>
     <string name="lab_factory_sport_type_volleyball">Volley-ball</string>
     <string name="lab_factory_sport_unit">fois</string>
-    <string name="lab_factory_sport_vote_desc">S\'il vous plaît, votez pour votre sport favori</string>
+    <string name="lab_factory_sport_vote_desc">S\'il vous plaît voter pour votre sport favori</string>
     <string name="lab_factory_sport_vote_others_hint">Saisissez votre sport favori</string>
     <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
     <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour le</string>
@@ -473,7 +473,7 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="share_goal_tips_succ">"Vous avez de grands projets ?
 Faites vos premiers pas."</string>
     <string name="share_miliao_too_old">Votre version de Mi-Talk est trop ancienne.</string>
-    <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste"</string>
+    <string name="share_play_ground_format">"Il s'agit de %1$s tours de piste."</string>
     <string name="share_sleep_description">"Dans la phase de sommeil profond pendant %1$s h et %2$s min, 
 En phase de sommeil léger pendant %3$s h et %4$s min.
 Endormi : %5$s. Réveil : %6$s"</string>
@@ -595,8 +595,8 @@ Seule la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Ban
     <string name="unbinding">Dissociation ...</string>
     <string name="unit_calorie">" cal "</string>
     <string name="unit_hour">" h "</string>
-    <string name="unit_kilometer">" km "</string>
-    <string name="unit_meter">" m "</string>
+    <string name="unit_kilometer">" km"</string>
+    <string name="unit_meter">" m"</string>
     <string name="unit_min">" min "</string>
     <string name="unit_min_short">" m "</string>
     <string name="unit_step">pas</string>
@@ -610,7 +610,7 @@ Seule la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Ban
     <string name="unlock_screen_help_title0">Le Mi-Band est-il suffisamment près de votre téléphone ?</string>
     <string name="unlock_screen_help_title1">Essayez de redémarrer le Bluetooth.</string>
     <string name="unlock_screen_help_title2">Essayez de réinitialiser le déverrouillage.</string>
-    <string name="unlock_screen_invalid">Que puis-je faire si je ne suis pas en mesure de déverrouiller mon téléphone ?</string>
+    <string name="unlock_screen_invalid">Que puis-je faire si ne suis pas en mesure de déverrouiller mon téléphone ?</string>
     <string name="unlock_screen_invalid_helper">Impossible de déverrouiller votre téléphone avec le Mi-Band ?</string>
     <string name="unlock_screen_miui_version_low">Votre version de MIUI n\'est pas supporté par le Mi-Band, veuillez mettre à jour votre version.</string>
     <string name="unlock_screen_modify_unlock">"Si vous voulez effectuer un changement
@@ -646,7 +646,7 @@ ouvrir Réglages->Sécurité."</string>
     <string name="week" />
     <string name="welcom_back">Bienvenue</string>
     <string name="welcome">Bonjour</string>
-    <string name="wrong_system_time">Votre horloge est mal réglée. Cela effectue le Mi Band..</string>
+    <string name="wrong_system_time">Votre horloge est mal réglée. Cela effectue le Mi-Band..</string>
     <string name="year">Années</string>
     <string name="your_gender">Sexe</string>
     <string name="your_height">Taille</string>
