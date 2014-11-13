@@ -223,7 +223,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="help_title_0">Votre téléphone est près du Mi-Band ?</string>
     <string name="help_title_1">"Est-ce que le système d'exploitation de votre téléphone répond aux exigences recommandées ?"</string>
     <string name="help_title_2">Est-ce que votre Mi-Band est complètement chargé ?</string>
-    <string name="help_title_3">Mi-Band has paired up with another phone?</string>
+    <string name="help_title_3">Mi-Band a été appairé avec un autre téléphone ?</string>
     <string name="hot_des">Énergie</string>
     <string name="hour_1" />
     <string name="in">En </string>
@@ -260,7 +260,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_accumulate">Votre entrainement est de %d mois</string>
     <string name="lab_factory_sport_analyser_activity_not_found">Impossible de charger l\'interface utilisateur</string>
     <string name="lab_factory_sport_attention_punish_cheating"><font color="#ff0000">Oh ! Vous pouvez tricher, mais attention au châtiment ultime. Le groupe sera déçu. On vous surveille !</font></string>
-    <string name="lab_factory_sport_average_rate_per_minute">Vitesse moyenne %d t/min</string>
+    <string name="lab_factory_sport_average_rate_per_minute">Vitesse moyenne %d /min</string>
     <string name="lab_factory_sport_best_record">Record personnel :</string>
     <string name="lab_factory_sport_button_restart">Redémarrage</string>
     <string name="lab_factory_sport_button_stop">Stop</string>
@@ -316,15 +316,15 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_sport_type_tennis">Tennis</string>
     <string name="lab_factory_sport_type_volleyball">Volley-ball</string>
     <string name="lab_factory_sport_unit">fois</string>
-    <string name="lab_factory_sport_vote_desc">S\'il vous plaît voter pour votre sport favori</string>
+    <string name="lab_factory_sport_vote_desc">S\'il vous plaît votez pour votre sport favori</string>
     <string name="lab_factory_sport_vote_others_hint">Saisissez votre sport favori</string>
     <string name="lab_factory_sport_vote_result_desc">Merci pour votre vote</string>
     <string name="lab_factory_sport_vote_result_sub_desc">Vous avez voté pour le</string>
     <string name="lab_factory_sport_vote_sub_desc">Arrivera bientôt</string>
     <string name="lab_factory_title">Activités</string>
-    <string name="sport_running_helper">Running helper</string>
-    <string name="sport_share">Partagez maintenant</string>
-    <string name="sport_running_no_gps">GPS doit être allumé pour enregistrer votre trace. activer ?</string>
+    <string name="sport_running_helper">Aide au jogging</string>
+    <string name="sport_share">Partager maintenant</string>
+    <string name="sport_running_no_gps">Le GPS doit être allumé pour enregistrer votre trace. L\'activer ?</string>
     <string name="sport_running_set_speed">Rappel de vitesse</string>
     <string name="sport_running_speed">Vitesse</string>
     <string name="sport_running_pace">Rythme</string>
@@ -334,7 +334,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="sport_running_pace_detail">%s/Km</string>
     <string name="sport_running_distance_detail">%s kilomètres</string>
     <string name="sport_ranking_desc_poor">Chaque %s utilisateur peut vous battre, allez !</string>
-    <string name="sport_ranking_desc_normal" formatted="false">You beated &lt;b>%s%&lt;/b> of %s users.</string>
+    <string name="sport_ranking_desc_normal" formatted="false">Vous avez battu &lt;b>%s%&lt;/b> des %s utilisateurs.</string>
     <string name="sport_ranking_desc_great">WOW, vous êtes imbattable aujourd\'hui!</string>
     <string name="sport_new_record_ropeskipping">Nouveau record</string>
     <string name="left_hand">Gauche</string>
@@ -625,7 +625,7 @@ Seule la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Ban
     <string name="unlock_screen_help_title0">Le Mi-Band est-il suffisamment près de votre téléphone ?</string>
     <string name="unlock_screen_help_title1">Essayez de redémarrer le Bluetooth.</string>
     <string name="unlock_screen_help_title2">Essayez de réinitialiser le déverrouillage.</string>
-    <string name="unlock_screen_invalid">Que puis-je faire si ne suis pas en mesure de déverrouiller mon téléphone ?</string>
+    <string name="unlock_screen_invalid">Que puis-je faire si je ne suis pas en mesure de déverrouiller mon téléphone ?</string>
     <string name="unlock_screen_invalid_helper">Impossible de déverrouiller votre téléphone avec le Mi-Band ?</string>
     <string name="unlock_screen_miui_version_low">Votre version de MIUI n\'est pas supporté par le Mi-Band, veuillez mettre à jour votre version.</string>
     <string name="unlock_screen_modify_unlock">"Si vous voulez effectuer un changement
