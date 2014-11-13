@@ -198,7 +198,7 @@ localization_French_table = {
     new_record_info="Bravo ! Tu viens de battre ton record de marche",
     new_record_format="Nouveau record, %d pas, %s %d",
     today_goal_reached="Félicitation ! Tu as atteint ton objectif de la journée",
-    week_continue_reach_goal="Bravo ! Tu as atteint tout tes objectifs de la semaine",
+    week_continue_reach_goal="Bravo ! Tu as atteint tous tes objectifs de la semaine",
     challenge_format="Tu as atteint ton objectif %d jours d'affilé !",
     personal_best_format="Ton meilleur record est de %d jours !",
     continue_with_skips_title="Vous n'avez pas atteint votre objectif hier, ne vous inquiétez pas, nous avons utilisé une note fictive pour te couvrir ;)",
@@ -220,8 +220,8 @@ localization_French_table = {
     activity_walk_format="%s Marché %d pas %s",
     activity_walk_consumed_format="Brûlées %d cal %s",
 
-    activity_rope_skipping_format="%s Skipped rope %d time(s)",
-    activity_situp_format="%s Did %d sit-ups",
+    activity_rope_skipping_format="%s sauts ignorés %d fois",
+    activity_situp_format="%s fait %d abdominaux",
     activity_consumed_format="Brûlées %d cal %s",
 
     activity_activity_format="%s %s d'activité %s",
