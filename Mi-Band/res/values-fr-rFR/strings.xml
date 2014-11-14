@@ -118,7 +118,7 @@ Adresse: %2$s"</string>
     <string name="day_active_detail">Détails quotidiens</string>
     <string name="description_list_icon">Icône objet</string>
     <string name="device_list">Mi-Band à proximité</string>
-    <string name="device_not_found_not_knocked">Relancez la recherche après avoir appuyé sur le Mi-Band une fois qu\'il clignote.</string>
+    <string name="device_not_found_not_knocked">Relancez la recherche après avoir tapoté sur le Mi-Band une fois qu\'il clignote.</string>
     <string name="device_not_response">Pourquoi n\'y a-t-il pas de témoin lumineux sur mon Mi-Band ?</string>
     <string name="disable_debug_log">Mode de débogage fermé！</string>
     <string name="discard">Annuler</string>
@@ -182,7 +182,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="firmware_version">Version firmware</string>
     <string name="first_use_days_today_format">Moins d\'un jour depuis la première utilisation.</string>
     <string name="first_use_remain_days_format">%s jour(s) depuis la première utilisation</string>
-    <string name="found_bracelet_info">Quand les LEDs du Mi-Band commencent à clignoter, appuyez plusieurs fois pour appairer.</string>
+    <string name="found_bracelet_info">Quand les LEDs du Mi-Band commencent à clignoter, tapotez plusieurs fois pour appairer.</string>
     <string name="friends_invite2">Inviter</string>
     <string name="friends_search">Rechercher</string>
     <string name="friends_search_tips">"ID MIUI / surnom / numéro de téléphone"</string>
