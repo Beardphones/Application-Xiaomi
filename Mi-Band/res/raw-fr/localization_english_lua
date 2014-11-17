@@ -2,7 +2,7 @@
 -- Simplified Chinese Localization String resources
 -- Huami Co, ltd. (2014)
 -- Herbert dai
--- 20141103
+-- 20140731
 -------------------------
 localization_French_table = {
     calories_table={
@@ -199,14 +199,23 @@ localization_French_table = {
     new_record_format="Nouveau record, %d pas, %s %d",
     today_goal_reached="Félicitation ! Tu as atteint ton objectif de la journée",
     week_continue_reach_goal="Bravo ! Tu as atteint tous tes objectifs de la semaine",
-    challenge_format="Tu as atteint ton objectif %d jours d'affilé !",
+    
+	-- Continue reach goals string
+	challenge_format="Tu as atteint ton objectif %d jours d'affilé !",
     personal_best_format="Ton meilleur record est de %d jours !",
     continue_with_skips_title="Vous n'avez pas atteint votre objectif hier, ne vous inquiétez pas, nous avons utilisé une note fictive pour te couvrir ;)",
-    personal_best_with_skips_format="Tu viens de réaliser un record pendant %d jour(s) ! De plus, il te reste %d note(s) fictive(s) ;)",
+	continue_with_skips_title_today="今天未达标, 环环已经帮你使用假条过关啦！",    
+	personal_best_with_skips_format="Tu viens de réaliser un record pendant %d jour(s) ! De plus, il te reste %d note(s) fictive(s) ;)",
     continue_used_n_skips_format="Tu as atteint ton objectif pendant %d jour(s) ! Il te reste %d note(s) fictive(s) ;)",
     continue_used_0_skips_format="Tu as atteint ton objectif pendant %d jour(s) ! Tu n'as plus de note fictive.",
     personal_best_on_skip_day_title="Tu as atteint ton objectif pendant %d jour(s) ! Pour vous récompenser, nous vous donnons une note fictive comme cadeau ;) Pour chaque note, tu peux tricher quand tu n'atteint pas ton but dans une journée.",
     personal_best_on_skip_day_info="Tu gagneras une note de triche une fois que tu auras atteint ton objectif durant 7 jours consécutifs. Nous allons les utiliser automatiquement lorsque tu manqueras ton objectif. Une note est utilisée pour une journée.",
+	manual_lazy_title="今天还未达标哦, 是否要使用假条？",
+    manual_lazy_subtitle="使用假条即使今天没有达标也不会中断连续达标",
+    manual_lazy_title_used="今天已经使用假条, 好好放松一下吧",
+    manual_lazy_subtitle_used="要是一不小心今天达标了, 还是会计入连续达标的哦",
+    manual_fail_ytd_title = "很遗憾昨天未达标, 连续达标中断",
+    manual_fail_ytd_subtitle = "截至前天已连续%d天达标",
 
     active_time_format_0="%d h",
     active_time_format_1="%d h",
@@ -224,7 +233,7 @@ localization_French_table = {
     activity_situp_format="%s fait %d abdominaux",
     activity_consumed_format="Brûlées %d cal %s",
 
-    activity_activity_format="%s %s d'activité %s",
+    activity_activity_format="%s %s d'activité%s",
     last_night_sleeped_good_format="La nuit dernière, tu as dormi %s. Quelle bonne nuit !",
     last_night_sleeped_normal_format="La nuit dernière, tu as dormi %s.",
     deep_sleep_format="En phase de sommeil profond pendant %s.",
