@@ -250,7 +250,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_exercise_state_stopped">Stop</string>
     <string name="lab_factory_exit_press_again">Appuyez une nouvelle fois pour quitter</string>
     <string name="lab_factory_internal_test">Analyse des modes Sport et tests</string>
-    <string name="sport_running_helper_test">Running helper test</string>
+    <string name="sport_running_helper_test">Lancer des tests</string>
     <string name="lab_factory_item_group_others">Autre</string>
     <string name="lab_factory_item_group_social">SOCIAL</string>
     <string name="lab_factory_item_group_sport">ACTIVITÉS</string>
