@@ -250,6 +250,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_exercise_state_stopped">Stop</string>
     <string name="lab_factory_exit_press_again">Appuyez une nouvelle fois pour quitter</string>
     <string name="lab_factory_internal_test">Analyse des modes Sport et tests</string>
+    <string name="sport_running_helper_test">Running helper test</string>
     <string name="lab_factory_item_group_others">Autre</string>
     <string name="lab_factory_item_group_social">SOCIAL</string>
     <string name="lab_factory_item_group_sport">ACTIVITÉS</string>
@@ -333,10 +334,19 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="sport_running_speed_detail">%dKm/h</string>
     <string name="sport_running_pace_detail">%s/Km</string>
     <string name="sport_running_distance_detail">%s kilomètres</string>
-    <string name="sport_ranking_desc_poor">Chaque %s utilisateur peut vous battre, allez !</string>
+    <string name="sport_running_time_desc">coût temps</string>
+    <string name="sport_running_start">Démarrer</string>
+    <string name="sport_running_gps_turnon">Activer</string>
+    <string name="sport_running_gps_cancel">Annuler</string>
+    <string name="sport_running_settings">Paramètres</string>
+    <string name="sport_running_history">Historique</string>
+    <string name="sport_running_slider_prompt">>>>Glissez vers la droite pour déverrouiller</string>
+    <string name="sport_ranking_desc_poor">%s des utilisateurs peuvent vous battre, allez !</string>
     <string name="sport_ranking_desc_normal" formatted="false">Vous avez battu &lt;b>%s%&lt;/b> des %s utilisateurs.</string>
     <string name="sport_ranking_desc_great">WOW, vous êtes imbattable aujourd\'hui!</string>
     <string name="sport_new_record_ropeskipping">Nouveau record</string>
+    <string name="percent_mark">%</string>
+    <string name="share_step_ranking">Vous martelé &lt;b>%s&lt;/b> utilisateurs.</string>
     <string name="left_hand">Gauche</string>
     <string name="light_color">Couleur des LEDs</string>
     <string name="light_color_title">Couleur de l\'indicateur de progression</string>
@@ -402,7 +412,7 @@ Il faut garder le rythme"</string>
     <string name="noti_bracelet_low_battery_title_none">Le Mi-Band s\'est arrêté.</string>
     <string name="notify_status_motor">Vibreur du bracelet</string>
     <string name="notify_status_motor_alarm">Alarme sonne...</string>
-    <string name="notify_status_motor_auth">Correspondant Mi-Band...</string>
+    <string name="notify_status_motor_auth">Mi-Band détecté</string>
     <string name="notify_status_motor_auth_success">Vérifié avec succès.</string>
     <string name="notify_status_motor_call">"Vous avez un appel entrant..."</string>
     <string name="notify_status_motor_disconnect">Déconnexion du Mi-Band...</string>
@@ -411,6 +421,8 @@ Il faut garder le rythme"</string>
     <string name="notify_status_motor_shut_down">Mi-Band est en cours d\'arrêt...</string>
     <string name="notify_status_motor_smart_alarm">Alarme intelligente sonne...</string>
     <string name="notify_status_motor_test">Analyse...</string>
+    <string name="vibrate_notify">Vibrer pour les notifications</string>
+    <string name="vibrate_notify_tips">Vibrer lorsque vous recevez une notification</string>
     <string name="odo">Distance totale</string>
     <string name="one_min">1 min. avant</string>
     <string name="one_week">Au cours de cette semaine, </string>
