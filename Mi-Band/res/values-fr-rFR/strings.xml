@@ -642,7 +642,7 @@ Seule la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Ban
     <string name="unlock_screen_miui_version_low">Votre version de MIUI n\'est pas supporté par le Mi-Band, veuillez mettre à jour votre version.</string>
     <string name="unlock_screen_modify_unlock">"Si vous voulez effectuer un changement
 ouvrir Réglages->Sécurité."</string>
-    <string name="unlock_screen_not_connect">Veuillez associer un Mi-Band avant de régler le Déverrouillage de l\'écran.</string>
+    <string name="unlock_screen_not_connect">Veuillez associer un Mi-Band avant de régler le déverrouillage de l\'écran.</string>
     <string name="unlock_screen_set_password">Étape 1: Définir votre mot de passe.</string>
     <string name="unlock_screen_set_password_tips_has_set">Le mot de passe de l\'écran de verrouillage a été correctement configuré.</string>
     <string name="unlock_screen_set_password_tips_set">Définir le mot de passe de l\'écran de verrouillage</string>
