@@ -41,8 +41,8 @@ Accord: %2$s"</string>
     <string name="before_min">%s min. avant</string>
     <string name="bin_weixin_device_not_connect">Mi-Band non connecté</string>
     <string name="bind_bracelet">Mi-Band trouvé</string>
-    <string name="bind_bracelet_ok">Appairé avec succès.</string>
-    <string name="bind_new_mili">Appairer un nouveau Mi-Band</string>
+    <string name="bind_bracelet_ok">Associé avec succès.</string>
+    <string name="bind_new_mili">Associer un nouveau Mi-Band</string>
     <string name="bind_qq">Ajouter QQ</string>
     <string name="bind_qq_health">Synchronisez avec le Centre de santé QQ</string>
     <string name="bind_qq_health_tip">"Synchronisez données (pas et sommeil) avec le Centre de santé QQ,
@@ -79,7 +79,7 @@ Adresse: %2$s"</string>
     <string name="bracelet_login_info_2">Connectez-vous si vous êtes d\'accord avec la
 </string>
     <string name="bracelet_login_title">Salut, je suis ton Mi-Band.</string>
-    <string name="bracelet_not_connected_bat_unknown">Mi-Band non appairé, autonomie inconnue.</string>
+    <string name="bracelet_not_connected_bat_unknown">Mi-Band non associé, autonomie inconnue.</string>
     <string name="bracelet_not_found_info">Veuillez recommencer la recherche quand vous voyez une des LED du Mi-Band émettre des flashs.</string>
     <string name="bracelet_not_found_title">Veuillez recharger votre appareil.</string>
     <string name="bt_operation_failed_tips">Le Bluetooth ne fonctionne pas correctement, veuillez réessayer.</string>
@@ -124,7 +124,7 @@ Adresse: %2$s"</string>
     <string name="discard">Annuler</string>
     <string name="discard_alarm_change">Annuler les changements ?</string>
     <string name="distance">Distance</string>
-    <string name="donot_bind">Appairer plus tard</string>
+    <string name="donot_bind">Associer plus tard</string>
     <string name="download_failed">Impossible de télécharger l\'APK.</string>
     <string name="downloading_apk">Mi-Band</string>
     <string name="dynamic_detail_modify_sleep_end_time">Temps réveillé correct</string>
@@ -182,7 +182,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="firmware_version">Version firmware</string>
     <string name="first_use_days_today_format">Moins d\'un jour depuis la première utilisation.</string>
     <string name="first_use_remain_days_format">%s jour(s) depuis la première utilisation</string>
-    <string name="found_bracelet_info">Quand les LEDs du Mi-Band commencent à clignoter, tapotez plusieurs fois pour appairer.</string>
+    <string name="found_bracelet_info">Quand les LEDs du Mi-Band commencent à clignoter, tapotez plusieurs fois pour associer.</string>
     <string name="friends_invite2">Inviter</string>
     <string name="friends_search">Rechercher</string>
     <string name="friends_search_tips">"ID MIUI / surnom / numéro de téléphone"</string>
@@ -218,12 +218,12 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="help_info_0">Assurez-vous que votre téléphone prend en charge le Bluetooth 4.0 ou une version supérieure. Vous pouvez trouver ces informations dans les spécifications de votre téléphone.</string>
     <string name="help_info_1">Seul Android 4.4 ou supérieur supporte le Mi-Band.</string>
     <string name="help_info_2">Assurez-vous de charger correctement votre Mi-Band. Vous devriez voir les LEDs vertes clignoter pendant la recharge.</string>
-    <string name="help_info_3">"Si votre Mi-Band est déjà appairé avec un téléphone ou qu'il n'est pas près de votre téléphone, éteignez le Bluetooth de l'ancien téléphone et relancer la recherche avec le nouveau téléphone à appairer."</string>
+    <string name="help_info_3">"Si votre Mi-Band est déjà associé avec un téléphone ou qu'il n'est pas près de votre téléphone, éteignez le Bluetooth de l'ancien téléphone et relancer la recherche avec le nouveau téléphone à associer."</string>
     <string name="help_info_4">"Vous pouvez contacter notre service clientèle pour obtenir de l'aide.\nService clientèle Tél: 400-100-567\nDu lundi au dimanche, 8:00 - 18:00"</string>
     <string name="help_title_0">Votre téléphone est près du Mi-Band ?</string>
     <string name="help_title_1">"Est-ce que le système d'exploitation de votre téléphone répond aux exigences recommandées ?"</string>
     <string name="help_title_2">Est-ce que votre Mi-Band est complètement chargé ?</string>
-    <string name="help_title_3">Mi-Band a été appairé avec un autre téléphone ?</string>
+    <string name="help_title_3">Mi-Band a été associé avec un autre téléphone ?</string>
     <string name="hot_des">Énergie</string>
     <string name="hour_1" />
     <string name="in">En </string>
@@ -377,7 +377,7 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="mili_reset_info">"Vous êtes sur le point d'effacer les données de ce Mi-Band et puis de le réinitialiser avec les paramètres d'usine 
 Êtes-vous sûr de vouloir continuer ?"</string>
     <string name="mili_unbind_question">Votre téléphone n\'aura plus accès aux données du Mi-Band une fois le désapairrage effectué</string>
-    <string name="mili_unbind_question_content">Une fois que vous avez désappairé le Mi-Band de votre téléphone, vous pouvez en appairer un autre</string>
+    <string name="mili_unbind_question_content">Une fois que vous avez dissocié le Mi-Band de votre téléphone, vous pouvez en associer un autre</string>
     <string name="mili_unbind_question_content_1" />
     <string name="minute" />
     <string name="modify_gender">Sexe</string>
@@ -391,7 +391,7 @@ Si vous choisissez de quitter maintenant, les données non synchronisées seront
     <string name="month">Mois</string>
     <string name="move_and_capture">Déplacer et capturé</string>
     <string name="multi_devices_info">Si dans votre voisinage il y a plusieurs Mi-Band. Tenez votre poignet près du téléphone et éloignez l\'autre Mi-Band de 10 mètres. Après cela, relancez une recherche.</string>
-    <string name="multi_devices_title">Appairage impossible.</string>
+    <string name="multi_devices_title">Association impossible.</string>
     <string name="network_error">La connexion au réseau a échoué, veuillez vérifier votre connexion.</string>
     <string name="no_network_connection_retry">Cliquez pour vous reconnecter.</string>
     <string name="new_friend_accept">Accepter</string>
@@ -435,7 +435,7 @@ Cela correspond à une marche de 12000 pas."</string>
     <string name="personal_info">Profil</string>
     <string name="please_input_age">Age</string>
     <string name="please_input_gender">Sélectionnez un genre</string>
-    <string name="please_knock_bracelet">Sélectionnez votre Mi-Band à appairer</string>
+    <string name="please_knock_bracelet">Sélectionnez votre Mi-Band à associer</string>
     <string name="please_set_sport_goal">Définissez votre objectif</string>
     <string name="pm">PM</string>
     <string name="point">point(s)</string>
@@ -642,7 +642,7 @@ Seule la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Ban
     <string name="unlock_screen_miui_version_low">Votre version de MIUI n\'est pas supporté par le Mi-Band, veuillez mettre à jour votre version.</string>
     <string name="unlock_screen_modify_unlock">"Si vous voulez effectuer un changement
 ouvrir Réglages->Sécurité."</string>
-    <string name="unlock_screen_not_connect">Veuillez appairer un Mi-Band avant de régler le Déverrouillage de l\'écran.</string>
+    <string name="unlock_screen_not_connect">Veuillez associer un Mi-Band avant de régler le Déverrouillage de l\'écran.</string>
     <string name="unlock_screen_set_password">Étape 1: Définir votre mot de passe.</string>
     <string name="unlock_screen_set_password_tips_has_set">Le mot de passe de l\'écran de verrouillage a été correctement configuré.</string>
     <string name="unlock_screen_set_password_tips_set">Définir le mot de passe de l\'écran de verrouillage</string>
