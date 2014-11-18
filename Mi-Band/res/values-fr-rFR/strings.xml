@@ -413,7 +413,7 @@ Il faut garder le rythme"</string>
     <string name="notify_status_motor">Vibreur du bracelet</string>
     <string name="notify_status_motor_alarm">Alarme sonne...</string>
     <string name="notify_status_motor_auth">Mi-Band détecté</string>
-    <string name="notify_status_motor_auth_success">Vérifié avec succès.</string>
+    <string name="notify_status_motor_auth_success"> OK.</string>
     <string name="notify_status_motor_call">"Vous avez un appel entrant..."</string>
     <string name="notify_status_motor_disconnect">Déconnexion du Mi-Band...</string>
     <string name="notify_status_motor_goal">"Vous avez atteint votre objectif !"</string>
