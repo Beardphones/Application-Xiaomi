@@ -410,10 +410,10 @@ Il faut garder le rythme"</string>
     <string name="noti_bracelet_low_battery_content_mid">La capacité batterie est faible, s\'il vous plaît pensez à recharger</string>
     <string name="noti_bracelet_low_battery_title">Batterie faible</string>
     <string name="noti_bracelet_low_battery_title_none">Le Mi-Band s\'est arrêté.</string>
-    <string name="notify_status_motor">Vibreur du bracelet</string>
+    <string name="notify_status_motor" />
     <string name="notify_status_motor_alarm">Alarme sonne...</string>
     <string name="notify_status_motor_auth">Mi-Band détecté</string>
-    <string name="notify_status_motor_auth_success"> OK.</string>
+    <string name="notify_status_motor_auth_success">Mi-band fonctionnel...</string>
     <string name="notify_status_motor_call">"Vous avez un appel entrant..."</string>
     <string name="notify_status_motor_disconnect">Déconnexion du Mi-Band...</string>
     <string name="notify_status_motor_goal">"Vous avez atteint votre objectif !"</string>
@@ -421,8 +421,8 @@ Il faut garder le rythme"</string>
     <string name="notify_status_motor_shut_down">Mi-Band est en cours d\'arrêt...</string>
     <string name="notify_status_motor_smart_alarm">Alarme intelligente sonne...</string>
     <string name="notify_status_motor_test">Analyse...</string>
-    <string name="vibrate_notify">Vibrer pour les notifications</string>
-    <string name="vibrate_notify_tips">Vibrer lorsque vous recevez une notification</string>
+    <string name="vibrate_notify">Afficher les notifications visuelles</string>
+    <string name="vibrate_notify_tips">Vous recevez une notification en plus de la vibration</string>
     <string name="odo">Distance totale</string>
     <string name="one_min">1 min. avant</string>
     <string name="one_week">Au cours de cette semaine, </string>
