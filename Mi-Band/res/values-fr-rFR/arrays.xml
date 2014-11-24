@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="fortune">
-        <item>"Facile d'atteindre son objectif sur une journée plus dur de le faire chaque jour."</item>
-        <item>"Ce n'est pas une chose facile que d'atteindre un objectif chaque jour."</item>
-        <item>Tu bas de nouveaux records chaque jour !</item>
-        <item>Prends plaisir à faire de toi un homme meilleur !</item>
-        <item>La persévérance est la qualité première d’un gagnant.</item>
-        <item>"L'excellence est un art que l'on n'atteint que par l'exercice constant. Nous sommes ce que nous faisons de manière répétée. L'excellence n'est donc pas une action mais une habitude."</item>
-        <item>Atteins un objectif par jour.</item>
-        <item>"Accroches-toi pour être encore meilleur aujourd'hui."</item>
-        <item>Fais-Le.</item>
-        <item>"Continues à t'entrainer et la victoire viendra d'elle-même."</item>
+    <string-array name="weeks">
+        <item>Lun.</item>
+        <item>Mar.</item>
+        <item>Mer.</item>
+        <item>Jeu.</item>
+        <item>Ven.</item>
+        <item>Sam.</item>
+        <item>Dim.</item>
+    </string-array>
+    <string-array name="weeks_short">
+        <item>Lun.</item>
+        <item>Mar.</item>
+        <item>Mer.</item>
+        <item>Jeu.</item>
+        <item>Ven.</item>
+        <item>Sam.</item>
+        <item>Dim.</item>
     </string-array>
     <string-array name="months">
         <item>Janvier</item>
@@ -32,30 +38,24 @@
         <item>Du Lundi au Vendredi</item>
         <item>Personnaliser</item>
     </string-array>
+    <string-array name="fortune">
+        <item>"Facile d'atteindre son objectif sur une journée plus dur de le faire chaque jour."</item>
+        <item>"Ce n'est pas une chose facile que d'atteindre un objectif chaque jour."</item>
+        <item>Tu bas de nouveaux records chaque jour !</item>
+        <item>Prends plaisir à faire de toi un homme meilleur !</item>
+        <item>La persévérance est la qualité première d’un gagnant.</item>
+        <item>"L'excellence est un art que l'on n'atteint que par l'exercice constant. Nous sommes ce que nous faisons de manière répétée. L'excellence n'est donc pas une action mais une habitude."</item>
+        <item>Atteins un objectif par jour.</item>
+        <item>"Accroches-toi pour être encore meilleur aujourd'hui."</item>
+        <item>Fais-Le.</item>
+        <item>"Continues à t'entrainer et la victoire viendra d'elle-même."</item>
+    </string-array>
     <string-array name="weather_aqi_descriptions">
-        <item>Great</item>
-        <item>Good</item>
-        <item>Moderate</item>
-        <item>Caution</item>
-        <item>Unhealthy</item>
-        <item>Very Unhealthy</item>
-    </string-array>
-    <string-array name="weeks">
-        <item>Lundi</item>
-        <item>Mardi</item>
-        <item>Mercredi</item>
-        <item>Jeudi</item>
-        <item>Vendredi</item>
-        <item>Samedi</item>
-        <item>Dimanche</item>
-    </string-array>
-    <string-array name="weeks_short">
-        <item>Lundi</item>
-        <item>Mardi</item>
-        <item>Mercredi</item>
-        <item>Jeudi</item>
-        <item>Vendredi</item>
-        <item>Samedi</item>
-        <item>Dimanche</item>
+        <item>Génial</item>
+        <item>Bien</item>
+        <item>Modéré</item>
+        <item>Prudence</item>
+        <item>Mauvaise</item>
+        <item>Très mauvaise</item>
     </string-array>
 </resources>
