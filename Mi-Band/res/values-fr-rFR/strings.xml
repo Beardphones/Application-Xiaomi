@@ -74,7 +74,7 @@ Accord: %2$s"</string>
     <string name="bracelet_info_mac_address">"Nom: %1$s
 Adresse: %2$s"</string>
     <string name="bracelet_login_info">Mi-Cloud fournira des suggestions basées sur vos activités et le suivi de votre sommeil.</string>
-    <string name="bracelet_login_info_2">Connectez-vous si vous êtes d\'accord avec la
+    <string name="bracelet_login_info_2">Connectez-vous si vous êtes d\'accord avec la \n
 </string>
     <string name="bracelet_login_title">Salut, je suis ton Mi-Band.</string>
     <string name="bracelet_not_connected_bat_unknown">Mi-Band non appairé, autonomie inconnue.</string>
@@ -251,7 +251,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_exit_press_again">Appuyez une nouvelle fois pour quitter</string>
     <string name="lab_factory_internal_test">Analyse des modes Sport et tests</string>
     <string name="sport_running_helper_test">Lancer des tests</string>
-    <string name="sport_coming_soon">正加急赶工中，敬请期待！</string>
+    <string name="sport_coming_soon">C'est en cours, alors restez branchés!！</string>
     <string name="lab_factory_item_group_others">Autre</string>
     <string name="lab_factory_item_group_social">SOCIAL</string>
     <string name="lab_factory_item_group_sport">ACTIVITÉS</string>
