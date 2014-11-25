@@ -436,8 +436,8 @@ Il faut garder le rythme"</string>
     <string name="notify_status_motor_shut_down">Mi-Band est en cours d\'arrêt...</string>
     <string name="notify_status_motor_smart_alarm">Alarme intelligente sonne...</string>
     <string name="notify_status_motor_test">Analyse...</string>
-    <string name="vibrate_notify">Notification</string>
-    <string name="vibrate_notify_tips">Vibrer lorsque vous recevez une notification</string>
+    <string name="vibrate_notify">Afficher les notifications visuelles</string>
+    <string name="vibrate_notify_tips">Vous affichez une notification en plus de la vibration</string>
     <string name="odo">Distance totale</string>
     <string name="one_min">1 min. avant</string>
     <string name="one_week">Au cours de cette semaine, </string>
@@ -659,7 +659,7 @@ Seule la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Ban
     <string name="unlock_screen_miui_version_low">Votre version de MIUI n\'est pas supporté par le Mi-Band, veuillez mettre à jour votre version.</string>
     <string name="unlock_screen_modify_unlock">"Si vous voulez effectuer un changement
 ouvrir Réglages->Sécurité."</string>
-    <string name="unlock_screen_not_connect">Veuillez appairer un Mi-Band avant de régler le Déverrouillage de l\'écran.</string>
+    <string name="unlock_screen_not_connect">Veuillez appairer un Mi-Band avant de régler le déverrouillage de l\'écran.</string>
     <string name="unlock_screen_set_password">Étape 1: Définir votre mot de passe.</string>
     <string name="unlock_screen_set_password_tips_has_set">Le mot de passe de l\'écran de verrouillage a été correctement configuré.</string>
     <string name="unlock_screen_set_password_tips_set">Définir le mot de passe de l\'écran de verrouillage</string>
