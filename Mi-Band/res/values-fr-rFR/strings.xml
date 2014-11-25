@@ -46,7 +46,7 @@ Accord: %2$s"</string>
     <string name="bind_qq_health_tip">"Synchronisez données (pas et sommeil) avec le Centre de santé QQ,
 vous aurez besoin d'être connecté à Internet."</string>
     <string name="bind_qq_health_tip_another_qq">Votre compte mobile de QQ est actuellement connecté et permet de voir les données en matière de santé</string>
-    <string name="bind_qq_health_tip_init">Se connecter pour  terminee la liaison QQ santé</string>
+    <string name="bind_qq_health_tip_init">Se connecter pour terminer la liaison QQ santé</string>
     <string name="bind_qq_health_title">Ajouter un compte QQ</string>
     <string name="bind_weixin_failed">Echec, veuillez réessayer</string>
     <string name="bind_weixin_new_disable_tips">Après avoir relié votre compte WeChat et suivi le compte Mi-Band WeChat service, vous pourrez vérifier les informations comme le nombre de pas à travers WeChat. Vous pourrez
