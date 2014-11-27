@@ -251,7 +251,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="lab_factory_exit_press_again">Appuyez une nouvelle fois pour quitter</string>
     <string name="lab_factory_internal_test">Analyse des modes Sport et tests</string>
     <string name="sport_running_helper_test">Lancer des tests</string>
-    <string name="sport_coming_soon">C'est en cours, alors restez branchés!！</string>
+    <string name="sport_coming_soon">C\'est en cours, alors restez branchés !</string>
     <string name="lab_factory_item_group_others">Autre</string>
     <string name="lab_factory_item_group_social">SOCIAL</string>
     <string name="lab_factory_item_group_sport">ACTIVITÉS</string>
@@ -436,7 +436,7 @@ Il faut garder le rythme"</string>
     <string name="notify_status_motor_shut_down">Mi-Band est en cours d\'arrêt...</string>
     <string name="notify_status_motor_smart_alarm">Alarme intelligente sonne...</string>
     <string name="notify_status_motor_test">Analyse...</string>
-    <string name="vibrate_notify">Afficher les notifications visuelles</string>
+    <string name="vibrate_notify">Afficher les notifications</string>
     <string name="vibrate_notify_tips">Vous affichez une notification en plus de la vibration</string>
     <string name="odo">Distance totale</string>
     <string name="one_min">1 min. avant</string>
