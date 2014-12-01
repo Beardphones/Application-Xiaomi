@@ -360,7 +360,7 @@ La synchronisation sera perdue après la déconnexion."</string>
     <string name="sport_running_gps_cancel">Annuler</string>
     <string name="sport_running_settings">Paramètres</string>
     <string name="sport_running_history">Historique</string>
-    <string name="sport_running_slider_prompt">>>>Slide right to pause</string>
+    <string name="sport_running_slider_prompt">>>>Glissez vers la droite pour mettre en pause</string>
     <string name="sport_running_distance">Distance</string>
     <string name="sport_running_average_speed">Moyenne</string>
     <string name="sport_running_step">Pas</string>
@@ -682,13 +682,13 @@ Seule la version d\'Android 4.4 ou supérieure est prise en charge par le Mi-Ban
     <string name="unlock_screen_miui_version_low">Votre version de MIUI n\'est pas supporté par le Mi-Band, veuillez mettre à jour votre version.</string>
     <string name="unlock_screen_modify_unlock">"Si vous voulez effectuer un changement
 ouvrir Réglages->Sécurité."</string>
-    <string name="unlock_for_smartlock_tip">使用手环解锁需要小米手环APP一直在后台运行</string>
-    <string name="unlock_for_smartlock_tip_step1">第一步:进入 <b>系统设置</b> - <b>安全</b></string>
-    <string name="unlock_for_smartlock_tip_step2">第二步:设置 <b>屏幕锁定方式</b> 为图案、PIN码或者密码</string>
-    <string name="unlock_for_smartlock_tip_step3">第三步:点击 <b>Smart Lock</b> 设置使用手环解锁</string>
-    <string name="unlock_for_smartlock_pair_start_tip">正在配对手环，请稍后...</string>
-    <string name="unlock_for_smartlock_pair_success_tip">配对手环成功，请设置Smart Lock</string>
-    <string name="unlock_for_smartlock_pair_fail_tip">配对手环失败，请重试</string>
+    <string name="unlock_for_smartlock_tip">Utilisez le Mi-Band pour débloquer l\'application en cours d'exécution en arrière-plan</string>
+    <string name="unlock_for_smartlock_tip_step1">Première étape: Aller à dans <b> Paramètres système </ b> - <b> Sécurité</b></string>
+    <string name="unlock_for_smartlock_tip_step2">Deuxième étape: Définir le <b> mode de verrouillage de l'écran </ b> avec un schéma, un code PIN ou mot de passe</string>
+    <string name="unlock_for_smartlock_tip_step3">Étape 3: Cliquez sur <b> Smart Lock </ b> déverrouillage utilisant le bracelet</string>
+    <string name="unlock_for_smartlock_pair_start_tip">Appairage en cours, s\'il vous plaît patientez ...</string>
+    <string name="unlock_for_smartlock_pair_success_tip">Succès de l'appairage, Smart Lock disponible</string>
+    <string name="unlock_for_smartlock_pair_fail_tip">Echec de l\'appairage, s\'il vous plaît patientez </string>
     <string name="unlock_screen_not_connect">Veuillez appairer un Mi-Band avant de régler le déverrouillage de l\'écran.</string>
     <string name="unlock_screen_set_password">Étape 1: Définir votre mot de passe.</string>
     <string name="unlock_screen_set_password_tips_has_set">Le mot de passe de l\'écran de verrouillage a été correctement configuré.</string>
